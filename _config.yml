@@ -1,8 +1,8 @@
-title: Your Title
+title: BSides Kraków
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
+  Security BSides Kraków
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+url: "https://www.bsideskrakow.pl" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
@@ -12,8 +12,8 @@ facebook:
 logo: "../css/2016_style/img/icon-large.png"
 
 social: 
-  name: Your Facebook Page
-  link: "https://www.facebook.com/"
+  name: Facebook Page
+  link: "https://www.facebook.com/bsideskrakow"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
@@ -26,9 +26,9 @@ plugins:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://www.facebook.com
+    url: https://www.facebook.com/bsideskrakow
   - title: twitter
-    url: https://twitter.com
+    url: https://twitter.com/bsideskrakow
 
 # Build settings
 markdown: kramdown
