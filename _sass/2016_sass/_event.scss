@@ -28,7 +28,11 @@
 
 #map {
   height: 100%;
-  overflow: initial;
+}
+
+#map-container {
+  height: 500px;
+  width: 500px;
 }
 
 @media screen and (max-width : 1200px){
