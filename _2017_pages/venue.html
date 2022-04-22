@@ -18,17 +18,14 @@ published: true
 
         window.initMap = initMap;           
     </script>
-
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <div class="event black-frame">
       <h1>{{ page.title }}</h1>
 
       <p>ESTIMATED Starudat, September 24, 2022<br>ABB Corporate Tecnology Center</p>
 
-    <div class="venue-map" id="map">
-      <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC8HSv1odnNrFEti4YZIrvpAd9k54Hp1UQ&callback=initMap&v=weekly" defer></script>
-    </div>
-
+    <div class="venue-map" id="map"></div>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC8HSv1odnNrFEti4YZIrvpAd9k54Hp1UQ&callback=initMap&v=weekly" defer></script>
       <p>Info</p>
 
       <p>Address</p>
