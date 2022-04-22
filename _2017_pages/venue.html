@@ -15,7 +15,9 @@ published: true
       <p>Date<br>Venue</p>
 
     <div class="venue-map">
-      <iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJV7HAgRNbFkcRBkCZczoj9-8&key=AIzaSyC8HSv1odnNrFEti4YZIrvpAd9k54Hp1UQ"></iframe>
+      <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+      <div id="map"></div>
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC8HSv1odnNrFEti4YZIrvpAd9k54Hp1UQ&callback=initMap&v=weekly" defer></script>
     </div>
 
       <p>Info</p>
