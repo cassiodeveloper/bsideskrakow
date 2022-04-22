@@ -7,7 +7,7 @@ published: true
     <!--background color-->
     <script type="text/javascript">
         document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
-          let map;
+        let map;
 
         function initMap() {
           map = new google.maps.Map(document.getElementById("map"), {
@@ -20,12 +20,12 @@ published: true
     </script>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <div class="event black-frame">
+      
       <h1>{{ page.title }}</h1>
 
       <p>ESTIMATED Starudat, September 24, 2022<br>ABB Corporate Tecnology Center</p>
-      <div class="venue-map">
-        <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyC8HSv1odnNrFEti4YZIrvpAd9k54Hp1UQ&q=Space+Needle,Seattle+WA" frameborder="0" style="border:0" allowfullscreen></iframe>
-      </div>
+      <div class="venue-map" id="map"></div>
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC8HSv1odnNrFEti4YZIrvpAd9k54Hp1UQ&callback=initMap&v=weekly" defer></script>
 
       <p>Info</p>
 
