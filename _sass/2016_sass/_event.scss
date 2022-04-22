@@ -26,6 +26,10 @@
   }
 }
 
+#map {
+  height: 100%;
+}
+
 @media screen and (max-width : 1200px){
   .event {
       margin: 100px 15vw 60px 15vw;
@@ -34,9 +38,9 @@
 
 @media screen and (max-width : 760px){
   .venue-map {
-    iframe {
-      height: 45vh;
-    }
+    // iframe {
+    //   height: 45vh;
+    // }
   }
   .event {
       margin: 80px 10px 10px 10px;

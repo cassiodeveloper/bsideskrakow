@@ -14,10 +14,10 @@
 }
 
 .venue-map {
-  iframe {
-    height: 60vh;
-    width: 100%;
-  }
+  // iframe {
+  //   height: 60vh;
+  //   width: 100%;
+  // }
 }
 
 .icon-about img {
@@ -29,8 +29,8 @@
 
 @media screen and (max-width : 760px){
   .venue-map {
-    iframe {
-      height: 45vh;
-    }
+    // iframe {
+    //   height: 45vh;
+    // }
   }
 }
