@@ -8,7 +8,8 @@ published: true
     <script type="text/javascript">
         document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
         let map;
-        const myLatLng = { lat: 50.0574689, lng: 19.9429343 };
+        const myLatLng = { lat: 50.0573167, lng: 19.9432709 };
+
         function initMap() {
           const map = new google.maps.Map(document.getElementById("map"), {
             zoom: 16,
@@ -26,17 +27,15 @@ published: true
     </script>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <div class="event black-frame">
-      
       <h1>{{ page.title }}</h1>
-
-      <p>ESTIMATED Saturday, September 24, 2022<br></p>
+      <ul>
+        <li>ESTIMATED Saturday, September 24, 2022</li>
+        <li>From 9h to 17h</li>
+        <li><a target="blank" href="https://www.google.com.br/maps/place/ABB+Corporate+Research+Center/@50.0576567,19.942514,18.5z/data=!4m5!3m4!1s0x47165b1381c0b157:0xeff7233a73994006!8m2!3d50.0577421!4d19.9426598">Starowiślna 13A, 31-038 Kraków</a></li>
+        <li><a target="blank" href="https://www.google.com.br/maps/place/ABB+Corporate+Research+Center/@50.0576567,19.942514,18.5z/data=!4m5!3m4!1s0x47165b1381c0b157:0xeff7233a73994006!8m2!3d50.0577421!4d19.9426598">ABB Corporate Tecnology Center</a></li>
+      </ul>
       <div id="map-container">
         <div class="venue-map" id="map"></div>
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC8HSv1odnNrFEti4YZIrvpAd9k54Hp1UQ&callback=initMap&v=weekly" defer></script>
       </div>
-      <p>From 9h to 17h</p>
-
-      <p>Starowiślna 13A, 31-038 Kraków</p>
-
-      <p>ABB Corporate Tecnology Center</p>
     </div>
