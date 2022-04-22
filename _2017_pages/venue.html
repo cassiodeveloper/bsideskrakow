@@ -15,7 +15,18 @@ published: true
       <p>Date<br>Venue</p>
 
     <div class="venue-map">
-      <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+      <script src="https://polyfill.io/v3/polyfill.min.js?features=default">
+        let map;
+
+        function initMap() {
+          map = new google.maps.Map(document.getElementById("map"), {
+            center: { lat: -34.397, lng: 150.644 },
+            zoom: 8,
+          });
+        }
+
+        window.initMap = initMap;        
+      </script>
       <div id="map"></div>
       <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC8HSv1odnNrFEti4YZIrvpAd9k54Hp1UQ&callback=initMap&v=weekly" defer></script>
     </div>
