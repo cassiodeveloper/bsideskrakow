@@ -1,11 +1,11 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Cassio Pereira
+  name: Cassio Pereira
+  subtitle: Cyber Security Enginner
+  img: cassio.jpeg
+  thumbnail: cassio.jpeg
+  alt: Cassio Pereira
+  topic: Application Security
+  description: Cassio Batista Pereira, a.k.a. @cassiodeveloper, is a Software Developer and Architect by training. He acts as Cyber Security Engineer and thus helps companies and professionals to build more secure solutions. He has 19 years of experience in the Development market for the most varied business segments, where he gained knowledge to work with different technologies, programming languages and processes. He is an evangelist for the Safe Development culture.
 
 - title: Name
   name: Name-2
