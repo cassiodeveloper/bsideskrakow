@@ -1,6 +1,6 @@
 - inverted: 
   img: icon-about.jpeg
-  name: Theme, Vision, Mission
+  name: Theme, History, Mission
   info: Read more about our goals
   link: /about
 
@@ -28,8 +28,8 @@
   info: Have a Question? Many answers can be found right here in our FAQs
   link: /faqs
 
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet
+# - inverted: timeline-inverted
+#   img: booklet-icon.png
+#   name: Event Booklet
+#   info: View or Download our event booklet
+#   link: /booklet
