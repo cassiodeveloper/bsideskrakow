@@ -1,5 +1,17 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 09:00 AM - 09:30 AM
+  info: "<u>Check-in</u><br><b>Reception of participants</b><br><i>Position</i><br><br>Topic"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 09:30 PM - 10:00 AM
+  info: "<u>Opening</u><br><b>Cassio Pereira</b><br><i>Cyber Security Engineer</i><br><br>1st BSides Kraków"
+
+- time: 10:00 PM - 11:00 AM
+  info: "<u>TBD</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
+
+- time: 11:00 PM - 12:00 AM
+  info: "<u>TBD</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
+
+- time: 12:00 AM - 13:00 PM
+  info: "<u>TBD</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
+
+- time: 13:00 PM - 14:00 PM
+  info: "<u>Lunch break</u><br>"
