@@ -28,8 +28,8 @@
   info: Have a Question? Many answers can be found right here in our FAQs
   link: /faqs
 
-# - inverted: timeline-inverted
-#   img: booklet-icon.png
-#   name: Event Booklet
-#   info: View or Download our event booklet
-#   link: /booklet
+- inverted: timeline-inverted
+  img: booklet-icon.png
+  name: Sponsor
+  info: See how to sponsor
+  link: /#
