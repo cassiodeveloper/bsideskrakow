@@ -14,4 +14,13 @@
   info: "<u>TBD</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
 
 - time: 13:00 PM - 14:00 PM
-  info: "<u>Lunch break</u><br>"
+  info: "<u>Lunch break</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
+
+- time: 14:00 PM - 15:00 AM
+  info: "<u>TBD</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
+
+- time: 15:00 PM - 16:00 AM
+  info: "<u>TBD</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
+
+- time: 16:00 AM - 17:00 PM
+  info: "<u>Closing</u><br><b>Cassio Pereira</b><br><i>Cyber Security Engineer</i><br><br>1st BSides Kraków"
