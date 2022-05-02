@@ -33,3 +33,15 @@
   name: Sponsor
   info: See how to sponsor
   link: /#
+
+- inverted: timeline-inverted
+  img: booklet-icon.png
+  name: CFP
+  info: See how to submit your talk
+  link: /#
+
+- inverted: timeline-inverted
+  img: booklet-icon.png
+  name: Volunteer
+  info: See how to apply to volunteer
+  link: /#
