@@ -1,32 +1,32 @@
 - time: 09:00 AM - 09:30 AM
-  info: "<u>Check-in</u><br><b>Reception of participants</b><br><i>Bring your QR Code ticket on App!</i>"
+  info: "<u>Check-in (Reception)</u><br><b>Reception of participants</b><br><i>Bring your QR Code ticket on App!</i>"
 
 - time: 09:30 PM - 10:00 AM
-  info: "<u>Opening</u><br><b>Cassio Pereira</b><br><i>Cyber Security Engineer</i><br><br>1st BSides Kraków, why?"
+  info: "<u>Opening (Main room)</u><br><b>Cassio Pereira</b><br><i>Cyber Security Engineer</i><br><br>1st BSides Kraków, why?"
 
 - time: 10:00 PM - 11:00 AM
-  info: "<u>TBD</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
+  info: "<u>TBD (Main room)</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
 
 - time: 11:00 PM - 11:15 AM
-  info: "<u>Quick break</u><br><b>Grab a coffee or a water, go to toilet and come back!</b>"
+  info: "<u>Quick break (Ground floor)</u><br><b>Grab a coffee or a water, go to toilet and come back!</b>"
 
 - time: 11:15 PM - 12:00 AM
-  info: "<u>TBD</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
+  info: "<u>TBD (Main room)</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
 
 - time: 12:00 AM - 13:00 PM
-  info: "<u>TBD</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
+  info: "<u>TBD (Main room)</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
 
 - time: 13:00 PM - 14:00 PM
-  info: "<u>Lunch break</u><br><b>Included! (For free)</b><br><i>on the terrace, 5th floor</i>"
+  info: "<u>Lunch break (5th floor)</u><br><b>Included! (For free)</b><br><i>on the terrace, 5th floor</i>"
 
 - time: 14:00 PM - 15:00 AM
-  info: "<u>TBD</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
+  info: "<u>TBD (Main room)</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
 
 - time: 15:00 PM - 16:00 AM
-  info: "<u>TBD</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
+  info: "<u>TBD (Main room)</u><br><b>TBD</b><br><i>TBD</i><br><br>TBD"
 
 - time: 16:00 PM - 16:15 AM
-  info: "<u>Quick break</u><br><b>Grab a coffee or a water, go to toilet and come back!</b>"
+  info: "<u>Quick break (Ground floor)</u><br><b>Grab a coffee or a water, go to toilet and come back!</b>"
 
 - time: 16:15 AM - 17:00 PM
-  info: "<u>Closing, giveaway and gifts</u><br><b>Cassio Pereira</b><br><i>Cyber Security Engineer</i><br><br>1st BSides Kraków, thank you!"
+  info: "<u>Closing, giveaway and gifts (Main room)</u><br><b>Cassio Pereira</b><br><i>Cyber Security Engineer</i><br><br>1st BSides Kraków, thank you!"
