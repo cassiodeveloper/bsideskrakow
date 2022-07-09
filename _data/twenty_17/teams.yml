@@ -24,3 +24,21 @@
   alt: Fernando
   topic: Topic
   description: Cyber Security professional, open-source and free software enthusiast with over a decade in the IT industry. Helping people and companies around the world protect their privacy and business.
+
+- title: Alex Sveleba
+  name: Alex-Sveleba
+  subtitle: Offensive cybersecurity | Pentesting & Application Security
+  img: alex.jpg
+  thumbnail: alex.jpg
+  alt: Alex
+  topic: Offensive cybersecurity | Pentesting & Application Security
+  description: I find it extremely rewarding and satisfactory to connect the right people, professionals, and companies with each other so we can cover their needs, solve problems and create solutions
+
+- title: Markiyan Chaklosh
+  name: Markiyan-Chaklosh
+  subtitle: Penetration Tester
+  img: markiyan.jpg
+  thumbnail: markiyan.jpg
+  alt: Markiyan
+  topic: Pentest
+  description: Cyber Security professional, open-source and free software enthusiast with over a decade in the IT industry. Helping people and companies around the world protect their privacy and business.    
