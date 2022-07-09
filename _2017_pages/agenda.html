@@ -16,6 +16,7 @@ published: true
         <table class="agenda">
             <thead>
                 <tr>
+                    <th class="row-1 agenda-time"><center>ID</center></th>
                     <th class="row-1 agenda-time"><center>Time</center></th>
                     <th class="row-2 agenda-activity"><center>Talk</center></th>  
                 </tr>
@@ -23,6 +24,7 @@ published: true
 
             {% for agenda in site.data.twenty_17.agendas_1 %}
                 <tr>
+                    <td>{{ agenda.id }}</td>
                     <td>{{ agenda.time }}</td>
                     <td>{{ agenda.info }}</td>
                 </tr> 
