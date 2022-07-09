@@ -10,6 +10,9 @@
     text-overflow: ellipsis;
   }
   /* Column widths are based on these cells */
+  .agenda-id {
+    width: 10%;
+  }
   .agenda-time {
     width: 40%;
   }
@@ -46,6 +49,9 @@
     .agenda {
         .agenda-time {
             width: 40%;
+        }
+        .agenda-id {
+          width: 10%;
         }
         .agenda-actiity {
             width: 60%;
