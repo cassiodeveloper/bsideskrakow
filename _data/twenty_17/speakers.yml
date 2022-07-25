@@ -65,3 +65,12 @@
   topic: TOR Network
   description: My name is Rener Alberto and I have 13 years of experience in Cyber Security with focus on Penetration Testing. I'm a CTF player, pentester, researcher and speaker on cyber security related events.  
   twitter: Gr1nchDC  
+
+- title: Alik Koldobsky
+  name: Alik Koldobsky
+  subtitle: Security Researcher / Software Engineer
+  img: ali.jpg
+  thumbnail: ali.jpg
+  alt: GAlik Koldobskyr1nch
+  topic: Supply Chain Attack
+  description: Alik is a security researcher and software engineer at Checkmarx supply chain security group, leading the development of behavior analysis engine of code packages. Prior to that, Alik worked as an offensive security researcher, both in his military service and the private sector.

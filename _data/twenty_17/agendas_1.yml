@@ -13,6 +13,11 @@
   id: 3
   column: 1
 
+- time: 10:00 AM - 11:00 AM
+  info: "<u>The Simple, Yet Lethal, Anatomy of a Software Supply Chain Attack</u><br><b>Alik Koldobsky</b><br><i>Security Researcher / Software Engineer</i><br><br>Supply Chain Attack"
+  id: 3
+  column: 2
+
 - time: 11:00 AM - 11:15 AM
   info: "<u>Quick break (Ground floor)</u><br><b>Grab a coffee or a water, go to toilet and come back!</b>"
   id: 4
