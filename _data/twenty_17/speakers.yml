@@ -67,7 +67,7 @@
   twitter: Gr1nchDC  
 
 - title: Alik Koldobsky
-  name: Alik Koldobsky
+  name: Alik-Koldobsky
   subtitle: Security Researcher / Software Engineer
   img: ali.jpg
   thumbnail: ali.jpg
@@ -76,7 +76,7 @@
   description: Alik is a security researcher and software engineer at Checkmarx supply chain security group, leading the development of behavior analysis engine of code packages. Prior to that, Alik worked as an offensive security researcher, both in his military service and the private sector.
 
 - title: Marcin Niemiec
-  name: Marcin Niemiec
+  name: Marcin-Niemiec
   subtitle: Security Researcher / Software Engineer
   img: marcin.png
   thumbnail: marcin.png
@@ -84,4 +84,3 @@
   topic: Kubernetes Security
   description: Marcin is Lead Security System Engineer in EPAM. He has experience in Application Security, running S-SDLC programs, and Cloud Security.
   twitter: xvnpw
-  
