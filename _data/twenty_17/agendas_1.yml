@@ -33,6 +33,11 @@
   id: 6
   column: 1
 
+- time: 12:00 AM - 01:00 PM
+  info: "<u>Bypassing external authentication in Kubernetes ingress controller</u><br><b>Marcin Niemiec</b><br><i>Security System Engineer</i><br><br>Kubernetes Security"
+  id: 6
+  column: 2
+
 - time: 01:00 PM - 02:00 PM
   info: "<u>Lunch break (5th floor)</u><br><b>Included! (For free)</b><br><i>on the terrace, 5th floor</i>"
   id: 7
