@@ -38,26 +38,6 @@ published: true
             {% endfor %}
         </table>
 
-        <h2>Activities / Workshops</h2>
-        <table class="agenda">
-            <thead>
-                <tr>
-                    <th class="row-1 agenda-id"><center>ID</center></th>
-                    <th class="row-1 agenda-time"><center>Time</center></th>
-                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
-                </tr>
-
-            </thead>
-
-            {% for agenda in site.data.twenty_17.agendas_2 %}
-                <tr>
-                    <td>{{ agenda.id }}</td>
-                    <td>{{ agenda.time }}</td>
-                    <td>{{ agenda.info }}</td>
-                </tr> 
-            {% endfor %}
-        </table>
-
         <h2>The after party</h2>
         <table class="agenda">
             <thead>
