@@ -10,13 +10,14 @@
 
 - time: 10:00 AM - 11:00 AM
   info: "<u>Nothing To Hide: Privacy-Preserving Cryptographic Authentication In Practice (Main room)</u><br><b>Abdullah Joseph</b><br><i>Software Engineer</i><br><br>Cryptography"
+  info2: "<u>The Simple, Yet Lethal, Anatomy of a Software Supply Chain Attack</u><br><b>Alik Koldobsky</b><br><i>Security Researcher / Software Engineer</i><br><br>Supply Chain Attack"
   id: 3
   column: 1
 
-- time: 10:00 AM - 11:00 AM
-  info: "<u>The Simple, Yet Lethal, Anatomy of a Software Supply Chain Attack</u><br><b>Alik Koldobsky</b><br><i>Security Researcher / Software Engineer</i><br><br>Supply Chain Attack"
-  id: 3
-  column: 2
+# - time: 10:00 AM - 11:00 AM
+#   info: "<u>The Simple, Yet Lethal, Anatomy of a Software Supply Chain Attack</u><br><b>Alik Koldobsky</b><br><i>Security Researcher / Software Engineer</i><br><br>Supply Chain Attack"
+#   id: 3
+#   column: 2
 
 - time: 11:00 AM - 11:15 AM
   info: "<u>Quick break (Ground floor)</u><br><b>Grab a coffee or a water, go to toilet and come back!</b>"
@@ -30,13 +31,14 @@
 
 - time: 12:00 AM - 01:00 PM
   info: "<u>Spies, Saboteurs & Scoundrels: How Russia, China & Nefarious Actors Are Hacking IoT, OT & Network Devices (Main room)</u><br><b>Brian Contos</b><br><i>Chief Security Officer</i><br><br>IoT Security"
+  info2: "<u>Bypassing external authentication in Kubernetes ingress controller</u><br><b>Marcin Niemiec</b><br><i>Security System Engineer</i><br><br>Kubernetes Security"
   id: 6
   column: 1
 
-- time: 12:00 AM - 01:00 PM
-  info: "<u>Bypassing external authentication in Kubernetes ingress controller</u><br><b>Marcin Niemiec</b><br><i>Security System Engineer</i><br><br>Kubernetes Security"
-  id: 6
-  column: 2
+# - time: 12:00 AM - 01:00 PM
+#   info: "<u>Bypassing external authentication in Kubernetes ingress controller</u><br><b>Marcin Niemiec</b><br><i>Security System Engineer</i><br><br>Kubernetes Security"
+#   id: 6
+#   column: 2
 
 - time: 01:00 PM - 02:00 PM
   info: "<u>Lunch break (5th floor)</u><br><b>Included! (For free)</b><br><i>on the terrace, 5th floor</i>"
