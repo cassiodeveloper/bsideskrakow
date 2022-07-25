@@ -27,12 +27,12 @@ published: true
                 <tr>
                     <td>{{ agenda.id }}</td>
                     <td>{{ agenda.time }}</td>
-                    {% if agenda.column == 1 %}
+                    {% if agenda.info2 %}
+                        <td>-</td>
+                        <td>{{ agenda.info2 }}</td>    
+                    {% else %}
                         <td>{{agenda.info}}</td>
                         <td>-</td>
-                    {% else %}
-                        <td>-</td>
-                        <td>{{ agenda.info }}</td>
                     {% endif %}
                 </tr> 
             {% endfor %}
