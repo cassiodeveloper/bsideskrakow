@@ -75,6 +75,16 @@
   topic: Supply Chain Attack
   description: Alik is a security researcher and software engineer at Checkmarx supply chain security group, leading the development of behavior analysis engine of code packages. Prior to that, Alik worked as an offensive security researcher, both in his military service and the private sector.
 
+- title: Tal Folkman
+  name: Tal-Folkman
+  subtitle: Security Researcher
+  img: tal.jpeg
+  thumbnail: tal.jpeg
+  alt: Tal Folkman
+  topic: Supply Chain Attack
+  description: Tal brings over 6 years of experience to her role as a principal supply chain security research within Checkmarx Supply Chain Security group. She is in charge of detecting tracking and stopping Opensource attacks.
+  twitter: TalFolkman
+
 - title: Marcin Niemiec
   name: Marcin-Niemiec
   subtitle: Security Researcher / Software Engineer
