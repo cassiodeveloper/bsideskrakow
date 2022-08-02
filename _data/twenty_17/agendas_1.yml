@@ -40,12 +40,12 @@
 
 - time: 04:00 PM - 04:20 PM
   info: "<u>Quick break (Ground floor)</u><br><b>Grab a coffee or a water, go to toilet and come back!</b>"
-  info2: "<u>Challenge the robot in interactive games (Session 1) (AI & Robotics Lab) PICTURES / VIDEOS NOT ALLOWED!</u><br><b>Damian Miesowicz</b><i>Scientist - Robotics R&D Engineer</i>"
+  info2: "<u>Challenge the robot in interactive games (Session 1) (AI & Robotics Lab) PICTURES / VIDEOS NOT ALLOWED!</u><br><b>Damian Miesowicz</b><br><br><i>Scientist - Robotics R&D Engineer</i>"
   id: 10
 
 - time: 04:20 PM - 04:40 PM
   info: "<u>Lighting talks</u><br><b>You'll have 5 minutes to talk about some project, idea, tool or whatever you want regarding infosec. Get ready!</b>"
-  info2: "<u>Challenge the robot in interactive games (Session 2) (AI & Robotics Lab) PICTURES / VIDEOS NOT ALLOWED!</u><br><b>Damian Miesowicz</b><i>Scientist - Robotics R&D Engineer</i>"
+  info2: "<u>Challenge the robot in interactive games (Session 2) (AI & Robotics Lab) PICTURES / VIDEOS NOT ALLOWED!</u><br><b>Damian Miesowicz</b><br><br><i>Scientist - Robotics R&D Engineer</i>"
   id: 11
 
 - time: 04:40 PM - 05:00 PM
