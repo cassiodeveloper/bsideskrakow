@@ -27,6 +27,16 @@
   description: Brian has worked in over 50 countries across six continents. He authored the book Enemy at the Water Cooler and he co-authored Physical & Logical Security Convergence with former NSA Deputy Director William Crowell. He was featured in the cyberwar documentary 5 Eyes alongside General Michael Hayden, former NSA, and CIA Director. Brian has written for and been interviewed by security and business press and regularly presents at conferences worldwide like Black Hat, RSA, & BSides.
   twitter: BrianContos
 
+- title: Gr1nch
+  name: Gr1nch
+  subtitle: Pentester
+  img: rener.jpg
+  thumbnail: rener.jpg
+  alt: Gr1nch
+  topic: TOR Network
+  description: My name is Rener Alberto and I have 13 years of experience in Cyber Security with focus on Penetration Testing. I'm a CTF player, pentester, researcher and speaker on cyber security related events.  
+  twitter: Gr1nchDC  
+
 - title: Alik Koldobsky
   name: Alik-Koldobsky
   subtitle: Security Researcher / Software Engineer
@@ -73,16 +83,6 @@
   topic: Infrastructure as Code Security
   description: DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker. My focus is on CALMS. I am building better understanding of DevOps as driver for the organization. And currently I am leading the DevOps and Cloud Academy at EPAM Systems Poland, where we are shaping new engineers to be professionals. I am devoted to Serverless and CI/CD.
   twitter: pawelpiwosz
-
-- title: Gr1nch
-  name: Gr1nch
-  subtitle: Pentester
-  img: rener.jpg
-  thumbnail: rener.jpg
-  alt: Gr1nch
-  topic: TOR Network
-  description: My name is Rener Alberto and I have 13 years of experience in Cyber Security with focus on Penetration Testing. I'm a CTF player, pentester, researcher and speaker on cyber security related events.  
-  twitter: Gr1nchDC  
 
 - title: Marcin Niemiec
   name: Marcin-Niemiec
