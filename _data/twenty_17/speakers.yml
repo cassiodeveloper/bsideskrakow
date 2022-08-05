@@ -27,6 +27,15 @@
   description: Brian has worked in over 50 countries across six continents. He authored the book Enemy at the Water Cooler and he co-authored Physical & Logical Security Convergence with former NSA Deputy Director William Crowell. He was featured in the cyberwar documentary 5 Eyes alongside General Michael Hayden, former NSA, and CIA Director. Brian has written for and been interviewed by security and business press and regularly presents at conferences worldwide like Black Hat, RSA, & BSides.
   twitter: BrianContos
 
+- title: Alik Koldobsky
+  name: Alik-Koldobsky
+  subtitle: Security Researcher / Software Engineer
+  img: ali.jpg
+  thumbnail: ali.jpg
+  alt: Alik Koldobsky
+  topic: Supply Chain Attack
+  description: Alik is a security researcher and software engineer at Checkmarx supply chain security group, leading the development of behavior analysis engine of code packages. Prior to that, Alik worked as an offensive security researcher, both in his military service and the private sector.
+
 - title: Rafaela Durlo
   name: Rafaela-Durlo
   subtitle: Application Security Leader
@@ -74,15 +83,6 @@
   topic: TOR Network
   description: My name is Rener Alberto and I have 13 years of experience in Cyber Security with focus on Penetration Testing. I'm a CTF player, pentester, researcher and speaker on cyber security related events.  
   twitter: Gr1nchDC  
-
-- title: Alik Koldobsky
-  name: Alik-Koldobsky
-  subtitle: Security Researcher / Software Engineer
-  img: ali.jpg
-  thumbnail: ali.jpg
-  alt: Alik Koldobsky
-  topic: Supply Chain Attack
-  description: Alik is a security researcher and software engineer at Checkmarx supply chain security group, leading the development of behavior analysis engine of code packages. Prior to that, Alik worked as an offensive security researcher, both in his military service and the private sector.
 
 - title: Marcin Niemiec
   name: Marcin-Niemiec
