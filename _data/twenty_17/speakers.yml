@@ -17,14 +17,15 @@
   topic: SAST, SCA, DAST
   description: Application Security Analyst with a focus on DevSecOps methodology to encourage Shift Left/ secure code culture in the software development life cycle.
 
-- title: Damian Miesowicz
-  name: Damian-Miesowicz
-  subtitle: Scientist - Robotics R&D Engineer
-  img: damian.png
-  thumbnail: damian.png
-  alt: Damian Miesowicz
-  topic: Robotics
-  description: Damian is a Robotics R&D Engineer, Scientist and Simulation Specialist in the field of automation of manufacturing processes. He develops concepts of robotized industrial stations, prepares simulations of production processes and builds show stations with robots.
+- title: Brian Contos
+  name: Brian-Contos
+  subtitle: Chief Security Officer
+  img: brian.jpg
+  thumbnail: brian.jpg
+  alt: Brian Contos
+  topic: IoT Security
+  description: Brian has worked in over 50 countries across six continents. He authored the book Enemy at the Water Cooler and he co-authored Physical & Logical Security Convergence with former NSA Deputy Director William Crowell. He was featured in the cyberwar documentary 5 Eyes alongside General Michael Hayden, former NSA, and CIA Director. Brian has written for and been interviewed by security and business press and regularly presents at conferences worldwide like Black Hat, RSA, & BSides.
+  twitter: BrianContos
 
 - title: Rafaela Durlo
   name: Rafaela-Durlo
@@ -45,15 +46,14 @@
   description: Abdullah Joseph is a software engineer with a special interest in security and over a decade of experience. He worked as the mobile security team lead of Adjust, providing a secure mobile analytics service to clients around the globe, while overseeing the security of the company's open-source libraries integrated in over 25,000 mobile apps, totalling over 400+ billion data points and 25 petabytes of traffic per month.
   twitter: malwarecheese
 
-- title: Brian Contos
-  name: Brian-Contos
-  subtitle: Chief Security Officer
-  img: brian.jpg
-  thumbnail: brian.jpg
-  alt: Brian Contos
-  topic: IoT Security
-  description: Brian has worked in over 50 countries across six continents. He authored the book Enemy at the Water Cooler and he co-authored Physical & Logical Security Convergence with former NSA Deputy Director William Crowell. He was featured in the cyberwar documentary 5 Eyes alongside General Michael Hayden, former NSA, and CIA Director. Brian has written for and been interviewed by security and business press and regularly presents at conferences worldwide like Black Hat, RSA, & BSides.
-  twitter: BrianContos
+- title: Damian Miesowicz
+  name: Damian-Miesowicz
+  subtitle: Scientist - Robotics R&D Engineer
+  img: damian.png
+  thumbnail: damian.png
+  alt: Damian Miesowicz
+  topic: Robotics
+  description: Damian is a Robotics R&D Engineer, Scientist and Simulation Specialist in the field of automation of manufacturing processes. He develops concepts of robotized industrial stations, prepares simulations of production processes and builds show stations with robots.
 
 - title: Pawel Piwosz
   name: Pawel-Piwosz
