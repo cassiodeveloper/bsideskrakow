@@ -103,3 +103,23 @@
   topic: Supply Chain Attack
   description: Tal brings over 6 years of experience to her role as a principal supply chain security research within Checkmarx Supply Chain Security group. She is in charge of detecting tracking and stopping Opensource attacks.
   twitter: TalFolkman
+
+- title: Rafal Golebiowski
+  name: Rafal-Golebiowski
+  subtitle: Cybersecurity Assurance Center Manager
+  img: hacker.png
+  thumbnail: hacker.png
+  alt: Rafal Golebiowski
+  topic: Offensive Security
+  description: ...
+  twitter: 
+
+- title: Laszlo Molnar
+  name: Laszlo-Molnar
+  subtitle: Chief Pentester in Cybersecurity Assurance Center
+  img: hacker.png
+  thumbnail: hacker.png
+  alt: Laszlo Molnar
+  topic: Offensive Security
+  description: Laszlo Molnar is a Chief Pentester in Cybersecurity Assurance Center at Hitachi Energy. He is also OSCP and OSCE holder. In free time he is chess player.
+  twitter: 
