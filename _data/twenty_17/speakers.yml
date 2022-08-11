@@ -84,26 +84,6 @@
   topic: SAST, SCA, DAST
   description: AppSec enginner helping companies have a sucefull build secure process, optimizing the AST tools and training securoty Champions and developers.
 
-- title: Marcin Niemiec
-  name: Marcin-Niemiec
-  subtitle: Security Researcher / Software Engineer
-  img: marcin.png
-  thumbnail: marcin.png
-  alt: Marcin Niemiec
-  topic: Kubernetes Security
-  description: Marcin is Lead Security System Engineer in EPAM. He has experience in Application Security, running S-SDLC programs, and Cloud Security.
-  twitter: xvnpw
-
-- title: Tal Folkman
-  name: Tal-Folkman
-  subtitle: Security Researcher
-  img: tal.jpeg
-  thumbnail: tal.jpeg
-  alt: Tal Folkman
-  topic: Supply Chain Attack
-  description: Tal brings over 6 years of experience to her role as a principal supply chain security research within Checkmarx Supply Chain Security group. She is in charge of detecting tracking and stopping Opensource attacks.
-  twitter: TalFolkman
-
 - title: Rafal Golebiowski
   name: Rafal-Golebiowski
   subtitle: Cybersecurity Assurance Center Manager
@@ -123,3 +103,23 @@
   topic: Offensive Security
   description: Laszlo Molnar is a Chief Pentester in Cybersecurity Assurance Center at Hitachi Energy. He is also OSCP and OSCE holder. In free time he is chess player.
   twitter: 
+
+- title: Marcin Niemiec
+  name: Marcin-Niemiec
+  subtitle: Security Researcher / Software Engineer
+  img: marcin.png
+  thumbnail: marcin.png
+  alt: Marcin Niemiec
+  topic: Kubernetes Security
+  description: Marcin is Lead Security System Engineer in EPAM. He has experience in Application Security, running S-SDLC programs, and Cloud Security.
+  twitter: xvnpw
+
+- title: Tal Folkman
+  name: Tal-Folkman
+  subtitle: Security Researcher
+  img: tal.jpeg
+  thumbnail: tal.jpeg
+  alt: Tal Folkman
+  topic: Supply Chain Attack
+  description: Tal brings over 6 years of experience to her role as a principal supply chain security research within Checkmarx Supply Chain Security group. She is in charge of detecting tracking and stopping Opensource attacks.
+  twitter: TalFolkman
