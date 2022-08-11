@@ -30,6 +30,8 @@ social:
     url: https://www.facebook.com/bsideskrakow
   - title: twitter
     url: https://twitter.com/bsideskrakow
+  - title: linkedin
+    url: https://www.linkedin.com/company/bsides-krakow
 
 # Build settings
 markdown: kramdown
