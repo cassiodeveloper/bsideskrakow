@@ -6,7 +6,9 @@
     <meta name="description" content="{{ site.description }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <meta http-equiv="X-Content-Security-Policy" content="default-src 'self' '*://*.google.com:*' '*://*.googleapis.com:*'; script-src 'self' '*://*.polyfill.io:*' '*://*.maps.googleapis.com:*' '*://*.oss.maxcdn.com:*'; style-src 'self'; img-src 'self'; font-src 'self'; connect-src 'self'; media-src 'self'; object-src 'self'; child-src 'self'; frame-ancestors 'self'; form-action 'none'; sandbox allow-same-origin allow-scripts allow-pointer-lock;" />
-
+    <meta name="referrer" content="strict-origin">
+    <meta content="text/html; charset=UTF-8; X-Content-Type-Options=nosniff" http-equiv="Content-Type" />
+    
     {% seo %}
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
