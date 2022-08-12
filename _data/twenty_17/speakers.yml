@@ -56,16 +56,6 @@
   topic: Robotics
   description: Damian is a Robotics R&D Engineer, Scientist and Simulation Specialist in the field of automation of manufacturing processes. He develops concepts of robotized industrial stations, prepares simulations of production processes and builds show stations with robots.
 
-- title: Abdullah Joseph
-  name: Abdullah-Joseph
-  subtitle: Software Engineer
-  img: abdullah.jpg
-  thumbnail: abdullah.jpg
-  alt: Abdullah Joseph
-  topic: Cryptography
-  description: Abdullah Joseph is a software engineer with a special interest in security and over a decade of experience. He worked as the mobile security team lead of Adjust, providing a secure mobile analytics service to clients around the globe, while overseeing the security of the company's open-source libraries integrated in over 25,000 mobile apps, totalling over 400+ billion data points and 25 petabytes of traffic per month.
-  twitter: malwarecheese
-
 - title: Alik Koldobsky
   name: Alik-Koldobsky
   subtitle: Security Researcher / Software Engineer
@@ -74,15 +64,6 @@
   alt: Alik Koldobsky
   topic: Supply Chain Attack
   description: Alik is a security researcher and software engineer at Checkmarx supply chain security group, leading the development of behavior analysis engine of code packages. Prior to that, Alik worked as an offensive security researcher, both in his military service and the private sector.
-
-- title: Rafaela Durlo
-  name: Rafaela-Durlo
-  subtitle: Application Security Leader
-  img: rafaela.jpg
-  thumbnail: rafaela.jpg
-  alt: Rafaela Durlo
-  topic: SAST, SCA, DAST
-  description: AppSec enginner helping companies have a sucefull build secure process, optimizing the AST tools and training securoty Champions and developers.
 
 - title: Rafal Golebiowski
   name: Rafal-Golebiowski
@@ -93,6 +74,15 @@
   topic: Offensive Security
   description: ...
   twitter: 
+
+- title: Rafaela Durlo
+  name: Rafaela-Durlo
+  subtitle: Application Security Leader
+  img: rafaela.jpg
+  thumbnail: rafaela.jpg
+  alt: Rafaela Durlo
+  topic: SAST, SCA, DAST
+  description: AppSec enginner helping companies have a sucefull build secure process, optimizing the AST tools and training securoty Champions and developers.
 
 - title: Laszlo Molnar
   name: Laszlo-Molnar
@@ -113,3 +103,13 @@
   topic: Kubernetes Security
   description: Marcin is Lead Security System Engineer in EPAM. He has experience in Application Security, running S-SDLC programs, and Cloud Security.
   twitter: xvnpw
+
+- title: Abdullah Joseph
+  name: Abdullah-Joseph
+  subtitle: Software Engineer
+  img: abdullah.jpg
+  thumbnail: abdullah.jpg
+  alt: Abdullah Joseph
+  topic: Cryptography
+  description: Abdullah Joseph is a software engineer with a special interest in security and over a decade of experience. He worked as the mobile security team lead of Adjust, providing a secure mobile analytics service to clients around the globe, while overseeing the security of the company's open-source libraries integrated in over 25,000 mobile apps, totalling over 400+ billion data points and 25 petabytes of traffic per month.
+  twitter: malwarecheese
