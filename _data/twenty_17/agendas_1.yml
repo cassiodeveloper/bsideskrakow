@@ -1,14 +1,19 @@
-- time: 09:00 AM - 09:30 AM
+- time: 08:00 AM - 09:00 AM
   info: "<u>Check-in (Reception)</u><br><b>Reception of participants</b><br><i>Bring your QR Code ticket on App!</i>"
+  id: 0
+
+- time: 09:00 AM - 09:15 AM
+  info: "<u>Opening</u><br><b>Cassio Pereira</b><br><i>Cyber Security Engineer</i><br><br>1st BSides Kraków, why?"
   id: 1
 
-- time: 09:30 AM - 10:00 AM
-  info: "<u>Opening</u><br><b>Cassio Pereira</b><br><i>Cyber Security Engineer</i><br><br>1st BSides Kraków, why?"
+- time: 09:15 AM - 10:00 AM
+  info: "<u>Zero trust platform with Istio</u><br><b>Marek Szlagor</b><br><i>Security engineer</i><br><br>Zero Trust Architecture"  
+  info2: "<u>How to scan at scale with OWASP ZAP</u><br><b>Tiago Mendo</b><br><i>CTO</i><br><br>Application Security"
   id: 2
 
 - time: 10:00 AM - 11:00 AM
   info: "<u>Spies, Saboteurs & Scoundrels: How Russia, China & Nefarious Actors Are Hacking IoT, OT & Network Devices</u><br><b>Brian Contos</b><br><i>Chief Security Officer</i><br><br>IoT Security"  
-  info2: "<u>The Simple, Yet Lethal, Anatomy of a Software Supply Chain Attack</u><br><b>Alik Koldobsky + Tal Folkman</b><br><i>Security Researcher / Software Engineer</i><br><br>Supply Chain Attack"
+  info2: "<u>The Simple, Yet Lethal, Anatomy of a Software Supply Chain Attack</u><br><b>Alik Koldobsky</b><br><i>Security Researcher</i><br><br>Supply Chain Attack"
   id: 3
 
 - time: 11:00 AM - 11:15 AM
