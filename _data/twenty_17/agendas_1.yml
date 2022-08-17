@@ -3,7 +3,7 @@
   id: 0
 
 - time: 09:00 AM - 09:15 AM
-  info: "<u>Opening</u><br><b>Cassio Pereira</b><br><i>Cyber Security Engineer</i><br><br>1st BSides Kraków, why?"
+  info: "<u>Opening</u><br><b>Cassio Pereira</b><br><i>BSides Founder & Coordinator</i><br><br>1st BSides Kraków, why?"
   id: 1
 
 - time: 09:15 AM - 10:00 AM
@@ -55,5 +55,5 @@
   id: 11
 
 - time: 04:40 PM - 05:00 PM
-  info: "<u>Closing, giveaway and gifts(?)</u><br><b>Cassio Pereira</b><br><i>Cyber Security Engineer</i><br><br>1st BSides Kraków, thank you! See you in 2023 :)"
+  info: "<u>Closing, giveaway and gifts(?)</u><br><b>Cassio Pereira</b><br><i>BSides Founder & Coordinator</i><br><br>1st BSides Kraków, thank you! See you in 2023 :)"
   id: 12
