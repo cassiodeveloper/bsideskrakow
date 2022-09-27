@@ -28,20 +28,8 @@
   info: Have a Question? Many answers can be found right here in our FAQs
   link: /faqs
 
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Sponsor
-  info: See how to sponsor
-  link: https://forms.gle/oiwT7XFX7nVCinQZ9
-
 - inverted: 
   img: booklet-icon.png
-  name: CFP
-  info: See how to submit your talk
-  link: https://forms.gle/nkJ3bknNewtn6YL67
-
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Volunteer
-  info: See how to apply to volunteer
-  link: https://forms.gle/XemYEaHsFG5gFvAi9
+  name: CFF
+  info: Call for feedback, please evaluate our event
+  link: https://forms.gle/bbD4GQhhSeEq7JEw9
