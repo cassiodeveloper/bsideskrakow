@@ -1,0 +1,59 @@
+- time: 08:00 AM - 09:00 AM
+  info: "<u>Check-in (Reception)</u><br><b>Reception of participants</b><br><i>Bring your QR Code ticket on App!</i>"
+  id: 0
+
+- time: 09:00 AM - 09:15 AM
+  info: "<u>Opening</u><br><b>Cassio Pereira</b><br><i>BSides Founder & Coordinator</i><br><br>1st BSides Kraków, why?"
+  id: 1
+
+- time: 09:15 AM - 10:00 AM
+  info: "<u>Zero trust platform with Istio</u><br><b>Marek Szlagor</b><br><i>Security engineer</i><br><br>Zero Trust Architecture"  
+  info2: "<u>How to scan at scale with OWASP ZAP</u><br><b>Tiago Mendo</b><br><i>CTO</i><br><br>Application Security"
+  id: 2
+
+- time: 10:00 AM - 11:00 AM
+  info: "<u>Spies, Saboteurs & Scoundrels: How Russia, China & Nefarious Actors Are Hacking IoT, OT & Network Devices</u><br><b>Brian Contos</b><br><i>Chief Security Officer</i><br><br>IoT Security"  
+  info2: "<u>The Simple, Yet Lethal, Anatomy of a Software Supply Chain Attack</u><br><b>Alik Koldobsky</b><br><i>Security Researcher</i><br><br>Supply Chain Attack"
+  id: 3
+
+- time: 11:00 AM - 11:15 AM
+  info: "<u>Quick break (Ground floor)</u><br><b>Grab a coffee or a water, go to toilet and come back!</b>"
+  id: 4
+
+- time: 11:15 AM - 12:00 AM
+  info: "<u>Security testing for Terraform templates (IaC)</u><br><b>Pawel Piwosz</b><br><i>DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker.</i><br><br>Infrastructure as Code"
+  info2: "<u>How to implement SAST + SCA successfuly</u><br><b>Rafaela Durlo + Leticia Pimenta</b><br><i>Application Security Leader / Application Security Engineer</i><br><br>Application Security"
+  id: 5
+
+- time: 12:00 AM - 01:00 PM
+  info: "<u>Nothing To Hide: Privacy-Preserving Cryptographic Authentication In Practice</u><br><b>Abdullah Joseph</b><br><i>Software Engineer</i><br><br>Cryptography"
+  info2: "<u>Bypassing external authentication in Kubernetes ingress controller</u><br><b>Marcin Niemiec</b><br><i>Security System Engineer</i><br><br>Kubernetes Security"
+  id: 6
+
+- time: 01:00 PM - 02:00 PM
+  info: "<u>Lunch break (5th floor)</u><br><b>Included! (For free)</b><br><i>on the terrace, 5th floor</i>"
+  id: 7
+
+- time: 02:00 PM - 03:00 PM
+  info: "<u>How Iron Man's mindset help us to implement the real software security</u><br><b>Cassio Pereira</b><br><i>Cyber Security Engineer</i><br><br>Application Security, DevSecOps, SDL"
+  info2: "<u>Everyday Security vs SCADA Security</u><br><b>Rafal Golebiowski + Laszlo Molnar</b><br><i>Cybersecurity Manager / Chief Pentester</i><br><br>Offensive security"
+  id: 8
+
+- time: 03:00 PM - 04:00 PM
+  info: "<u>SPLITTER: How to difficult Correlation, Traffic-Analysis and Statistical Attacks Inside TOR Network</u><br><b>Gr1nch</b><br><i>Pentester</i><br><br>TOR Network"
+  info2: "<u>How to implement DAST successfuly</u><br><b>Rafaela Durlo + Leticia Pimenta</b><br><i>Application Security Leader / Application Security Engineer</i><br><br>Application Security"
+  id: 9
+
+- time: 04:00 PM - 04:20 PM
+  info: "<u>Quick break (Ground floor)</u><br><b>Grab a coffee or a water, go to toilet and come back!</b>"
+  info2: "<u>Challenge the robot in interactive games (Session 1) (AI & Robotics Lab) PICTURES / VIDEOS NOT ALLOWED!</u><br><b>Damian Miesowicz</b><br><br><i>Scientist - Robotics R&D Engineer</i>"
+  id: 10
+
+- time: 04:20 PM - 04:40 PM
+  info: "<u>Lighting talks</u><br><b>You'll have 5 minutes to talk about some project, idea, tool or whatever you want regarding infosec. Get ready!</b>"
+  info2: "<u>Challenge the robot in interactive games (Session 2) (AI & Robotics Lab) PICTURES / VIDEOS NOT ALLOWED!</u><br><b>Damian Miesowicz</b><br><br><i>Scientist - Robotics R&D Engineer</i>"
+  id: 11
+
+- time: 04:40 PM - 05:00 PM
+  info: "<u>Closing, giveaway and gifts(?)</u><br><b>Cassio Pereira</b><br><i>BSides Founder & Coordinator</i><br><br>1st BSides Kraków, thank you! See you in 2023 :)"
+  id: 12

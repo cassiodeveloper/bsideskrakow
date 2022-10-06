@@ -1,0 +1,134 @@
+- title: Letícia Pimenta
+  name: Letícia-Pimenta
+  subtitle: Application Security Engineer
+  img: leticia.jpeg
+  thumbnail: leticia.jpeg
+  alt: Letícia Pimenta
+  topic: SAST, SCA, DAST
+  description: Application Security Analyst with a focus on DevSecOps methodology to encourage Shift Left/ secure code culture in the software development life cycle.
+
+- title: Brian Contos
+  name: Brian-Contos
+  subtitle: Chief Security Officer
+  img: brian.jpg
+  thumbnail: brian.jpg
+  alt: Brian Contos
+  topic: IoT Security
+  description: Brian has worked in over 50 countries across six continents. He authored the book Enemy at the Water Cooler and he co-authored Physical & Logical Security Convergence with former NSA Deputy Director William Crowell. He was featured in the cyberwar documentary 5 Eyes alongside General Michael Hayden, former NSA, and CIA Director. Brian has written for and been interviewed by security and business press and regularly presents at conferences worldwide like Black Hat, RSA, & BSides.
+  twitter: BrianContos
+
+- title: Cassio Pereira
+  name: Cassio-Pereira
+  subtitle: Cyber Security Engineer
+  img: cassio.jpeg
+  thumbnail: cassio.jpeg
+  alt: Cassio Pereira
+  topic: Application Security
+  description: Cassio Batista Pereira, a.k.a. @cassiodeveloper, is a Software Developer and Architect by training. He acts as Cyber Security Engineer and thus helps companies and professionals to build more secure solutions. He has 19 years of experience in the Development market for the most varied business segments, where he gained knowledge to work with different technologies, programming languages and processes. He is an evangelist for the Safe Development culture.
+  twitter: cassiodeveloper
+
+- title: Gr1nch
+  name: Gr1nch
+  subtitle: Pentester
+  img: rener.jpg
+  thumbnail: rener.jpg
+  alt: Gr1nch
+  topic: TOR Network
+  description: My name is Rener Alberto and I have 13 years of experience in Cyber Security with focus on Penetration Testing. I'm a CTF player, pentester, researcher and speaker on cyber security related events.  
+  twitter: Gr1nchDC  
+
+- title: Pawel Piwosz
+  name: Pawel-Piwosz
+  subtitle: DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker.
+  img: pawel.png
+  thumbnail: pawel.png
+  alt: Pawel Piwosz
+  topic: Infrastructure as Code Security
+  description: DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker. My focus is on CALMS. I am building better understanding of DevOps as driver for the organization. And currently I am leading the DevOps and Cloud Academy at EPAM Systems Poland, where we are shaping new engineers to be professionals. I am devoted to Serverless and CI/CD.
+  twitter: pawelpiwosz
+
+- title: Damian Miesowicz
+  name: Damian-Miesowicz
+  subtitle: Scientist - Robotics R&D Engineer
+  img: damian.png
+  thumbnail: damian.png
+  alt: Damian Miesowicz
+  topic: Robotics
+  description: Damian is a Robotics R&D Engineer, Scientist and Simulation Specialist in the field of automation of manufacturing processes. He develops concepts of robotized industrial stations, prepares simulations of production processes and builds show stations with robots.
+
+- title: Alik Koldobsky
+  name: Alik-Koldobsky
+  subtitle: Security Researcher / Software Engineer
+  img: ali.jpg
+  thumbnail: ali.jpg
+  alt: Alik Koldobsky
+  topic: Supply Chain Attack
+  description: Alik is a security researcher and software engineer at Checkmarx supply chain security group, leading the development of behavior analysis engine of code packages. Prior to that, Alik worked as an offensive security researcher, both in his military service and the private sector.
+
+- title: Rafal Golebiowski
+  name: Rafal-Golebiowski
+  subtitle: Cybersecurity Assurance Center Manager
+  img: rafal.jfif
+  thumbnail: rafal.jfif
+  alt: Rafal Golebiowski
+  topic: Offensive Security
+  description: Experienced Cyber Security Professional with Offensive Security background. Cybersecurity Leader and Trainer.
+  twitter: 
+
+- title: Rafaela Durlo
+  name: Rafaela-Durlo
+  subtitle: Application Security Leader
+  img: rafaela.jpg
+  thumbnail: rafaela.jpg
+  alt: Rafaela Durlo
+  topic: SAST, SCA, DAST
+  description: AppSec enginner helping companies have a sucefull build secure process, optimizing the AST tools and training securoty Champions and developers.
+
+- title: Laszlo Molnar
+  name: Laszlo-Molnar
+  subtitle: Chief Pentester in Cybersecurity Assurance Center
+  img: laslo.jpeg
+  thumbnail: laslo.jpeg
+  alt: Laszlo Molnar
+  topic: Offensive Security
+  description: Laszlo Molnar is the Chief Pentester in Cybersecurity Assurance Center at Hitachi Energy. He is also OSCP and OSCE holder. Rafal Golebiowski is the Manager of Cybersecurity Assurance Center at Hitachi Energy. He is is OSCP, OSWP, CISM, CISA, CRISC, ECSA, CEH and CEI certificate holder. In their free time they play chess.
+  twitter: LoMolna
+
+- title: Marcin Niemiec
+  name: Marcin-Niemiec
+  subtitle: Security Researcher / Software Engineer
+  img: marcin.png
+  thumbnail: marcin.png
+  alt: Marcin Niemiec
+  topic: Kubernetes Security
+  description: Marcin is Lead Security System Engineer in EPAM. He has experience in Application Security, running S-SDLC programs, and Cloud Security.
+  twitter: xvnpw
+
+- title: Abdullah Joseph
+  name: Abdullah-Joseph
+  subtitle: Software Engineer
+  img: abdullah.jpg
+  thumbnail: abdullah.jpg
+  alt: Abdullah Joseph
+  topic: Cryptography
+  description: Abdullah Joseph is a software engineer with a special interest in security and over a decade of experience. He worked as the mobile security team lead of Adjust, providing a secure mobile analytics service to clients around the globe, while overseeing the security of the company's open-source libraries integrated in over 25,000 mobile apps, totalling over 400+ billion data points and 25 petabytes of traffic per month.
+  twitter: malwarecheese
+
+- title: Tiago Mendo
+  name: Tiago-Mendo
+  subtitle: CTO
+  img: tiago.jpeg
+  thumbnail: tiago.jpeg
+  alt: Tiago Mendo
+  topic: Application Security
+  description: Tiago is a co-founder and CTO of Probely. He has extensive experience in pentesting applications, training, and providing all-around security consultancy. He started working with security in the early 2000's, starting with a tenure of 12 years at Portugal Telecom, the largest telecom in Portugal, where he built the web security team of SAPO and worked with 150+ developers. He holds a Master in Information Technology/Information Security from Carnegie Mellon University and a CISSP certification. He is also a qualified member of AP2SI, a non-profit organization that promotes Information Security in Portugal, and Co-Leader of the Lisbon OWASP Chapter. Frequent speaker at security events, such as Confraria da Segurança da Informação and BSides Lisbon.
+  twitter: tmendo
+
+- title: Marek Szlagor
+  name: Marek-Szlagor
+  subtitle: Security engineer
+  img: marek.jfif
+  thumbnail: marek.jfif
+  alt: Marek Szlagor
+  topic: Zero Trust Architecture
+  description: Security engineer, that worked with both real-time operating systems and cloud platforms. With experience in finding vulnerabilities in core tools like curl and breaking into remote generator stations in 24 hours. Worked for ABB, Intel, Forcepoint, SolarWinds, currently trying to make Remitly at least a bit more secure platform.

@@ -1,0 +1,56 @@
+---
+layout: 2017_default
+permalink: /agenda
+title: Agenda
+published: true
+---
+    <!--background color-->
+    <script type="text/javascript">
+        document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+    </script>
+
+    <div class="event black-frame">
+      <h1>{{ page.title }}</h1>
+
+        <h2>Talks (May change without notice, stay updated)</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-id"><center>ID</center></th>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Talks - Galicja Duza + Mala</center></th>
+                    <th class="row-2 agenda-activity"><center>Talks - Amper</center></th>
+                </tr>
+            </thead>
+
+            {% for agenda in site.data.twenty_17.agendas_1 %}
+                <tr>
+                    <td>{{ agenda.id }}</td>
+                    <td>{{ agenda.time }}</td>
+                    {% if agenda.info2 %}
+                        <td>{{ agenda.info }}</td>
+                        <td>{{ agenda.info2 }}</td>
+                        
+                    {% else %}
+                        <td>{{agenda.info}}</td>
+                        <td>-</td>
+                    {% endif %}
+                </tr> 
+            {% endfor %}
+        </table>
+
+        <h2>The after party</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+
+            </thead>
+            <tr>
+                <td>06:00 PM - until you survive (or your money)</td>
+                <td><u>Drink, drink and.... drink!</u><br><i>Kraków, address will be informed at the end of the event</i><br><br>Networking, business, hiring...</td>
+            </tr> 
+        </table>        
+    </div>
