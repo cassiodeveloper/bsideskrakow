@@ -2,31 +2,31 @@
   img: icon-about.jpeg
   name: Theme, History, Mission
   info: Read more about our goals
-  link: /about
+  link: /2022/about
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
   info: Check out the amazing agenda
-  link: /agenda
+  link: /2022/agenda
 
 - inverted: 
   img: icon-team.jpeg
   name: Team
   info: Find out the team members
-  link: /team
+  link: /2022/team
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
   name: Venue
   info: Learn more about our location
-  link: /venue
+  link: /2022/venue
 
 - inverted: 
   img: icon-faq.jpeg
   name: FAQs
   info: Have a Question? Many answers can be found right here in our FAQs
-  link: /faqs
+  link: /2022/faqs
 
 - inverted: 
   img: booklet-icon.png
