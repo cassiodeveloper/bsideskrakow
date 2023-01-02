@@ -23,6 +23,12 @@
   link: /venue
 
 - inverted: 
+  img: booklet-icon.jpeg
+  name: CFP
+  info: Call for papers is open!
+  link: https://sessionize.com/bsides-krakow-2023/
+
+- inverted: timeline-inverted
   img: icon-faq.jpeg
   name: FAQs
   info: Have a Question? Many answers can be found right here in our FAQs
