@@ -6,10 +6,38 @@
   info: "<u>Opening</u><br><b>Cassio Pereira</b><br><i>BSides Founder & Coordinator</i><br><br>2nd BSides Kraków"
   id: 1
 
+- time: 09:00 AM - 10:00 AM
+  info: "<u>TBD</u>"
+  id: 2
+
+- time: 10:00 AM - 11:00 AM
+  info: "<u>TBD</u>"
+  id: 3
+
+- time: 11:00 AM - 12:00 AM
+  info: "<u>TBD</u>"
+  id: 4
+
 - time: 12:00 PM - 01:00 PM
   info: "<u>Lunch break</u><br><b>May be included! (For free)</b>"
-  id: 2
+  id: 5
+
+- time: 01:00 PM - 02:00 PM
+  info: "<u>TBD</u>"
+  id: 6
+
+- time: 02:00 PM - 03:00 PM
+  info: "<u>TBD</u>"
+  id: 7
+
+- time: 03:00 PM - 04:00 PM
+  info: "<u>TBD</u>"
+  id: 8
+
+- time: 04:00 PM - 05:00 PM
+  info: "<u>TBD</u>"
+  id: 9
 
 - time: 05:00 PM
   info: "<u>Closing, giveaway and gifts(?)</u><br><b>Cassio Pereira</b><br><i>BSides Founder & Coordinator</i><br><br>2nd BSides Kraków, thank you! See you in 2024 :)"
-  id: 3
+  id: 10
