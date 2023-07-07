@@ -7,35 +7,43 @@
   id: 1
 
 - time: 09:00 AM - 10:00 AM
-  info: "<u>TBD</u>"
+  info: "<u>Leveraging OSINT Techniques to help locate Missing Persons - Insights from TraceLabs CTF</u><br><b>Anna Mazurkiewicz</b><br><i>Security Analyst at Quorum Cyber</i>"
+  info2: "<u>AWS Attack based on Misconfiguration</u><br><b>Filipi Pires</b><br><i>Security Researcher and Security Advocate</i>"
   id: 2
 
 - time: 10:00 AM - 11:00 AM
-  info: "<u>TBD</u>"
+  info: "<u>Bypassing Anti-Virus using BadUSB</u><br><b>Cristian Cornea</b><br><i>Founder @ Zerotak Security & President @ Romanian Cyber Security Training Centre of Excellence</i>"
+  info2: "<u>Easy authentication, easy hacks - AWS Cognito security misconfigurations</u><br><b>Paweł Kusiński</b><br><i>Penetration Tester & Security Researcher</i>"    
   id: 3
 
 - time: 11:00 AM - 12:00 AM
   info: "<u>TBD</u>"
+  info2: "<u>SBOM and IaC. Is it possible? Is it worth?</u><br><b>Pawel Piwosz</b><br><i>DevOps in Agile way</i>"  
   id: 4
 
 - time: 12:00 PM - 01:00 PM
   info: "<u>Lunch break</u><br><b>May be included! (For free)</b>"
+  info2: "<u>TBD</u>"
   id: 5
 
 - time: 01:00 PM - 02:00 PM
-  info: "<u>TBD</u>"
+  info: "<u>Trust no one: implementing zero trust security with Ambient Service Mesh</u><br><b>Alessandro Vozza</b><br><i>DevRel at Solo.io</i>"
+  info2: "<u>TBD</u>"
   id: 6
 
 - time: 02:00 PM - 03:00 PM
   info: "<u>TBD</u>"
+  info2: "<u>TBD</u>"
   id: 7
 
 - time: 03:00 PM - 04:00 PM
-  info: "<u>TBD</u>"
+  info: "<u>'Hacktive Directory' Forensics - a toolkit for understanding who|what|when in your domain</u><br><b>Yossi Sassi</b><br><i>Co-Founder at 10Root, hacker, automation freak, researcher</i>"
+  info2: "<u>TBD</u>"
   id: 8
 
 - time: 04:00 PM - 05:00 PM
   info: "<u>TBD</u>"
+  info2: "<u>TBD</u>"
   id: 9
 
 - time: 05:00 PM
