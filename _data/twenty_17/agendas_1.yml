@@ -1,15 +1,15 @@
-- time: 08:00 AM - 09:00 AM
+- time: 08:00 AM - 08:45 AM
   info: "<u>Check-in (Reception)</u><br><b>Reception of participants</b><br><i>Bring your QR Code ticket on App!</i>"
   id: 0
 
-- time: 09:00 AM - 09:15 AM
+- time: 08:45 AM - 09:00 AM
   info: "<u>Opening</u><br><b>Cassio Pereira</b><br><i>BSides Founder & Coordinator</i><br><br>2nd BSides Kraków"
   id: 1
 
-- time: 01:00 PM - 02:00 PM
+- time: 12:00 PM - 01:00 PM
   info: "<u>Lunch break</u><br><b>May be included! (For free)</b>"
   id: 2
 
-- time: 04:45 PM - 05:00 PM
+- time: 05:00 PM
   info: "<u>Closing, giveaway and gifts(?)</u><br><b>Cassio Pereira</b><br><i>BSides Founder & Coordinator</i><br><br>2nd BSides Kraków, thank you! See you in 2024 :)"
   id: 3
