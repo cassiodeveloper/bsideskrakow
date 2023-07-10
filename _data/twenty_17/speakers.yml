@@ -25,6 +25,7 @@
   alt: Mackenzie Jackson
   topic: Supply Chain
   description: Mackenzie is a developer advocate with a passion for DevOps and code security. As the co-founder and former CTO of a health tech startup, he learnt first-hand how critical it is to build secure applications with robust developer operations. Today as the Developer Advocate at GitGuardian, Mackenzie is able to share his passion for code security with developers and works closely with research teams to show how malicious actors discover and exploit vulnerabilities in code.
+  twitter: advocatemack
 
 - title: Filipi Pires
   name: Filipi-Pires
@@ -34,6 +35,7 @@
   alt: Filipi Pires
   topic: Cloud Security
   description: "I’ve been working as Security and Threat Researcher, Founder at Black&White Technology, Cybersecurity Advocate, Snyk Ambassador, Application Security Specialist and Hacking is NOT a crime Advocate. International Speaker at Security and New technologies events in many countries such as US, Canada, France, Spain, Germany, Poland, and others, I’ve been served as University Professor in Graduation and MBA courses at Brazilian colleges, in addition, I'm Creator and Instructor of the Course - Malware Attack Types with Kill Chain Methodology (PentestMagazine), PowerShell and Windows for Red Teamers(PentestMagazine) and Malware Analysis - Fundamentals (HackerSec)."
+  twitter: FilipiPires
 
 - title: Saurabh kumar Pandey
   name: Saurabh-kumar-Pandey
@@ -43,6 +45,7 @@
   alt: Saurabh kumar Pandey
   topic: Bluetooth Wardriving
   description: I am Penetration Tester and Null Bangalore chapter lead as well as Enthusiastic, Committed professional with 4 years of experience in leading, managing and delivering web application security, Infrastructure penetration testing, thick client Baseline review of security devices.
+  twitter: s7_saurabh
 
 - title: Anna Mazurkiewicz
   name: Anna-Mazurkiewicz
@@ -61,6 +64,7 @@
   alt: Yossi Sassi
   topic: Forensics
   description: Seasoned technologist, infoSec researcher & automation hacker. Sassi has accumulated extensive experience in information security for ~30 years, in Red-Blue team assessments, conducting forensic investigations and more, including Fortune100 accounts. Advisory board member of Javelin Networks (acquired by Symantec in 2018). Worked for Microsoft ~8 years as Technology Group Manager and coded support tools for Windows Server. Sassi spoke at TED and TEDx events, and was awarded 4 Peace and friendship awards. Sassi holds a M.A in law, CISSP etc, and speaks regularly at various technology conferences worldwide. Volunteer for youth at risk, aviator & oriental rock guitarist.
+  twitter: yossisassi
 
 - title: Alessandro Vozza
   name: Alessandro-Vozza
@@ -70,6 +74,7 @@
   alt: Alessandro Vozza
   topic: Zero Trust
   description: "Community leader and CNCF ambassador, Alessandro has spent the last few years building cloud native infrastructures for Microsoft customers, animating the Dutch community, and training others to pass the CKx exams. He has passion for all things cloud native, he's been around open source for 25 years and recently moved to a new Developer Relations role. Twitter handle: @bongo"
+  twitter: bongo
 
 - title: Cristian Cornea
   name: Cristian-Cornea
@@ -88,6 +93,7 @@
   alt: Paweł Kusiński
   topic: Cloud Security
   description: Paweł is a Penetration Tester and Security Researcher at Snowflake, focusing on app and cloud security. He performs penetration tests and infrastructure audits for a wide range of IT projects. He likes to share his knowledge by leading various workshops, giving conference talks, and teaching at universities. AWS Community Builder. In his free time, he is a CTF player (member of justCatTheFish) and enjoys buying too many Legos, despite the lack of space for more.
+  twitter: _pkusik
 
 - title: Linda Ikechukwu
   name: Linda-Ikechukwu
@@ -97,6 +103,7 @@
   alt: Linda Ikechukwu
   topic: Secret Management
   description: "Linda Ikechukwu is a developer advocate at Smallstep Labs, where her mission is to demystify Public Key Infrastructure (PKI) and everything digital certificate usage for developers and DevOps engineers. Her years as a software engineer (cloud + frontend) built the foundation for her current passion: creating educational materials that help developers learn new technologies. When she’s not creating tech content, you can find her on the tennis court or learning to play the guitar."
+  twitter: _MsLinda
 
 - title: Damian Miesowicz
   name: Damian-Miesowicz
