@@ -1,22 +1,3 @@
-- title: Pawel Piwosz
-  name: Pawel-Piwosz
-  subtitle: DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker.
-  img: pawel.png
-  thumbnail: pawel.png
-  alt: Pawel Piwosz
-  topic: Infrastructure as Code SBOM
-  description: "DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker. My focus is on CALMS. I am building better understanding of DevOps as driver for the organization. I am devoted to Serverless and CI/CD. I authored the framework for design the CI/CD: https://www.cicd.run/ Host of Last Week In IT and DevOps In Agile Way podcasts."
-  twitter: pawelpiwosz
-
-- title: Rafaela Durlo
-  name: Rafaela-Durlo
-  subtitle: Application Security Leader
-  img: rafaela.jpg
-  thumbnail: rafaela.jpg
-  alt: Rafaela Durlo
-  topic: SAST, SCA, DAST
-  description: AppSec enginner helping companies have a sucefull build secure process, optimizing the AST tools and training securoty Champions and developers.
-
 - title: Mackenzie Jackson
   name: Mackenzie-Jackson
   subtitle: Developer advocate - Security fanatic
@@ -36,6 +17,35 @@
   topic: Cloud Security
   description: "I’ve been working as Security and Threat Researcher, Founder at Black&White Technology, Cybersecurity Advocate, Snyk Ambassador, Application Security Specialist and Hacking is NOT a crime Advocate. International Speaker at Security and New technologies events in many countries such as US, Canada, France, Spain, Germany, Poland, and others, I’ve been served as University Professor in Graduation and MBA courses at Brazilian colleges, in addition, I'm Creator and Instructor of the Course - Malware Attack Types with Kill Chain Methodology (PentestMagazine), PowerShell and Windows for Red Teamers(PentestMagazine) and Malware Analysis - Fundamentals (HackerSec)."
   twitter: FilipiPires
+
+- title: Paweł Kusiński
+  name: Paweł-Kusiński
+  subtitle: Penetration Tester & Security Researcher
+  img: pawel-kusinski.jpeg
+  thumbnail: pawel-kusinski.jpeg
+  alt: Paweł Kusiński
+  topic: Cloud Security
+  description: Paweł is a Penetration Tester and Security Researcher at Snowflake, focusing on app and cloud security. He performs penetration tests and infrastructure audits for a wide range of IT projects. He likes to share his knowledge by leading various workshops, giving conference talks, and teaching at universities. AWS Community Builder. In his free time, he is a CTF player (member of justCatTheFish) and enjoys buying too many Legos, despite the lack of space for more.
+  twitter: _pkusik
+
+- title: Pawel Piwosz
+  name: Pawel-Piwosz
+  subtitle: DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker.
+  img: pawel.png
+  thumbnail: pawel.png
+  alt: Pawel Piwosz
+  topic: Infrastructure as Code SBOM
+  description: "DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker. My focus is on CALMS. I am building better understanding of DevOps as driver for the organization. I am devoted to Serverless and CI/CD. I authored the framework for design the CI/CD: https://www.cicd.run/ Host of Last Week In IT and DevOps In Agile Way podcasts."
+  twitter: pawelpiwosz
+
+- title: Rafaela Durlo
+  name: Rafaela-Durlo
+  subtitle: Application Security Leader
+  img: rafaela.jpg
+  thumbnail: rafaela.jpg
+  alt: Rafaela Durlo
+  topic: SAST, SCA, DAST
+  description: AppSec enginner helping companies have a sucefull build secure process, optimizing the AST tools and training securoty Champions and developers.
 
 - title: Saurabh kumar Pandey
   name: Saurabh-kumar-Pandey
@@ -84,16 +94,6 @@
   alt: Cristian Cornea
   topic: Offensive Security
   description: "OSCE | OSEP | OSWE | OSCP | CEH | CPTC | PenTest+ | eWPT | ECIH | CREST - Founder of Zerotak Security | Co-Founder of Cyber Union Providing pentesting & security consultation for clients all over the world: Australia, U.S., U.K., Middle East, Singapore, India, Central Africa, Europe. Trainer for U.S. Department of Defense, Slovenian National Bureau of Investigation, Polish Military CERT Speaker @ Defcamp, HEK.SI, RST Con, HackTheZone, Unbreakable EC-Council Certified Ethical Hacker (CEH) Scheme Committee Member InfoSec Writer on Medium"
-
-- title: Paweł Kusiński
-  name: Paweł-Kusiński
-  subtitle: Penetration Tester & Security Researcher
-  img: pawel-kusinski.jpeg
-  thumbnail: pawel-kusinski.jpeg
-  alt: Paweł Kusiński
-  topic: Cloud Security
-  description: Paweł is a Penetration Tester and Security Researcher at Snowflake, focusing on app and cloud security. He performs penetration tests and infrastructure audits for a wide range of IT projects. He likes to share his knowledge by leading various workshops, giving conference talks, and teaching at universities. AWS Community Builder. In his free time, he is a CTF player (member of justCatTheFish) and enjoys buying too many Legos, despite the lack of space for more.
-  twitter: _pkusik
 
 - title: Linda Ikechukwu
   name: Linda-Ikechukwu
