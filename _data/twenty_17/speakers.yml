@@ -26,15 +26,6 @@
   topic: Supply Chain
   description: Mackenzie is a developer advocate with a passion for DevOps and code security. As the co-founder and former CTO of a health tech startup, he learnt first-hand how critical it is to build secure applications with robust developer operations. Today as the Developer Advocate at GitGuardian, Mackenzie is able to share his passion for code security with developers and works closely with research teams to show how malicious actors discover and exploit vulnerabilities in code.
 
-- title: Damian Miesowicz
-  name: Damian-Miesowicz
-  subtitle: Scientist - Robotics R&D Engineer
-  img: damian.png
-  thumbnail: damian.png
-  alt: Damian Miesowicz
-  topic: Robotics
-  description: Damian is a Robotics R&D Engineer, Scientist and Simulation Specialist in the field of automation of manufacturing processes. He develops concepts of robotized industrial stations, prepares simulations of production processes and builds show stations with robots.
-
 - title: Filipi Pires
   name: Filipi-Pires
   subtitle: Security Researcher and Security Advocate
@@ -106,3 +97,12 @@
   alt: Linda Ikechukwu
   topic: Secret Management
   description: "Linda Ikechukwu is a developer advocate at Smallstep Labs, where her mission is to demystify Public Key Infrastructure (PKI) and everything digital certificate usage for developers and DevOps engineers. Her years as a software engineer (cloud + frontend) built the foundation for her current passion: creating educational materials that help developers learn new technologies. When she’s not creating tech content, you can find her on the tennis court or learning to play the guitar."
+
+- title: Damian Miesowicz
+  name: Damian-Miesowicz
+  subtitle: Scientist - Robotics R&D Engineer
+  img: damian.png
+  thumbnail: damian.png
+  alt: Damian Miesowicz
+  topic: Robotics
+  description: Damian is a Robotics R&D Engineer, Scientist and Simulation Specialist in the field of automation of manufacturing processes. He develops concepts of robotized industrial stations, prepares simulations of production processes and builds show stations with robots.  
