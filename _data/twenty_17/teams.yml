@@ -51,3 +51,12 @@
   alt: Markiyan
   topic: Pentest
   description: 
+
+- title: Rafaela Durlo
+  name: Rafaela-Durlo
+  subtitle: Application Security Leader
+  img: rafaela.jpg
+  thumbnail: rafaela.jpg
+  alt: Rafaela Durlo
+  topic: SAST, SCA, DAST
+  description: AppSec enginner helping companies have a sucefull build secure process, optimizing the AST tools and training securoty Champions and developers.

@@ -1,9 +1,18 @@
-- title: 
-  name: 
-  subtitle: 
-  img: 
-  thumbnail:
-  alt: 
-  topic:
-  description: 
-  twitter: 
+- title: Pawel Piwosz
+  name: Pawel-Piwosz
+  subtitle: DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker.
+  img: pawel.png
+  thumbnail: pawel.png
+  alt: Pawel Piwosz
+  topic: Infrastructure as Code SBOM
+  description: "DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker. My focus is on CALMS. I am building better understanding of DevOps as driver for the organization. I am devoted to Serverless and CI/CD. I authored the framework for design the CI/CD: https://www.cicd.run/ Host of Last Week In IT and DevOps In Agile Way podcasts."
+  twitter: pawelpiwosz
+
+- title: Rafaela Durlo
+  name: Rafaela-Durlo
+  subtitle: Application Security Leader
+  img: rafaela.jpg
+  thumbnail: rafaela.jpg
+  alt: Rafaela Durlo
+  topic: SAST, SCA, DAST
+  description: AppSec enginner helping companies have a sucefull build secure process, optimizing the AST tools and training securoty Champions and developers.
