@@ -18,6 +18,15 @@
   description: "I’ve been working as Security and Threat Researcher, Founder at Black&White Technology, Cybersecurity Advocate, Snyk Ambassador, Application Security Specialist and Hacking is NOT a crime Advocate. International Speaker at Security and New technologies events in many countries such as US, Canada, France, Spain, Germany, Poland, and others, I’ve been served as University Professor in Graduation and MBA courses at Brazilian colleges, in addition, I'm Creator and Instructor of the Course - Malware Attack Types with Kill Chain Methodology (PentestMagazine), PowerShell and Windows for Red Teamers(PentestMagazine) and Malware Analysis - Fundamentals (HackerSec)."
   twitter: FilipiPires
 
+- title: Rafaela Durlo
+  name: Rafaela-Durlo
+  subtitle: Application Security Leader
+  img: rafaela.jpg
+  thumbnail: rafaela.jpg
+  alt: Rafaela Durlo
+  topic: SAST, SCA, DAST
+  description: AppSec enginner helping companies have a sucefull build secure process, optimizing the AST tools and training securoty Champions and developers.
+
 - title: Paweł Kusiński
   name: Paweł-Kusiński
   subtitle: Penetration Tester & Security Researcher
@@ -27,15 +36,6 @@
   topic: Cloud Security
   description: Paweł is a Penetration Tester and Security Researcher at Snowflake, focusing on app and cloud security. He performs penetration tests and infrastructure audits for a wide range of IT projects. He likes to share his knowledge by leading various workshops, giving conference talks, and teaching at universities. AWS Community Builder. In his free time, he is a CTF player (member of justCatTheFish) and enjoys buying too many Legos, despite the lack of space for more.
   twitter: _pkusik
-
-- title: Rafaela Durlo
-  name: Rafaela-Durlo
-  subtitle: Application Security Leader
-  img: rafaela.jpg
-  thumbnail: rafaela.jpg
-  alt: Rafaela Durlo
-  topic: SAST, SCA, DAST
-  description: AppSec enginner helping companies have a sucefull build secure process, optimizing the AST tools and training securoty Champions and developers.
 
 - title: Pawel Piwosz
   name: Pawel-Piwosz
