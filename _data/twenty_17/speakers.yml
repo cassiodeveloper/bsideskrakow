@@ -47,14 +47,14 @@
   description: Paweł is a Penetration Tester and Security Researcher at Snowflake, focusing on app and cloud security. He performs penetration tests and infrastructure audits for a wide range of IT projects. He likes to share his knowledge by leading various workshops, giving conference talks, and teaching at universities. AWS Community Builder. In his free time, he is a CTF player (member of justCatTheFish) and enjoys buying too many Legos, despite the lack of space for more.
   twitter: _pkusik
 
-- title: Anna Mazurkiewicz
-  name: Anna-Mazurkiewicz
-  subtitle: Security Analyst at Quorum Cyber
-  img: anna-mazurkiewicz.jpg
-  thumbnail: anna-mazurkiewicz.jpg
-  alt: Anna Mazurkiewicz
-  topic: OSINT
-  description: Security Analyst originally from Poland, living in Scotland for the last 12 years. Enthusiast of anything that is malicious, as well as OSINT investigations. In her spare time, apart from learning anything security/IT-related - she is really into travelling, learning languages, getting to know other cultures, as well as outdoor adventures.
+- title: Melanie M aka Melmols
+  name: Melmols
+  subtitle: Lead Security Architect at Newday
+  img: melanie-m.jpeg
+  thumbnail: melanie-m.jpeg
+  alt: Melanie M aka Melmols
+  topic: Payment Systems
+  description: Hi! I’m Mel. Im a product security engineer at heart with a focus on fintech and fintech start ups. Transunion says I have an excellent credit score.
 
 - title: Yossi Sassi
   name: Yossi-Sassi
@@ -66,6 +66,15 @@
   description: Seasoned technologist, infoSec researcher & automation hacker. Sassi has accumulated extensive experience in information security for ~30 years, in Red-Blue team assessments, conducting forensic investigations and more, including Fortune100 accounts. Advisory board member of Javelin Networks (acquired by Symantec in 2018). Worked for Microsoft ~8 years as Technology Group Manager and coded support tools for Windows Server. Sassi spoke at TED and TEDx events, and was awarded 4 Peace and friendship awards. Sassi holds a M.A in law, CISSP etc, and speaks regularly at various technology conferences worldwide. Volunteer for youth at risk, aviator & oriental rock guitarist.
   twitter: yossisassi
 
+- title: Anna Mazurkiewicz
+  name: Anna-Mazurkiewicz
+  subtitle: Security Analyst at Quorum Cyber
+  img: anna-mazurkiewicz.jpg
+  thumbnail: anna-mazurkiewicz.jpg
+  alt: Anna Mazurkiewicz
+  topic: OSINT
+  description: Security Analyst originally from Poland, living in Scotland for the last 12 years. Enthusiast of anything that is malicious, as well as OSINT investigations. In her spare time, apart from learning anything security/IT-related - she is really into travelling, learning languages, getting to know other cultures, as well as outdoor adventures.
+
 - title: Linda Ikechukwu
   name: Linda-Ikechukwu
   subtitle: Developer Advocate at Smallstep Labs
@@ -75,15 +84,6 @@
   topic: Secret Management
   description: "Linda Ikechukwu is a developer advocate at Smallstep Labs, where her mission is to demystify Public Key Infrastructure (PKI) and everything digital certificate usage for developers and DevOps engineers. Her years as a software engineer (cloud + frontend) built the foundation for her current passion: creating educational materials that help developers learn new technologies. When she’s not creating tech content, you can find her on the tennis court or learning to play the guitar."
   twitter: _MsLinda
-
-- title: Melanie M aka Melmols
-  name: Melmols
-  subtitle: Lead Security Architect at Newday
-  img: melanie-m.jpeg
-  thumbnail: melanie-m.jpeg
-  alt: Melanie M aka Melmols
-  topic: Payment Systems
-  description: Hi! I’m Mel. Im a product security engineer at heart with a focus on fintech and fintech start ups. Transunion says I have an excellent credit score.
 
 - title: Damian Miesowicz
   name: Damian-Miesowicz
