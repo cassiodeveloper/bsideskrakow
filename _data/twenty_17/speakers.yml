@@ -133,3 +133,31 @@
   topic: Forensics
   description: Seasoned technologist, infoSec researcher & automation hacker. Sassi has accumulated extensive experience in information security for ~30 years, in Red-Blue team assessments, conducting forensic investigations and more, including Fortune100 accounts. Advisory board member of Javelin Networks (acquired by Symantec in 2018). Worked for Microsoft ~8 years as Technology Group Manager and coded support tools for Windows Server. Sassi spoke at TED and TEDx events, and was awarded 4 Peace and friendship awards. Sassi holds a M.A in law, CISSP etc, and speaks regularly at various technology conferences worldwide. Volunteer for youth at risk, aviator & oriental rock guitarist.
   twitter: yossisassi
+
+- title: Tomasz Nowak
+  name: Tomasz-Nowak
+  subtitle: Senior Security Engineer at kevin
+  img: tomasz-nowak.jpg
+  thumbnail: tomasz-nowak.jpg
+  alt: Tomasz Nowak
+  topic: SAST
+  description: Tomasz Nowak is a security engineer with a diverse background in distributed systems, defensive, and offensive security. Throughout most of his 16-year career, he has been at the forefront of securing computing clouds, even before they were commonly referred to as such. Currently, he is actively involved in introducing an application security program at kevin., contributing to yet another disruptive initiative, this time within the payment industry.
+
+- title: Robert Kiss aka kepten
+  name: Kepten
+  subtitle: Robert Kiss aka kepten
+  img: robert-kiss.jpg
+  thumbnail: robert-kiss.jpg
+  alt: Robert Kiss aka kepten
+  topic: SAST
+  description: "Robert has been doing IT Security shenanigans for more than 20 years now, including both offensive and defensive stuff. He got interested in security after accidentally hacking his own website written in PHP3. Since then, he participated in many online CTFs (e.g. ranked #24 on hackthissite.org at the moment) and also presented at ITSec conferences. Nowadays, he is working on building a world-class AppSec team at kevin., securing the future of payments."
+  twitter: kepten
+
+- title: Miguel Angel Hernandez Ruiz
+  name: Miguel-Angel-Hernandez-Ruiz
+  subtitle: Senior Security Engineer at Kevin
+  img: miguel-angel-hernandez-ruiz.png
+  thumbnail: miguel-angel-hernandez-ruiz.png
+  alt: Miguel Angel Hernandez Ruiz
+  topic: Kubernetes Security
+  description: "I am a security passionate. I like security since I can remember and my security journey has driven me to all sort of security related jobs like cloud security architect, security engineer, security researcher, security consultant, security analyst or web application penetration tester, to name some of them. I like to consider myself a security off road which just loves security regardless of the angle it is looked from. AWS CCP, OSCP, CEH, SPSE, CISA, CISM, IRCA LA 27001, ISTQBf, ITIL-f and FCE (English level B2) demonstrate my continuous commitment with being in the security edge. I want to be better in security day by day. Apart from conferences delivered within Training Centers, Universities and High Schools some of the most remarkable ones I have delivered a conference in have been: BATOI CyberSecurity Day '23. ConTEST NY 18, Test Automation Day 18, Eurostar '16, OWASP '15, Cybercamp '15, Expo QA '14, VLC-Testing '14 and '15, After Test, Test Academy, Expert Witnessing mentor, etc. have been some of the conferences and events I have been giving talks in. Each talk or Master Class is a new challenge for me! One driver: Never miss a chance to learn!"
