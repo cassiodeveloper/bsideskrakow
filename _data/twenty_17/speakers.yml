@@ -17,25 +17,6 @@
   description: "Community leader and CNCF ambassador, Alessandro has spent the last few years building cloud native infrastructures for Microsoft customers, animating the Dutch community, and training others to pass the CKx exams. He has passion for all things cloud native, he's been around open source for 25 years and recently moved to a new Developer Relations role. Twitter handle: @bongo"
   twitter: bongo
 
-- title: Damian Miesowicz
-  name: Damian-Miesowicz
-  subtitle: Scientist - Robotics R&D Engineer
-  img: damian.png
-  thumbnail: damian.png
-  alt: Damian Miesowicz
-  topic: Robotics
-  description: Damian is a Robotics R&D Engineer, Scientist and Simulation Specialist in the field of automation of manufacturing processes. He develops concepts of robotized industrial stations, prepares simulations of production processes and builds show stations with robots.  
-
-- title: Saurabh Kumar Pandey
-  name: Saurabh-kumar-Pandey
-  subtitle: Senior Security Engineer at MIQ
-  img: saurabh-kumar-pandey.png
-  thumbnail: saurabh-kumar-pandey.png
-  alt: Saurabh kumar Pandey
-  topic: Bluetooth Wardriving
-  description: Saurabh is senior security engineer at MIQ, working on Product security and Cloud security and also he is chapter lead of   Null Open security community.  He loves to present his talk in conferences like bsides banglore, Bsides Ahmedabad .He used to work on cloud security as well as cloud and OS red team.  He is currently working in the research area of IOT and OT.
-  twitter: s7_saurabh
-
 - title: Mackenzie Jackson
   name: Mackenzie-Jackson
   subtitle: Developer advocate - Security fanatic
@@ -103,6 +84,25 @@
   alt: Melanie M aka Melmols
   topic: Payment Systems
   description: Hi! I’m Mel. Im a product security engineer at heart with a focus on fintech and fintech start ups. Transunion says I have an excellent credit score.
+
+- title: Damian Miesowicz
+  name: Damian-Miesowicz
+  subtitle: Scientist - Robotics R&D Engineer
+  img: damian.png
+  thumbnail: damian.png
+  alt: Damian Miesowicz
+  topic: Robotics
+  description: Damian is a Robotics R&D Engineer, Scientist and Simulation Specialist in the field of automation of manufacturing processes. He develops concepts of robotized industrial stations, prepares simulations of production processes and builds show stations with robots.  
+
+- title: Saurabh Kumar Pandey
+  name: Saurabh-kumar-Pandey
+  subtitle: Senior Security Engineer at MIQ
+  img: saurabh-kumar-pandey.png
+  thumbnail: saurabh-kumar-pandey.png
+  alt: Saurabh kumar Pandey
+  topic: Bluetooth Wardriving
+  description: Saurabh is senior security engineer at MIQ, working on Product security and Cloud security and also he is chapter lead of   Null Open security community.  He loves to present his talk in conferences like bsides banglore, Bsides Ahmedabad .He used to work on cloud security as well as cloud and OS red team.  He is currently working in the research area of IOT and OT.
+  twitter: s7_saurabh
 
 - title: Pawel Piwosz
   name: Pawel-Piwosz
