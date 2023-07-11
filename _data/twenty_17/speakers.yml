@@ -57,6 +57,16 @@
   description: Hi! I’m Mel. Im a product security engineer at heart with a focus on fintech and fintech start ups. Transunion says I have an excellent credit score.
   twitter: ssamelmols
 
+- title: Linda Ikechukwu
+  name: Linda-Ikechukwu
+  subtitle: Developer Advocate at Smallstep Labs
+  img: linda-ikechukwu.jpg
+  thumbnail: linda-ikechukwu.jpg
+  alt: Linda Ikechukwu
+  topic: Secret Management
+  description: "Linda Ikechukwu is a developer advocate at Smallstep Labs, where her mission is to demystify Public Key Infrastructure (PKI) and everything digital certificate usage for developers and DevOps engineers. Her years as a software engineer (cloud + frontend) built the foundation for her current passion: creating educational materials that help developers learn new technologies. When she’s not creating tech content, you can find her on the tennis court or learning to play the guitar."
+  twitter: _MsLinda
+
 - title: Yossi Sassi
   name: Yossi-Sassi
   subtitle: Co-Founder at 10Root, hacker, automation freak, researcher
@@ -75,16 +85,6 @@
   alt: Anna Mazurkiewicz
   topic: OSINT
   description: Security Analyst originally from Poland, living in Scotland for the last 12 years. Enthusiast of anything that is malicious, as well as OSINT investigations. In her spare time, apart from learning anything security/IT-related - she is really into travelling, learning languages, getting to know other cultures, as well as outdoor adventures.
-
-- title: Linda Ikechukwu
-  name: Linda-Ikechukwu
-  subtitle: Developer Advocate at Smallstep Labs
-  img: linda-ikechukwu.jpg
-  thumbnail: linda-ikechukwu.jpg
-  alt: Linda Ikechukwu
-  topic: Secret Management
-  description: "Linda Ikechukwu is a developer advocate at Smallstep Labs, where her mission is to demystify Public Key Infrastructure (PKI) and everything digital certificate usage for developers and DevOps engineers. Her years as a software engineer (cloud + frontend) built the foundation for her current passion: creating educational materials that help developers learn new technologies. When she’s not creating tech content, you can find her on the tennis court or learning to play the guitar."
-  twitter: _MsLinda
 
 - title: Ahmad Almorabea aka Almorabea
   name: Almorabea
