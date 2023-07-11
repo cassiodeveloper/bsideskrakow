@@ -67,16 +67,6 @@
   description: "Linda Ikechukwu is a developer advocate at Smallstep Labs, where her mission is to demystify Public Key Infrastructure (PKI) and everything digital certificate usage for developers and DevOps engineers. Her years as a software engineer (cloud + frontend) built the foundation for her current passion: creating educational materials that help developers learn new technologies. When she’s not creating tech content, you can find her on the tennis court or learning to play the guitar."
   twitter: _MsLinda
 
-- title: Ahmad Almorabea aka Almorabea
-  name: Almorabea
-  subtitle: VAPT Lead
-  img: ahmad-almorabea.png
-  thumbnail: ahmad-almorabea.png
-  alt: Ahmad Almorabea aka Almorabea
-  topic: Threat Hunting
-  description: With 8 years of experience in information security, incident response threat hunting, threat intelligence and digital forensic I have developed extensive skills in investigating incidents, analyzing network traffic, and reverse engineering malware. Worked with Cryptographic protocols and published many papers in the field of cryptography, As a podcaster on "The Cyber Riddler," I discuss interesting topics and real - life experiences with cybersecurity professionals. My academic background includes a Master's degree in Cybersecurity and a PhD in Computer Information Systems.
-  twitter: almorabea
-
 - title: Damian Miesowicz
   name: Damian-Miesowicz
   subtitle: Scientist - Robotics R&D Engineer
@@ -115,6 +105,25 @@
   topic: OSINT
   description: Security Analyst originally from Poland, living in Scotland for the last 12 years. Enthusiast of anything that is malicious, as well as OSINT investigations. In her spare time, apart from learning anything security/IT-related - she is really into travelling, learning languages, getting to know other cultures, as well as outdoor adventures.
 
+- title: Cristian Cornea
+  name: Cristian-Cornea
+  subtitle: Founder @ Zerotak Security & President @ Romanian Cyber Security Training Centre of Excellence
+  img: cristian-cornea.jpeg
+  thumbnail: cristian-cornea.jpeg
+  alt: Cristian Cornea
+  topic: Offensive Security
+  description: "OSCE | OSEP | OSWE | OSCP | CEH | CPTC | PenTest+ | eWPT | ECIH | CREST - Founder of Zerotak Security | Co-Founder of Cyber Union Providing pentesting & security consultation for clients all over the world: Australia, U.S., U.K., Middle East, Singapore, India, Central Africa, Europe. Trainer for U.S. Department of Defense, Slovenian National Bureau of Investigation, Polish Military CERT Speaker @ Defcamp, HEK.SI, RST Con, HackTheZone, Unbreakable EC-Council Certified Ethical Hacker (CEH) Scheme Committee Member InfoSec Writer on Medium"
+
+- title: Ahmad Almorabea aka Almorabea
+  name: Almorabea
+  subtitle: VAPT Lead
+  img: ahmad-almorabea.png
+  thumbnail: ahmad-almorabea.png
+  alt: Ahmad Almorabea aka Almorabea
+  topic: Threat Hunting
+  description: With 8 years of experience in information security, incident response threat hunting, threat intelligence and digital forensic I have developed extensive skills in investigating incidents, analyzing network traffic, and reverse engineering malware. Worked with Cryptographic protocols and published many papers in the field of cryptography, As a podcaster on "The Cyber Riddler," I discuss interesting topics and real - life experiences with cybersecurity professionals. My academic background includes a Master's degree in Cybersecurity and a PhD in Computer Information Systems.
+  twitter: almorabea
+
 - title: Yossi Sassi
   name: Yossi-Sassi
   subtitle: Co-Founder at 10Root, hacker, automation freak, researcher
@@ -124,12 +133,3 @@
   topic: Forensics
   description: Seasoned technologist, infoSec researcher & automation hacker. Sassi has accumulated extensive experience in information security for ~30 years, in Red-Blue team assessments, conducting forensic investigations and more, including Fortune100 accounts. Advisory board member of Javelin Networks (acquired by Symantec in 2018). Worked for Microsoft ~8 years as Technology Group Manager and coded support tools for Windows Server. Sassi spoke at TED and TEDx events, and was awarded 4 Peace and friendship awards. Sassi holds a M.A in law, CISSP etc, and speaks regularly at various technology conferences worldwide. Volunteer for youth at risk, aviator & oriental rock guitarist.
   twitter: yossisassi
-
-- title: Cristian Cornea
-  name: Cristian-Cornea
-  subtitle: Founder @ Zerotak Security & President @ Romanian Cyber Security Training Centre of Excellence
-  img: cristian-cornea.jpeg
-  thumbnail: cristian-cornea.jpeg
-  alt: Cristian Cornea
-  topic: Offensive Security
-  description: "OSCE | OSEP | OSWE | OSCP | CEH | CPTC | PenTest+ | eWPT | ECIH | CREST - Founder of Zerotak Security | Co-Founder of Cyber Union Providing pentesting & security consultation for clients all over the world: Australia, U.S., U.K., Middle East, Singapore, India, Central Africa, Europe. Trainer for U.S. Department of Defense, Slovenian National Bureau of Investigation, Polish Military CERT Speaker @ Defcamp, HEK.SI, RST Con, HackTheZone, Unbreakable EC-Council Certified Ethical Hacker (CEH) Scheme Committee Member InfoSec Writer on Medium"
