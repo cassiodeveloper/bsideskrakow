@@ -26,6 +26,16 @@
   topic: Robotics
   description: Damian is a Robotics R&D Engineer, Scientist and Simulation Specialist in the field of automation of manufacturing processes. He develops concepts of robotized industrial stations, prepares simulations of production processes and builds show stations with robots.  
 
+- title: Saurabh Kumar Pandey
+  name: Saurabh-kumar-Pandey
+  subtitle: Senior Security Engineer at MIQ
+  img: saurabh-kumar-pandey.png
+  thumbnail: saurabh-kumar-pandey.png
+  alt: Saurabh kumar Pandey
+  topic: Bluetooth Wardriving
+  description: Saurabh is senior security engineer at MIQ, working on Product security and Cloud security and also he is chapter lead of   Null Open security community.  He loves to present his talk in conferences like bsides banglore, Bsides Ahmedabad .He used to work on cloud security as well as cloud and OS red team.  He is currently working in the research area of IOT and OT.
+  twitter: s7_saurabh
+
 - title: Mackenzie Jackson
   name: Mackenzie-Jackson
   subtitle: Developer advocate - Security fanatic
@@ -55,16 +65,6 @@
   topic: Cloud Security
   description: Paweł is a Penetration Tester and Security Researcher at Snowflake, focusing on app and cloud security. He performs penetration tests and infrastructure audits for a wide range of IT projects. He likes to share his knowledge by leading various workshops, giving conference talks, and teaching at universities. AWS Community Builder. In his free time, he is a CTF player (member of justCatTheFish) and enjoys buying too many Legos, despite the lack of space for more.
   twitter: _pkusik
-
-- title: Saurabh Kumar Pandey
-  name: Saurabh-kumar-Pandey
-  subtitle: Senior Security Engineer at MIQ
-  img: saurabh-kumar-pandey.png
-  thumbnail: saurabh-kumar-pandey.png
-  alt: Saurabh kumar Pandey
-  topic: Bluetooth Wardriving
-  description: Saurabh is senior security engineer at MIQ, working on Product security and Cloud security and also he is chapter lead of   Null Open security community.  He loves to present his talk in conferences like bsides banglore, Bsides Ahmedabad .He used to work on cloud security as well as cloud and OS red team.  He is currently working in the research area of IOT and OT.
-  twitter: s7_saurabh
 
 - title: Anna Mazurkiewicz
   name: Anna-Mazurkiewicz
