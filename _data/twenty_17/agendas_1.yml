@@ -22,8 +22,8 @@
   id: 4
 
 - time: 12:00 PM - 01:00 PM
-  info: "<u>Lunch break</u><br><b>Included! (For free)</b>"
-  info2: "<u>Lunch break</u><br><b>Included! (For free)</b>"
+  info: "<u>Lunch break</u><br><b>Included! (For free) 5th floor</b>"
+  info2: "<u>Lunch break</u><br><b>Included! (For free) 5th floor</b>"
   id: 5
 
 - time: 01:00 PM - 02:00 PM
