@@ -47,16 +47,6 @@
   description: Paweł is a Penetration Tester and Security Researcher at Snowflake, focusing on app and cloud security. He performs penetration tests and infrastructure audits for a wide range of IT projects. He likes to share his knowledge by leading various workshops, giving conference talks, and teaching at universities. AWS Community Builder. In his free time, he is a CTF player (member of justCatTheFish) and enjoys buying too many Legos, despite the lack of space for more.
   twitter: _pkusik
 
-- title: Melanie M aka Melmols
-  name: Melmols
-  subtitle: Lead Security Architect at Newday
-  img: melanie-m.jpeg
-  thumbnail: melanie-m.jpeg
-  alt: Melanie M aka Melmols
-  topic: Payment Systems
-  description: Hi! I’m Mel. Im a product security engineer at heart with a focus on fintech and fintech start ups. Transunion says I have an excellent credit score.
-  twitter: ssamelmols
-
 - title: Linda Ikechukwu
   name: Linda-Ikechukwu
   subtitle: Developer Advocate at Smallstep Labs
