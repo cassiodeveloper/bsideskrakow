@@ -104,16 +104,6 @@
   topic: Offensive Security
   description: "OSCE | OSEP | OSWE | OSCP | CEH | CPTC | PenTest+ | eWPT | ECIH | CREST - Founder of Zerotak Security | Co-Founder of Cyber Union Providing pentesting & security consultation for clients all over the world: Australia, U.S., U.K., Middle East, Singapore, India, Central Africa, Europe. Trainer for U.S. Department of Defense, Slovenian National Bureau of Investigation, Polish Military CERT Speaker @ Defcamp, HEK.SI, RST Con, HackTheZone, Unbreakable EC-Council Certified Ethical Hacker (CEH) Scheme Committee Member InfoSec Writer on Medium"
 
-- title: Ahmad Almorabea aka Almorabea
-  name: Almorabea
-  subtitle: VAPT Lead
-  img: ahmad-almorabea.png
-  thumbnail: ahmad-almorabea.png
-  alt: Ahmad Almorabea aka Almorabea
-  topic: Threat Hunting
-  description: With 8 years of experience in information security, incident response threat hunting, threat intelligence and digital forensic I have developed extensive skills in investigating incidents, analyzing network traffic, and reverse engineering malware. Worked with Cryptographic protocols and published many papers in the field of cryptography, As a podcaster on "The Cyber Riddler," I discuss interesting topics and real - life experiences with cybersecurity professionals. My academic background includes a Master's degree in Cybersecurity and a PhD in Computer Information Systems.
-  twitter: almorabea
-
 - title: Yossi Sassi
   name: Yossi-Sassi
   subtitle: Co-Founder at 10Root, hacker, automation freak, researcher
