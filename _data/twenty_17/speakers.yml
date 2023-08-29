@@ -27,6 +27,15 @@
   description: Mackenzie is a developer advocate with a passion for DevOps and code security. As the co-founder and former CTO of a health tech startup, he learnt first-hand how critical it is to build secure applications with robust developer operations. Today as the Developer Advocate at GitGuardian, Mackenzie is able to share his passion for code security with developers and works closely with research teams to show how malicious actors discover and exploit vulnerabilities in code.
   twitter: advocatemack
 
+- title: Cristian Cornea
+  name: Cristian-Cornea
+  subtitle: Founder @ Zerotak Security & President @ Romanian Cyber Security Training Centre of Excellence
+  img: cristian-cornea.jpeg
+  thumbnail: cristian-cornea.jpeg
+  alt: Cristian Cornea
+  topic: Offensive Security
+  description: "OSCE | OSEP | OSWE | OSCP | CEH | CPTC | PenTest+ | eWPT | ECIH | CREST - Founder of Zerotak Security | Co-Founder of Cyber Union Providing pentesting & security consultation for clients all over the world: Australia, U.S., U.K., Middle East, Singapore, India, Central Africa, Europe. Trainer for U.S. Department of Defense, Slovenian National Bureau of Investigation, Polish Military CERT Speaker @ Defcamp, HEK.SI, RST Con, HackTheZone, Unbreakable EC-Council Certified Ethical Hacker (CEH) Scheme Committee Member InfoSec Writer on Medium"
+
 - title: Filipi Pires
   name: Filipi-Pires
   subtitle: Security Researcher and Security Advocate
@@ -75,15 +84,6 @@
   topic: OSINT
   description: Security Analyst originally from Poland, living in Scotland for the last 12 years. Enthusiast of anything that is malicious, as well as OSINT investigations. In her spare time, apart from learning anything security/IT-related - she is really into travelling, learning languages, getting to know other cultures, as well as outdoor adventures.
 
-- title: Cristian Cornea
-  name: Cristian-Cornea
-  subtitle: Founder @ Zerotak Security & President @ Romanian Cyber Security Training Centre of Excellence
-  img: cristian-cornea.jpeg
-  thumbnail: cristian-cornea.jpeg
-  alt: Cristian Cornea
-  topic: Offensive Security
-  description: "OSCE | OSEP | OSWE | OSCP | CEH | CPTC | PenTest+ | eWPT | ECIH | CREST - Founder of Zerotak Security | Co-Founder of Cyber Union Providing pentesting & security consultation for clients all over the world: Australia, U.S., U.K., Middle East, Singapore, India, Central Africa, Europe. Trainer for U.S. Department of Defense, Slovenian National Bureau of Investigation, Polish Military CERT Speaker @ Defcamp, HEK.SI, RST Con, HackTheZone, Unbreakable EC-Council Certified Ethical Hacker (CEH) Scheme Committee Member InfoSec Writer on Medium"
-
 - title: Yossi Sassi
   name: Yossi-Sassi
   subtitle: Co-Founder at 10Root, hacker, automation freak, researcher
@@ -102,16 +102,6 @@
   alt: Tomasz Nowak
   topic: SAST
   description: Tomasz Nowak is a security engineer with a diverse background in distributed systems, defensive, and offensive security. Throughout most of his 16-year career, he has been at the forefront of securing computing clouds, even before they were commonly referred to as such. Currently, he is actively involved in introducing an application security program at kevin., contributing to yet another disruptive initiative, this time within the payment industry.
-
-- title: Robert Kiss aka kepten
-  name: Kepten
-  subtitle: Robert Kiss aka kepten
-  img: robert-kiss.jpg
-  thumbnail: robert-kiss.jpg
-  alt: Robert Kiss aka kepten
-  topic: SAST
-  description: "Robert has been doing IT Security shenanigans for more than 20 years now, including both offensive and defensive stuff. He got interested in security after accidentally hacking his own website written in PHP3. Since then, he participated in many online CTFs (e.g. ranked #24 on hackthissite.org at the moment) and also presented at ITSec conferences. Nowadays, he is working on building a world-class AppSec team at kevin., securing the future of payments."
-  twitter: kepten
 
 - title: Miguel Angel Hernandez Ruiz
   name: Miguel-Angel-Hernandez-Ruiz
@@ -157,6 +147,16 @@
   alt: Karolina Sochacz
   topic: Mind care
   description: I find great people and detect great career opportunities for them. I am data driven and resourceful Senior Talent Partner passionate about growing IT, Research and Engineering teams. I set up and execute the recruitment and sourcing strategy for ABB R&D Technology Center. Thanks to my diversified experience (Recruitment Process Outsourcing -RPO and in-house environment) I have a holistic approach to recruitment process.
+
+- title: Robert Kiss aka kepten
+  name: Kepten
+  subtitle: Robert Kiss aka kepten
+  img: robert-kiss.jpg
+  thumbnail: robert-kiss.jpg
+  alt: Robert Kiss aka kepten
+  topic: SAST
+  description: "Robert has been doing IT Security shenanigans for more than 20 years now, including both offensive and defensive stuff. He got interested in security after accidentally hacking his own website written in PHP3. Since then, he participated in many online CTFs (e.g. ranked #24 on hackthissite.org at the moment) and also presented at ITSec conferences. Nowadays, he is working on building a world-class AppSec team at kevin., securing the future of payments."
+  twitter: kepten
 
 - title: Paweł Kusiński
   name: Paweł-Kusiński
