@@ -167,3 +167,12 @@
   topic: Cloud Security
   description: Paweł is a Penetration Tester and Security Researcher at Snowflake, focusing on app and cloud security. He performs penetration tests and infrastructure audits for a wide range of IT projects. He likes to share his knowledge by leading various workshops, giving conference talks, and teaching at universities. AWS Community Builder. In his free time, he is a CTF player (member of justCatTheFish) and enjoys buying too many Legos, despite the lack of space for more.
   twitter: _pkusik
+
+- title: Marios Kourtesis
+  name: Marios-Kourtesis
+  subtitle: Senior Application Security Engineer
+  img: marios-kourtesis.jpg
+  thumbnail: marios-kourtesis.jpg
+  alt: Marios Kourtesis
+  topic: Cloud Security
+  description: Security consultant specialized in offensive security engagements, threat intelligence and application security best practices. He has more than 8 years experience in Cyber Security. Fields of interest are red teaming, web exploitation and security research on new technologies.
