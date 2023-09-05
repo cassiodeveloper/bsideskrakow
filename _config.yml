@@ -1,7 +1,7 @@
 title: BSides Kraków
 description: > # this means to ignore newlines until "baseurl:"
   Security BSides Kraków
-  BSides Kraków is an Information Security conference organized by the local community that aims to promote hacker culture and share knowledge.
+  BSides Kraków is an Internatinal Information Security conference organized by the local community that aims to promote hacker culture and share knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.bsideskrakow.pl" # the base hostname & protocol for your site
 # Build settings
@@ -18,7 +18,7 @@ social:
 
 # google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_2016_pages', '_2017_pages', '_2022_pages']
+include: ['_2016_pages', '_2017_pages', '_2022_pages', '_2023_pages']
 
 plugins:
   - jekyll-sitemap
@@ -26,12 +26,14 @@ plugins:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url: https://www.facebook.com/bsideskrakow
   - title: twitter
     url: https://twitter.com/bsideskrakow
   - title: linkedin
     url: https://www.linkedin.com/company/bsides-krakow
+  - title: instagram
+    url: https://www.instagram.com/bsideskrakow  
+  - title: facebook
+    url: https://www.facebook.com/bsideskrakow  
 
 # Build settings
 markdown: kramdown
