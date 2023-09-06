@@ -26,19 +26,19 @@
   img: booklet-icon.png
   name: CFP
   info: Call for papers is CLOSED!
-  link: https://sessionize.com/bsides-krakow-2023/
+  link: https://sessionize.com/bsides-krakow-2024/
 
 - inverted: timeline-inverted
   img: booklet-icon.png
   name: CFS
   info: Call for sponsors is open!
-  link: https://forms.gle/T3HAoesifwKRECG28
+  link: https://forms.gle/jojiTmpV9udyMM2U7
 
 - inverted: 
   img: booklet-icon.png
   name: CFV
   info: Call for volunteers is open!
-  link: https://forms.gle/Rz9Hqci6ZfGQNvkr7
+  link: https://forms.gle/dsWDUcgGb6Ne8UqR9
 
 - inverted: timeline-inverted
   img: icon-faq.jpeg
