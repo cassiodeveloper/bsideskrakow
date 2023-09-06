@@ -382,6 +382,7 @@ header .intro-text .intro-heading {
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
+        text-shadow: 2px 2px #000000;
     }
 
     header .intro-text .intro-heading {
@@ -391,6 +392,7 @@ header .intro-text .intro-heading {
         font-size: 70px;
         font-weight: 700;
         line-height: 75px;
+        text-shadow: 2px 2px #000000;
     }
 }
 
