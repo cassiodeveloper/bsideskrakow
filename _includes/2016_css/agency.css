@@ -244,7 +244,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default {
     border-color: transparent;
     background-color: #222;
-    text-shadow: 2px 2px #000000;
+    text-shadow: 1px 1px #000000;
 }
 
 .navbar-default .navbar-brand {
@@ -261,6 +261,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-collapse {
     border-color: rgba(255,255,255,.02);
+    text-shadow: 1px 1px #000000;
 }
 
 .navbar-default .navbar-toggle {
