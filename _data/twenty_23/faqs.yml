@@ -20,4 +20,5 @@
   answer: Please, fill out our feedback form, only this way we can improve for the future editions. Form can be found in the home page.
 
 - question: Can I earn CPE points by attending to BSides Kraków?
-  answer: Maybe yes! for this, you are going to need the letter that you can download from [this link](/files/BSides Krakow CPE Letter.pdf)
+  answer: Maybe yes! for this, you are going to need the letter that you can download from
+  link: /files/BSides Krakow CPE Letter.pdf

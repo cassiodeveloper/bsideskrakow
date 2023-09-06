@@ -16,13 +16,10 @@ published: true
         <ol>
             {% for faq in site.data.twenty_23.faqs %}
                 <li><b>{{ faq.question }}</b>
-                    <br>{{ faq.answer }}<br><br>
+                    <br>{{ faq.answer }} <a target="_blank" href="{{ faq.link }}">here</a><br><br>
                 </li>
             {% endfor %}
         </ol>
-        <p>
-            <a href="/files/BSides Krakow CPE Letter.pdf">BSides Krakow CPE Letter</a> 
-        </p>
         <p>
             For further enquiries, kindly submit your question via the <a href="/#contact">contact us</a> 
             page or send us an email at <a href="mailto:contact@bsideskrakow.pl">contact@bsideskrakow.pl</a> 
