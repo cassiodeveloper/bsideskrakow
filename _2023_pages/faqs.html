@@ -16,7 +16,11 @@ published: true
         <ol>
             {% for faq in site.data.twenty_23.faqs %}
                 <li><b>{{ faq.question }}</b>
+                    {% if faq.link %}
                     <br>{{ faq.answer }} <a target="_blank" href="{{ faq.link }}">here</a><br><br>
+                    {% else %}
+                    <br>{{ faq.answer }}<br><br>
+                    {% endif %}
                 </li>
             {% endfor %}
         </ol>
