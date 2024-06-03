@@ -2,8 +2,8 @@ title: BSides Kraków
 description: > # this means to ignore newlines until "baseurl:"
   Security BSides Kraków
   BSides Kraków is an Internatinal Information Security conference organized by the local community that aims to promote hacker culture and share knowledge.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.bsideskrakow.pl" # the base hostname & protocol for your site
+baseurl: "/bsideskrakow" # the subpath of your site, e.g. /blog
+url: "https://cassiodeveloper.com.br" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
