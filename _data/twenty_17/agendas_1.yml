@@ -1,3 +1,6 @@
 - time: 08:00 AM - 08:45 AM
   info: "<u>Check-in (Reception)</u><br><b>Reception of participants</b><br><i>Bring your QR Code ticket on App!</i>"
   id: 0
+- time: 09:00 AM - 09:30 AM
+  info: "<u>Key note</u><br><b>John Strand</b><br><i></i>"
+  id: 1
