@@ -1,0 +1,27 @@
+- title: Rafaela Durlo
+  name: Rafaela-Durlo
+  subtitle: Security Architect
+  img: rafaela.jpg
+  thumbnail: rafaela.jpg
+  alt: Rafaela Durlo
+  topic: SAST, SCA, DAST
+  description: AppSec enginner helping companies have a sucefull build secure process, optimizing the AST tools and training securoty Champions and developers.
+
+- title: Marcos Santos
+  name: Marcos-Santos
+  subtitle: Security Researcher at Greenbone
+  img: 1657629111870.jpeg
+  thumbnail: 1657629111870.jpeg
+  alt: Marcos Santos
+  topic: AppSec
+  description: Systems analyst and Programmer from Brazil now living in Germany. I have always focused on information security and currently study Cyber Security programming. One of my differentials is that I like to pass on information and teach those who are entering in the area of Technology
+
+- title: Cassio Pereira
+  name: Cassio-Pereira
+  subtitle: Cyber Security Engineer
+  img: cassio.jpeg
+  thumbnail: cassio.jpeg
+  alt: Cassio Pereira
+  topic: Application Security
+  description: Cassio Batista Pereira, a.k.a. @cassiodeveloper, is a Software Developer and Architect by training. He acts as Cyber Security Engineer and thus helps companies and professionals to build more secure solutions. He has 19 years of experience in the Development market for the most varied business segments, where he gained knowledge to work with different technologies, programming languages and processes. He is an evangelist for the Safe Development culture.
+  twitter: cassiodeveloper
