@@ -25,6 +25,7 @@ published: true
         <p>The exclusive trainings will take place two days before the BSides Event at the same venue on September 12th and 13th from 9h to 17h.</p>
         <p>To participate in one of the exclusive trainings you must register <a href="#" target="_blank">here</a></p>
         <p>Registering to the trainings give you automatic access (ticket) to the BSides Conference</p>
+        <h2>Day 1 - Thursday, September 12th</h2>
         <table class="agenda">
             <thead>
                 <tr>
@@ -49,4 +50,29 @@ published: true
                 </tr> 
             {% endfor %}
         </table>
+        <h2>Day 2 - Friday, September 13th</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-id"><center>ID</center></th>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Training</center></th>
+                    <th class="row-2 agenda-activity"><center>Instructor</center></th>
+                </tr>
+            </thead>
+            {% for agenda in site.data.twenty_17.trainings2 %}
+                <tr>
+                    <td>{{ agenda.id }}</td>
+                    <td>{{ agenda.time }}</td>
+                    {% if agenda.info2 %}
+                        <td>{{ agenda.info }}</td>
+                        <td>{{ agenda.info2 }}</td>
+                        <td>{{ agenda.instructor }}</td>                        
+                    {% else %}
+                        <td>{{agenda.info}}</td>
+                        <td>{{ agenda.instructor }}</td>
+                    {% endif %}
+                </tr> 
+            {% endfor %}
+        </table>        
     </div>
