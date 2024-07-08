@@ -16,6 +16,24 @@
   topic: AppSec
   description: Systems analyst and Programmer from Brazil now living in Germany. I have always focused on information security and currently study Cyber Security programming. One of my differentials is that I like to pass on information and teach those who are entering in the area of Technology
 
+- title: Yoad Fekete
+  name: Yoad-Fekete
+  subtitle: DevOps Engineer
+  img: yoad.jpg
+  thumbnail: yoad.jpg
+  alt: Yoad Fekete
+  topic: Supply Chain
+  description: I am a DevOps engineer with over 13 years of experience in IT, DevOps, and DevSecOps.I have designed, built hands-on, and secured complex Cloud & On-Prem projects in startups and corporates.It started from the Stone era when people deployed servers in racks. Creating infrastructure end to end, from the cable level up to the application level, was an immense privilege. In my last role, I led a group of DevOps engineers at Microsoft. Microsoft was one of the companies attacked by the Solarwinds attack, and my team was part of the incident response group. After that, we figured out that we are not protected from such future attacks - And so I started Myrror to tackle that problem.I'm a cat enthusiast, and in my non-existent spare time, I play the drums and some soccer.
+
+- title: Jonathan Afek
+  name: Jonathan-Afek
+  subtitle: CTO & Co-Founder at Mobb
+  img: jonathan.jpeg
+  thumbnail: jonathan.jpeg
+  alt: Jonathan Afek
+  topic: AI
+  description: I am Jonathan Afek, a hacker, security researcher & software builder with close to two decades of experience in cybersecurity.  In late 2021, Eitan Worcel and I recognized the need to go beyond traditional vulnerability detection and instead focus on making existing findings actionable. This led us to found Mobb, a pioneering cybersecurity company dedicated to bringing the application security market to the remediation era.
+
 - title: Cassio Pereira
   name: Cassio-Pereira
   subtitle: Cyber Security Engineer
@@ -43,24 +61,6 @@
   alt: Klaus Agnoletti
   topic: Cyber Games
   description: Klaus Agnoletti has been an all-round infosec professional since 2004. He co-founded BSides København in 2019. Recently he started out as an infosec freelancer focusing on storytelling in marketing, employer branding, game-based learning or wherever new ideas bring him.
-
-- title: Yoad Fekete
-  name: Yoad-Fekete
-  subtitle: DevOps Engineer
-  img: yoad.jpg
-  thumbnail: yoad.jpg
-  alt: Yoad Fekete
-  topic: Supply Chain
-  description: I am a DevOps engineer with over 13 years of experience in IT, DevOps, and DevSecOps.I have designed, built hands-on, and secured complex Cloud & On-Prem projects in startups and corporates.It started from the Stone era when people deployed servers in racks. Creating infrastructure end to end, from the cable level up to the application level, was an immense privilege. In my last role, I led a group of DevOps engineers at Microsoft. Microsoft was one of the companies attacked by the Solarwinds attack, and my team was part of the incident response group. After that, we figured out that we are not protected from such future attacks - And so I started Myrror to tackle that problem.I'm a cat enthusiast, and in my non-existent spare time, I play the drums and some soccer.
-
-- title: Jonathan Afek
-  name: Jonathan-Afek
-  subtitle: CTO & Co-Founder at Mobb
-  img: jonathan.jpeg
-  thumbnail: jonathan.jpeg
-  alt: Jonathan Afek
-  topic: AI
-  description: I am Jonathan Afek, a hacker, security researcher & software builder with close to two decades of experience in cybersecurity.  In late 2021, Eitan Worcel and I recognized the need to go beyond traditional vulnerability detection and instead focus on making existing findings actionable. This led us to found Mobb, a pioneering cybersecurity company dedicated to bringing the application security market to the remediation era.
 
 - title: Andrii Mytroshyn
   name: Andrii-Mytroshyn
