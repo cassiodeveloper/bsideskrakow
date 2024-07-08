@@ -18,23 +18,19 @@ published: true
                 <tr>
                     <th class="row-1 agenda-id"><center>ID</center></th>
                     <th class="row-1 agenda-time"><center>Time</center></th>
-                    <th class="row-2 agenda-activity"><center>Talks - Track 1</center></th>
-                    <th class="row-2 agenda-activity"><center>Talks - Track 2</center></th>
+                    <th class="row-2 agenda-activity"><center>Track 1 - Discovery</center></th>
+                    <th class="row-2 agenda-activity"><center>Track 2 - Insight</center></th>
+                    <th class="row-2 agenda-activity"><center>Track 3 - Frontier</center></th>
                 </tr>
             </thead>
-
             {% for agenda in site.data.twenty_17.agendas_1 %}
                 <tr>
                     <td>{{ agenda.id }}</td>
                     <td>{{ agenda.time }}</td>
-                    {% if agenda.info2 %}
-                        <td>{{ agenda.info }}</td>
-                        <td>{{ agenda.info2 }}</td>
-                        
-                    {% else %}
-                        <td>{{agenda.info}}</td>
-                        <td>-</td>
-                    {% endif %}
+                    <td>{{ agenda.info }}</td>
+                    <td>{{ agenda.info2 }}</td>
+                    <td>{{ agenda.info3 }}</td>
+                    <td>-</td>
                 </tr> 
             {% endfor %}
         </table><br /><br /><br />
@@ -59,9 +55,33 @@ published: true
                 </tr>
             </thead>
             <tr>
-                <td>TBD</td>
+                <td>09:00 AM - 09:55 AM</td>
+                <td>Integrating Secure SDLC into an Ongoing Project: Elevating Security from the Ground Up<br /><b>Mykola Kolomiiets</b><br /><i>Solution Architect at NIX</i></td>
+            </tr>
+            <tr>
+                <td>10:00 AM - 10:55 AM</td>
                 <td>TBD</td>
             </tr>
+            <tr>
+                <td>11:00 AM - 11:55 AM</td>
+                <td>The magic of ASPM<br /><b>Cássio Pereira</b><br /><i>Application Security Expert at Backbase</i></td>
+            </tr>
+            <tr>
+                <td>12:00 AM - 13:00 AM</td>
+                <td>Lunch break</td>
+            </tr>
+            <tr>
+                <td>13:00 AM - 14:55 AM</td>
+                <td>Secure coding training - Stop creating shit code<br /><b>Cássio Pereira, Marcos Santos and Rafaela Durlo</b><br /><i>Application Security Experts at Backbase, Greenbones & Epam</i></td>
+            </tr>
+            <tr>
+                <td>15:00 AM - 15:55 AM</td>
+                <td>Fixing your code with AI<br /><b>Jonathan Afek</b><br /><i>CTO & Co-Founder at Mobb</i></td>
+            </tr>
+            <tr>
+                <td>16:00 AM - 16:55 AM</td>
+                <td>XZ Backdoor: Navigating the Complexities of Supply Chain Attacks Detected by Accident<br /><b>Yoad Fekete</b><br /><i>CEO & Co-Founder at Myrror Security</i></td>
+            </tr> 
         </table><br /><br /><br />
         <div class="row">
             <div class="col-md-4 col-sm-6">
@@ -82,12 +102,39 @@ published: true
                     <th class="row-1 agenda-time"><center>Time</center></th>
                     <th class="row-2 agenda-activity"><center>Activity</center></th>  
                 </tr>
-
             </thead>
             <tr>
-                <td>TBD</td>
+                <td>09:00 AM - 09:55 AM</td>
                 <td>TBD</td>
             </tr>
+            <tr>
+                <td>10:00 AM - 10:55 AM</td>
+                <td>TBD</td>
+            </tr>
+            <tr>
+                <td>11:00 AM - 11:55 AM</td>
+                <td>TBD</td>
+            </tr>
+            <tr>
+                <td>12:00 AM - 13:00 AM</td>
+                <td>Lunch break</td>
+            </tr>
+            <tr>
+                <td>13:00 AM - 13:55 AM</td>
+                <td>Dungeons & Dragons: The security powertool you didn’t know you needed<br /><b>Klaus Agnoletti</b><br /><i>Storytelling Cyber Security Advisor</i></td>
+            </tr>
+            <tr>
+                <td>14:00 AM - 14:55 AM</td>
+                <td>TBD</td>
+            </tr>
+            <tr>
+                <td>15:00 AM - 15:55 AM</td>
+                <td>TBD</td>
+            </tr>            
+            <tr>
+                <td>16:00 AM - 16:55 AM</td>
+                <td>TBD</td>
+            </tr>                        
         </table><br /><br /><br />
         <div class="row">
             <div class="col-md-4 col-sm-6">
@@ -111,15 +158,15 @@ published: true
             </tr>
             <tr>
                 <td>20:00 PM - 20:30 PM</td>
-                <td><u>TALK 1</u><br><i>TBD</i><br><br>TBD</td>
+                <td><u>Troll Malware - Some just want to see it burn.</u><br><i>TBD</i><br><br>TBD</td>
             </tr>
             <tr>
                 <td>20:30 PM - 21:00 PM</td>
-                <td><u>TALK 2</u><br><i>TBD</i><br><br>TBD</td>
+                <td><u>I’m ok, you’re ok, we’re ok: Living with AD(H)D in Infosec</u><br><i>TBD</i><br><br>TBD</td>
             </tr>
             <tr>
                 <td>21:00 PM - 22:00 PM</td>
-                <td><u>4 LIGHTNING TALKS - 15m each</u><br><i>TBD</i><br><br>TBD</td>
+                <td><u>4 LIGHTNING TALKS - 15m each</u><br><i>No need to submit your talk, just come to the stage and, talk!</i><br><br>No commercial talks allowed.</td>
             </tr>            
         </table>
     </div>

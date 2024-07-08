@@ -25,3 +25,66 @@
   topic: Application Security
   description: Cassio Batista Pereira, a.k.a. @cassiodeveloper, is a Software Developer and Architect by training. He acts as Cyber Security Engineer and thus helps companies and professionals to build more secure solutions. He has 19 years of experience in the Development market for the most varied business segments, where he gained knowledge to work with different technologies, programming languages and processes. He is an evangelist for the Safe Development culture.
   twitter: cassiodeveloper
+
+- title: Mykola Kolomiiets
+  name: Mykola-Kolomiiets
+  subtitle: Solution Architect at NIX
+  img: mykola-kolomiiets.jpg
+  thumbnail: mykola-kolomiiets.jpg
+  alt: Mykola Kolomiiets
+  topic: Application Security - SDLC
+  description: Starting as a Full Stack Developer, I quickly mastered both front-end and back-end technologies, delivering innovative and integrated solutions. My transition to a Tech Lead role showcased my leadership and technical skills, leading complex projects to success. Diving into AI and cybersecurity, I enhanced our software's security and intelligence, leveraging my skills to drive innovation. Now, as a Solutions Architect, I blend my development, leadership, and technical expertise to architect solutions that align with business goals and drive digital transformation.
+
+- title: Klaus Agnoletti
+  name: Klaus-Agnoletti
+  subtitle: Storytelling Cyber Security Advisor
+  img: klaus-agnoletti.png
+  thumbnail: klaus-agnoletti.png
+  alt: Klaus Agnoletti
+  topic: Cyber Games
+  description: Klaus Agnoletti has been an all-round infosec professional since 2004. He co-founded BSides København in 2019. Recently he started out as an infosec freelancer focusing on storytelling in marketing, employer branding, game-based learning or wherever new ideas bring him.
+
+- title: Yoad Fekete
+  name: Yoad-Fekete
+  subtitle: DevOps Engineer
+  img: yoad.jpg
+  thumbnail: yoad.jpg
+  alt: Yoad Fekete
+  topic: Supply Chain
+  description: I am a DevOps engineer with over 13 years of experience in IT, DevOps, and DevSecOps.I have designed, built hands-on, and secured complex Cloud & On-Prem projects in startups and corporates.It started from the Stone era when people deployed servers in racks. Creating infrastructure end to end, from the cable level up to the application level, was an immense privilege. In my last role, I led a group of DevOps engineers at Microsoft. Microsoft was one of the companies attacked by the Solarwinds attack, and my team was part of the incident response group. After that, we figured out that we are not protected from such future attacks - And so I started Myrror to tackle that problem.I'm a cat enthusiast, and in my non-existent spare time, I play the drums and some soccer.
+
+- title: Jonathan Afek
+  name: Jonathan-Afek
+  subtitle: CTO & Co-Founder at Mobb
+  img: jonathan.jpeg
+  thumbnail: jonathan.jpeg
+  alt: Jonathan Afek
+  topic: AI
+  description: I am Jonathan Afek, a hacker, security researcher & software builder with close to two decades of experience in cybersecurity.  In late 2021, Eitan Worcel and I recognized the need to go beyond traditional vulnerability detection and instead focus on making existing findings actionable. This led us to found Mobb, a pioneering cybersecurity company dedicated to bringing the application security market to the remediation era.
+
+- title: Andrii Mytroshyn
+  name: Andrii-Mytroshyn
+  subtitle: Software Engineer at Carbon Black
+  img: andrii-mytroshyn.jpg
+  thumbnail: andrii-mytroshyn.jpg
+  alt: Andrii Mytroshyn
+  topic: Offensive Security
+  description: Samsung Electronics, computer graphics 6 years and 8 month. Visteon Corporation, computer graphics 5 years and 5 month. Carbon black, security 1 year and 4 month
+
+- title: Steve Borosh aka rvrsh3ll
+  name: Steve-Borosh
+  subtitle: Instructor and Red Teamer, BHIS, FutureSec, LLC
+  img: steve-borosh.jpg
+  thumbnail: steve-borosh.jpg
+  alt: Steve Borosh aka rvrsh3ll
+  topic: Cyber War
+  description: Steve Borosh started hacking the planet with Black Hills Information Security in 2021 and has been instructing offensive courses since 2015. Steve has instructed at conferences such as BlackHat and Wild West Hackin' Fest, for Fortune 500 companies, and for federal law enforcement. He currently annoys system administrators as part of the ANTISOC team at BHIS and enjoys releasing shock-and-awe research blogs and open-source tools to drive change in the industry.
+
+- title: Dorota Kozlowska
+  name: Dorota-Kozlowska
+  subtitle: Wonder Woman of Cyber
+  img: dorota-kozlowska.jpg
+  thumbnail: dorota-kozlowska.jpg
+  alt: Dorota Kozlowska
+  topic: Social Engineering
+  description: Dorota Kozlowska dreamed of becoming a hacker since her youngest days, and then one day she decided that it is time to take that leap of faith and change her life for the one she envisioned for herself. As a certified cybersecurity specialist, she shares why she established herself in the cybersecurity industry to 'be the senior you needed when you were a junior', and tries to empower other women to become cybersecurity specialists. This is why she shares her learning journey, tips on how she became a cybersecurity professional, as well as useful learning and motivational material to help others build courage and follow their dreams - the way she did. She also enjoys sharing knowledge and insights as an international keynote speaker. Dorota is passionate about the Red Team, and Black Ops part of the Cyber Universe, as she worked as a Penetration tester for a few years, but now at Yogosha is responsible for building and growing the Hacker community, and ensuring the Hackers are successful at their endeavors just as a Hacker Success Manager should. Recognition - the Cyber Woman Hope (Europe) trophy handed out by CEFCYS, and 40 under 40 in Cybersecurity 2023 from the Top Cyber News Magazine. She loves gaining new skills and learning about new technologies. Possesses a strong investigative mindset with attention to detail, loves challenges, and on top of that she is a genuinely nice person. Degrees in Economics (Masters), Management and Marketing (Bachelors), and Computer Science (Post-grad). An avid cyclist, archer, guitar player, and adventurer.
