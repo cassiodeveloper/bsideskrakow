@@ -1,7 +1,7 @@
 - time: 08:00 AM - 08:50 AM
   info: "<u>Check-in (Reception)</u><br><b>Reception of participants</b><br><i>Bring your QR Code ticket on App!</i>"
-  info2: "-"
-  info3: "-"
+  info2: "<u>Check-in (Reception)</u><br><b>Reception of participants</b><br><i>Bring your QR Code ticket on App!</i>"
+  info3: "<u>Check-in (Reception)</u><br><b>Reception of participants</b><br><i>Bring your QR Code ticket on App!</i>"
   id: 0
 - time: 09:00 AM - 09:55 AM
   info: "<u>Offensive Operations Against Foreign Adversaries: Russia</u><br><b>Steve Borosh aka rvrsh3ll</b><br><i>Steve Borosh started hacking the planet with Black Hills Information Security in 2021 and has been instructing offensive courses since 2015. Steve has instructed at conferences such as BlackHat and Wild West Hackin' Fest, for Fortune 500 companies, and for federal law enforcement. He currently annoys system administrators as part of the ANTISOC team at BHIS and enjoys releasing shock-and-awe research blogs and open-source tools to drive change in the industry.</i>"
@@ -20,8 +20,8 @@
   id: 3
 - time: 12:00 AM - 13:00 AM
   info: "<u>Lunch break</u><br><b>0 floor</b><br><i></i>"
-  info2: "-"
-  info3: "-"
+  info2: "<u>Lunch break</u><br><b>0 floor</b><br><i></i>"
+  info3: "<u>Lunch break</u><br><b>0 floor</b><br><i></i>"
   id: 4
 - time: 13:00 AM - 13:55 AM
   info: "<u>TBD</u><br><b>TBD</b><br><i></i>"
