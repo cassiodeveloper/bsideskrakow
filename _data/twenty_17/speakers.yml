@@ -73,15 +73,6 @@
   description: Cassio Batista Pereira, a.k.a. @cassiodeveloper, is a Software Developer and Architect by training. He acts as Cyber Security Engineer and thus helps companies and professionals to build more secure solutions. He has 19 years of experience in the Development market for the most varied business segments, where he gained knowledge to work with different technologies, programming languages and processes. He is an evangelist for the Safe Development culture.
   twitter: cassiodeveloper
 
-- title: Andrii Mytroshyn
-  name: Andrii-Mytroshyn
-  subtitle: Software Engineer at Carbon Black
-  img: andrii-mytroshyn.jpg
-  thumbnail: andrii-mytroshyn.jpg
-  alt: Andrii Mytroshyn
-  topic: Offensive Security
-  description: Samsung Electronics, computer graphics 6 years and 8 month. Visteon Corporation, computer graphics 5 years and 5 month. Carbon black, security 1 year and 4 month
-
 - title: Marcos Santos
   name: Marcos-Santos
   subtitle: Security Researcher at Greenbone
@@ -110,14 +101,14 @@
   topic: Secret Scanning
   description: Danish Tariq is a Security Engineer by profession and a Security researcher by passion. He has been working in Cyber Security for over 8 years and it all started out of a curiosity to break things and look deep down into those things (physical or virtual) back in his teenage years. His major expertise is Penetration Testing and Vulnerability Assessments. He was also involved in bug bounty programs as well, where he helped many companies by finding vulnerabilities at different levels. Companies include Microsoft, Apple, Nokia, Blackberry, Adobe, etc.<ul><li>Spoke @ BlackHat MEA 2022 (Briefing - Supply-Chain Attacks)</li><li>Featured in "The Register" for an initial workaround for the NPM dependency attacks.</li><li>Certified Ethical Hacker, Certified Vulnerability Assessor (CVA), Certified AppSec Practitioner, Certified Network Security Specialist (CNSS), IBM Cyber Security Analyst</li><li>Ex-Chapter Leader @ OWASP</li><li>Ex-Top Rated freelancer (Information security category) on Upwork</li><li>Recent security research and CVEs include - CVE-2022-2848 & CVE-2022-25523</li><li>Served as a Moderator @ OWASP 2022 Global AppSec APAC.</li></ul>
 
-- title: Dorota Kozlowska
-  name: Dorota-Kozlowska
-  subtitle: Wonder Woman of Cyber
-  img: dorota-kozlowska.jpg
-  thumbnail: dorota-kozlowska.jpg
-  alt: Dorota Kozlowska
-  topic: Social Engineering
-  description: Dorota Kozlowska dreamed of becoming a hacker since her youngest days, and then one day she decided that it is time to take that leap of faith and change her life for the one she envisioned for herself. As a certified cybersecurity specialist, she shares why she established herself in the cybersecurity industry to 'be the senior you needed when you were a junior', and tries to empower other women to become cybersecurity specialists. This is why she shares her learning journey, tips on how she became a cybersecurity professional, as well as useful learning and motivational material to help others build courage and follow their dreams - the way she did. She also enjoys sharing knowledge and insights as an international keynote speaker. Dorota is passionate about the Red Team, and Black Ops part of the Cyber Universe, as she worked as a Penetration tester for a few years, but now at Yogosha is responsible for building and growing the Hacker community, and ensuring the Hackers are successful at their endeavors just as a Hacker Success Manager should. Recognition - the Cyber Woman Hope (Europe) trophy handed out by CEFCYS, and 40 under 40 in Cybersecurity 2023 from the Top Cyber News Magazine. She loves gaining new skills and learning about new technologies. Possesses a strong investigative mindset with attention to detail, loves challenges, and on top of that she is a genuinely nice person. Degrees in Economics (Masters), Management and Marketing (Bachelors), and Computer Science (Post-grad). An avid cyclist, archer, guitar player, and adventurer.
+- title: Andrii Mytroshyn
+  name: Andrii-Mytroshyn
+  subtitle: Software Engineer at Carbon Black
+  img: andrii-mytroshyn.jpg
+  thumbnail: andrii-mytroshyn.jpg
+  alt: Andrii Mytroshyn
+  topic: Offensive Security
+  description: Samsung Electronics, computer graphics 6 years and 8 month. Visteon Corporation, computer graphics 5 years and 5 month. Carbon black, security 1 year and 4 month
 
 - title: Hassan Khan Yusufzai
   name: Hassan-Khan-Yusufzai
@@ -128,3 +119,12 @@
   topic: Secret Scanning
   description: Highly experienced Security Researcher with a proven track record of internet-wide scanning and Penetration Testing. A sought-after speaker, Hassan recently presented at the BlackHatMEA 2022 conference. His expertise extends to Ruby security, where he has conducted extensive research over the past few years. As a certified OSCP (Offensive Security Certified Professional), Hassan has also made a name for himself as a successful bug bounty hunter on both HackerOne and Bugcrowd. Hassan's achievements have earned him recognition in the industry, including inclusion in the Google Security Hall of Fame (2017), Twitter Security Hall of Fame (2017), and Microsoft Security Hall of Fame (2017). He has also conducted extensive research into WordPress security and won the HackFest CTF competition. In addition to his research, Hassan is also the developer of GemScanner.py and an npm scanner for account hijacking, further demonstrating his commitment to the security field and his skills as a developer.
   twitter: Splint3r7
+
+- title: Dorota Kozlowska
+  name: Dorota-Kozlowska
+  subtitle: Wonder Woman of Cyber
+  img: dorota-kozlowska.jpg
+  thumbnail: dorota-kozlowska.jpg
+  alt: Dorota Kozlowska
+  topic: Social Engineering
+  description: Dorota Kozlowska dreamed of becoming a hacker since her youngest days, and then one day she decided that it is time to take that leap of faith and change her life for the one she envisioned for herself. As a certified cybersecurity specialist, she shares why she established herself in the cybersecurity industry to 'be the senior you needed when you were a junior', and tries to empower other women to become cybersecurity specialists. This is why she shares her learning journey, tips on how she became a cybersecurity professional, as well as useful learning and motivational material to help others build courage and follow their dreams - the way she did. She also enjoys sharing knowledge and insights as an international keynote speaker. Dorota is passionate about the Red Team, and Black Ops part of the Cyber Universe, as she worked as a Penetration tester for a few years, but now at Yogosha is responsible for building and growing the Hacker community, and ensuring the Hackers are successful at their endeavors just as a Hacker Success Manager should. Recognition - the Cyber Woman Hope (Europe) trophy handed out by CEFCYS, and 40 under 40 in Cybersecurity 2023 from the Top Cyber News Magazine. She loves gaining new skills and learning about new technologies. Possesses a strong investigative mindset with attention to detail, loves challenges, and on top of that she is a genuinely nice person. Degrees in Economics (Masters), Management and Marketing (Bachelors), and Computer Science (Post-grad). An avid cyclist, archer, guitar player, and adventurer.
