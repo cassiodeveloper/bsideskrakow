@@ -9,9 +9,9 @@
   info3: "-"
   id: 1
 - time: 10:00 AM - 10:55 AM
-  info: "<u>TBD</u><br><b>TBD</b><br><i></i>"
+  info: "-"
   info2: "-"
-  info3: "-"
+  info3: "<u>Demystifying Confidential Computing: A Practical Introduction for Cloud Native Engineers</u><br><b>Fabian Kammel</b><br><i>Confidential computing stands at the forefront of modern security paradigms, offering unprecedented levels of data protection in cloud environments. As cloud-native architectures become increasingly prevalent, understanding and leveraging confidential virtual machines (CVMs) is paramount for engineers tasked with safeguarding sensitive data. This talk aims to demystify confidential computing and provide cloud-native engineers with a practical introduction to integrating confidential VMs into their cloud infrastructures.</i>"
   id: 2
 - time: 11:00 AM - 11:55 AM
   info: "-"
@@ -24,9 +24,9 @@
   info3: "<u>Lunch break</u><br><b>0 floor</b><br><i></i>"
   id: 4
 - time: 13:00 AM - 13:55 AM
-  info: "<u>TBD</u><br><b>TBD</b><br><i></i>"
+  info: "-"
   info2: "-"
-  info3: "-"
+  info3: "<u>The Questionable State of ML(Ops) Security</u><br><b>Mikołaj Kowalczyk</b><br><i>In this session I will cover the state of MLOps security, I will demonstrate a few interesting ways of stealing OpenAI API keys and getting access to the self-deployed ML models owned by other people. I will also discuss OWASP Top10 for Machine Learning - a standard to which I contribute.</i>"
   id: 5
 - time: 14:00 AM - 14:55 AM
   info: "<u>TBD</u><br><b>TBD</b><br><i></i>"
