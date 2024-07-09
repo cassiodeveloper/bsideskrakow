@@ -89,6 +89,7 @@
   alt: Steve Borosh aka rvrsh3ll
   topic: Cyber War
   description: Steve Borosh started hacking the planet with Black Hills Information Security in 2021 and has been instructing offensive courses since 2015. Steve has instructed at conferences such as BlackHat and Wild West Hackin' Fest, for Fortune 500 companies, and for federal law enforcement. He currently annoys system administrators as part of the ANTISOC team at BHIS and enjoys releasing shock-and-awe research blogs and open-source tools to drive change in the industry.
+  twitter: rvrsh3ll
 
 - title: Fabian Kammel
   name: Fabian-Kammel
@@ -98,6 +99,7 @@
   alt: Fabian Kammel
   topic: Cloud Security
   description: Fabian Kammel is a Senior Security Consultant at ControlPlane, where he helps to make the (cloud-native) world a safer place. His goal is to bring hardware security and cloud-native security closer together, as well as, improving the developer experience in the security space. He previously spoke at KubeCon, SigstoreCon, was a guest on the Kubernetes Podcast, and regular host of the CNCF TAG Security.
+  twitter: datosh18
 
 - title: Hassan Khan Yusufzai
   name: Hassan-Khan-Yusufzai
@@ -107,6 +109,7 @@
   alt: Hassan Khan Yusufzai
   topic: Secret Scanning
   description: Highly experienced Security Researcher with a proven track record of internet-wide scanning and Penetration Testing. A sought-after speaker, Hassan recently presented at the BlackHatMEA 2022 conference. His expertise extends to Ruby security, where he has conducted extensive research over the past few years. As a certified OSCP (Offensive Security Certified Professional), Hassan has also made a name for himself as a successful bug bounty hunter on both HackerOne and Bugcrowd. Hassan's achievements have earned him recognition in the industry, including inclusion in the Google Security Hall of Fame (2017), Twitter Security Hall of Fame (2017), and Microsoft Security Hall of Fame (2017). He has also conducted extensive research into WordPress security and won the HackFest CTF competition. In addition to his research, Hassan is also the developer of GemScanner.py and an npm scanner for account hijacking, further demonstrating his commitment to the security field and his skills as a developer.
+  twitter: Splint3r7
 
 - title: Danish Tariq
   name: Danish-Tariq
