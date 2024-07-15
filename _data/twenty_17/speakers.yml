@@ -137,3 +137,12 @@
   alt: Tayla Micael Sellschop
   topic: Physical Security
   description: Tayla Sellschop, is a Security Analyst at Telspace, specializes in physical security assessments and social engineering. With a background in law and sociology, Tayla developed her passion for cybersecurity during her three-year stay in China, driven by a desire to make a positive impact on the world. She has presented talks at Bsides Munich on DNA cryptography and delivered presentations in South Africa focused on unraveling China's cybersecurity landscape. BA (Law) BA Hons (Development Studies) PNPT , PJPT , CEH , IBM CysSec
+
+- title: Pedro-Dallegrave
+  name: Pedro-Dallegrave
+  subtitle: Engineering Manager - Platform
+  img: pedro-dallegrave.jpg
+  thumbnail: pedro-dallegrave.jpg
+  alt: Pedro Dallegrave
+  topic: K8S Security
+  description: Security engineer who, after too much time breaking things, decided to become a DevOps engineer to fix them.
