@@ -129,6 +129,15 @@
   topic: Social Engineering
   description: Dorota Kozlowska dreamed of becoming a hacker since her youngest days, and then one day she decided that it is time to take that leap of faith and change her life for the one she envisioned for herself. As a certified cybersecurity specialist, she shares why she established herself in the cybersecurity industry to 'be the senior you needed when you were a junior', and tries to empower other women to become cybersecurity specialists. This is why she shares her learning journey, tips on how she became a cybersecurity professional, as well as useful learning and motivational material to help others build courage and follow their dreams - the way she did. She also enjoys sharing knowledge and insights as an international keynote speaker. Dorota is passionate about the Red Team, and Black Ops part of the Cyber Universe, as she worked as a Penetration tester for a few years, but now at Yogosha is responsible for building and growing the Hacker community, and ensuring the Hackers are successful at their endeavors just as a Hacker Success Manager should. Recognition - the Cyber Woman Hope (Europe) trophy handed out by CEFCYS, and 40 under 40 in Cybersecurity 2023 from the Top Cyber News Magazine. She loves gaining new skills and learning about new technologies. Possesses a strong investigative mindset with attention to detail, loves challenges, and on top of that she is a genuinely nice person. Degrees in Economics (Masters), Management and Marketing (Bachelors), and Computer Science (Post-grad). An avid cyclist, archer, guitar player, and adventurer.
 
+- title: Brian Vlootman
+  name: Brian-Vlootman
+  subtitle: CISO
+  img: brian-vlootman.jpg
+  thumbnail: brian-vlootman.jpg
+  alt: Brian Vlootman
+  topic: Keynote
+  description: Brian Vlootman is a pragmatic and passionate information security professional with more than 25 years of experience in information security in both technical and leadership roles. He’s currently serving as Backbase’s Chief Information Security Officer, tackling the challenges of empowering hundreds of developer and ops team to deliver secure banking applications.
+
 - title: Tayla Micael Sellschop
   name: Tayla-Micael-Sellschop
   subtitle: Cyber Security Analyst at Telspace Africa
@@ -137,24 +146,6 @@
   alt: Tayla Micael Sellschop
   topic: Physical Security
   description: Tayla Sellschop, is a Security Analyst at Telspace, specializes in physical security assessments and social engineering. With a background in law and sociology, Tayla developed her passion for cybersecurity during her three-year stay in China, driven by a desire to make a positive impact on the world. She has presented talks at Bsides Munich on DNA cryptography and delivered presentations in South Africa focused on unraveling China's cybersecurity landscape. BA (Law) BA Hons (Development Studies) PNPT , PJPT , CEH , IBM CysSec
-
-- title: Pedro-Dallegrave
-  name: Pedro-Dallegrave
-  subtitle: Engineering Manager - Platform
-  img: pedro-dallegrave.jpg
-  thumbnail: pedro-dallegrave.jpg
-  alt: Pedro Dallegrave
-  topic: K8S Security
-  description: Security engineer who, after too much time breaking things, decided to become a DevOps engineer to fix them.
-
-- title: Paul Molin
-  name: Paul-Molin
-  subtitle: Web Application Security Evangelist at Theodo
-  img: paul-molin.jpg
-  thumbnail: paul-molin.jpg
-  alt: Paul Molin
-  topic: AI Security
-  description: After training in information systems security, he joins Theodo in 2013 and becomes passionate about web development. Very quickly, he specializes in security issues by helping Theodo teams to succeed in their post-production audits. He eventually becomes group CISO, and he is committed to creating a security culture in a developer company. He loves giving talks, especially to help developers understand the cybersecurity world. Convinced that it is developers who will change the world of cybersecurity, he leads trainings and develops tools to help them code flawlessly the first time.
 
 - title: John Strand
   name: John-Strand
@@ -165,11 +156,20 @@
   topic: Keynote
   description: John is the owner of Black Hills Information Security, a company specializing in penetration testing and security architecture services. He feels strongly that education is how the world of information security will change for the better and spends a considerable amount of time teaching and presenting around the world. He has presented for the FBI, NASA, the NSA, DefCon and is a frequent guest on Enterprise Security Weekly. In his spare time he writes loud rock music and makes various futile attempts at fly-fishing
 
-- title: Brian Vlootman
-  name: Brian-Vlootman
-  subtitle: CISO
-  img: brian-vlootman.jpg
-  thumbnail: brian-vlootman.jpg
-  alt: Brian Vlootman
-  topic: Keynote
-  description: Brian Vlootman is a pragmatic and passionate information security professional with more than 25 years of experience in information security in both technical and leadership roles. He’s currently serving as Backbase’s Chief Information Security Officer, tackling the challenges of empowering hundreds of developer and ops team to deliver secure banking applications.
+- title: Paul Molin
+  name: Paul-Molin
+  subtitle: Web Application Security Evangelist at Theodo
+  img: paul-molin.jpg
+  thumbnail: paul-molin.jpg
+  alt: Paul Molin
+  topic: AI Security
+  description: After training in information systems security, he joins Theodo in 2013 and becomes passionate about web development. Very quickly, he specializes in security issues by helping Theodo teams to succeed in their post-production audits. He eventually becomes group CISO, and he is committed to creating a security culture in a developer company. He loves giving talks, especially to help developers understand the cybersecurity world. Convinced that it is developers who will change the world of cybersecurity, he leads trainings and develops tools to help them code flawlessly the first time.
+
+- title: Pedro-Dallegrave
+  name: Pedro-Dallegrave
+  subtitle: Engineering Manager - Platform
+  img: pedro-dallegrave.jpg
+  thumbnail: pedro-dallegrave.jpg
+  alt: Pedro Dallegrave
+  topic: K8S Security
+  description: Security engineer who, after too much time breaking things, decided to become a DevOps engineer to fix them.
