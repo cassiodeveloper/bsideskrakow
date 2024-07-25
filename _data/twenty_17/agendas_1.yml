@@ -3,19 +3,24 @@
   info2: "<u>Check-in (Reception)</u><br><b>Reception of participants</b><br><i>Bring your QR Code ticket on App!</i>"
   info3: "<u>Check-in (Reception)</u><br><b>Reception of participants</b><br><i>Bring your QR Code ticket on App!</i>"
   id: 0
+- time: 08:50 AM - 09:00 AM
+  info: "<u>Opening</u><br><b>Cássio Pereira</b><br><i>BSides Kraków 2024 & 2025</i>"
+  info2: "-"
+  info3: "-"
+  id: 0  
 - time: 09:00 AM - 09:55 AM
   info: "<u>Offensive Operations Against Foreign Adversaries: Russia</u><br><b>Steve Borosh aka rvrsh3ll</b><br><i>Steve Borosh started hacking the planet with Black Hills Information Security in 2021 and has been instructing offensive courses since 2015. Steve has instructed at conferences such as BlackHat and Wild West Hackin' Fest, for Fortune 500 companies, and for federal law enforcement. He currently annoys system administrators as part of the ANTISOC team at BHIS and enjoys releasing shock-and-awe research blogs and open-source tools to drive change in the industry.</i>"
   info2: "TBD"
   info3: "<u>Chessboard of War: Breaching the perimeter on physical cyber security engagements</u><br><b>Tayla Micael Sellschop</b><br><i>This presentation is designed to illustrate to participants the functioning of physical assessments in real-world scenarios. It delves into the conceptual and practical methodologies employed by offensive security analysts in gaining entry to a building and utilizing that access for subsequent internal exploits. This presentation additionally provides insights on optimal strategies to safeguard against external threats and enhance employee awareness regarding the risks associated with insufficient physical security measures on their premises. Attendees will leave with three key insights. Firstly, an understanding of the psychology behind social engineering and its dynamics within different cultural contexts. Secondly, awareness of various tools, including Raspberry Pi's, keyloggers, and card cloners, commonly employed in engagements. Lastly, they will gain knowledge of best practices, highlighting how organizations can fortify their physical security and enhance awareness to protect themselves.</i>"
   id: 1
 - time: 10:00 AM - 10:30 AM
-  info: "-"
-  info2: "<u>If you want to be a CISO, then check this first</u><br><b>Brian Vlootman</b><br><i>If you’re aspiring to be a CISO, do you really know what you are getting into? This talk will cover the reality of being a CISO and an honest reflection of what you need to be a great CISO. There are many ways to grow as a security professional and they most always don’t end with the CISO role. But a better understanding of what that role is about may help you to grow faster.</i>"
+  info: "<u>If you want to be a CISO, then check this first</u><br><b>Brian Vlootman</b><br><i>If you’re aspiring to be a CISO, do you really know what you are getting into? This talk will cover the reality of being a CISO and an honest reflection of what you need to be a great CISO. There are many ways to grow as a security professional and they most always don’t end with the CISO role. But a better understanding of what that role is about may help you to grow faster.</i>"
+  info2: "-"
   info3: "-"
   id: 2
 - time: 10:30 AM - 11:00 AM
-  info: "-"
-  info2: "<u>A Quick, Efficient Yet Not Entirely Sane Introduction to Deception</u><br><b>John Strand</b><br><i>Active Defenses have been capturing a large amount of attention in the media lately. There are those who thirst for vengeance and want to directly attack the attackers. There are those who believe that any sort of active response directed at an attacker is wrong. We believe the answer is somewhere in between.</i>"
+  info: "<u>A Quick, Efficient Yet Not Entirely Sane Introduction to Deception</u><br><b>John Strand</b><br><i>Active Defenses have been capturing a large amount of attention in the media lately. There are those who thirst for vengeance and want to directly attack the attackers. There are those who believe that any sort of active response directed at an attacker is wrong. We believe the answer is somewhere in between.</i>"
+  info2: "-"
   info3: "-"
   id: 3  
 - time: 10:00 AM - 10:55 AM
