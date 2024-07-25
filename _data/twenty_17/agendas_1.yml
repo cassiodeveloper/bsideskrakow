@@ -8,38 +8,48 @@
   info2: "TBD"
   info3: "<u>Chessboard of War: Breaching the perimeter on physical cyber security engagements</u><br><b>Tayla Micael Sellschop</b><br><i>This presentation is designed to illustrate to participants the functioning of physical assessments in real-world scenarios. It delves into the conceptual and practical methodologies employed by offensive security analysts in gaining entry to a building and utilizing that access for subsequent internal exploits. This presentation additionally provides insights on optimal strategies to safeguard against external threats and enhance employee awareness regarding the risks associated with insufficient physical security measures on their premises. Attendees will leave with three key insights. Firstly, an understanding of the psychology behind social engineering and its dynamics within different cultural contexts. Secondly, awareness of various tools, including Raspberry Pi's, keyloggers, and card cloners, commonly employed in engagements. Lastly, they will gain knowledge of best practices, highlighting how organizations can fortify their physical security and enhance awareness to protect themselves.</i>"
   id: 1
+- time: 10:00 AM - 10:30 AM
+  info: "-"
+  info2: "<u>If you want to be a CISO, then check this first</u><br><b>Brian Vlootman</b><br><i>If you’re aspiring to be a CISO, do you really know what you are getting into? This talk will cover the reality of being a CISO and an honest reflection of what you need to be a great CISO. There are many ways to grow as a security professional and they most always don’t end with the CISO role. But a better understanding of what that role is about may help you to grow faster.</i>"
+  info3: "-"
+  id: 2
+- time: 10:30 AM - 11:00 AM
+  info: "-"
+  info2: "<u>A Quick, Efficient Yet Not Entirely Sane Introduction to Deception</u><br><b>John Strand</b><br><i>Active Defenses have been capturing a large amount of attention in the media lately. There are those who thirst for vengeance and want to directly attack the attackers. There are those who believe that any sort of active response directed at an attacker is wrong. We believe the answer is somewhere in between.</i>"
+  info3: "-"
+  id: 3  
 - time: 10:00 AM - 10:55 AM
   info: "TBD"
   info2: "TBD"
   info3: "<u>Demystifying Confidential Computing: A Practical Introduction for Cloud Native Engineers</u><br><b>Fabian Kammel</b><br><i>Confidential computing stands at the forefront of modern security paradigms, offering unprecedented levels of data protection in cloud environments. As cloud-native architectures become increasingly prevalent, understanding and leveraging confidential virtual machines (CVMs) is paramount for engineers tasked with safeguarding sensitive data. This talk aims to demystify confidential computing and provide cloud-native engineers with a practical introduction to integrating confidential VMs into their cloud infrastructures.</i>"
-  id: 2
+  id: 4
 - time: 11:00 AM - 11:55 AM
   info: "TBD"
   info2: "TBD"
   info3: "<u>Social engineering and elicitation techniques of hacking a human being.</u><br><b>Dorota Kozlowska</b><br><i>Presentation of Social engineering theory, and techniques, going in-depth to learn about elicitation and building rapport with your potential victim. Examples of real-life attacks, and final thoughts on who could be a social engineer and how to defend yourself against one. The person listening to my talk will end it with tangible knowledge on social engineering and places to go if they want to learn more. <br />Agenda:<ul><li>1. What is social engineering? Examples.</li><li>2. Becoming Anyone you want to be - Pretexting.</li><li>3. Four Phases of Social Engineering (Reconnaissance, Engagement, Exploitation, Closure);</li><li>4. Building your artwork: What is elicitation? Elicitation Techniques.</li><li>5. I know how to make you like me: Building Rapport.</li><li>6. Examples of Real Social Engineering Attacks.</li><li>7. Now What? Skills you need to become a social engineer, and how to defend yourself.</li><li>8. Conclusion, final thoughts</li></i>"
-  id: 3
+  id: 5
 - time: 12:00 AM - 13:00 AM
   info: "<u>Lunch break</u><br><b>0 floor</b><br><i></i>"
   info2: "<u>Lunch break</u><br><b>0 floor</b><br><i></i>"
   info3: "<u>Lunch break</u><br><b>0 floor</b><br><i></i>"
-  id: 4
+  id: 6
 - time: 13:00 AM - 13:55 AM
   info: "TBD"
   info2: "TBD"
   info3: "<u>The Questionable State of ML(Ops) Security</u><br><b>Mikołaj Kowalczyk</b><br><i>In this session I will cover the state of MLOps security, I will demonstrate a few interesting ways of stealing OpenAI API keys and getting access to the self-deployed ML models owned by other people. I will also discuss OWASP Top10 for Machine Learning - a standard to which I contribute.</i>"
-  id: 5
+  id: 7
 - time: 14:00 AM - 14:55 AM
   info: "<u>TBD</u><br><b>TBD</b><br><i></i>"
   info2: "TBD"
   info3: "<u>Improving security with Kubernetes</u><br><b>Pedro Dallegrave</b><br><i>The idea behind this presentation is to present the challenges of vulnerability management and security hardening for cloud environments that leverage instance-based deployments, such as AWS EC2, that host stateless services and are constantly being scaled in and out. This presentation is based on a real-life scenario in which the golden image approach is used in combination with a slight amount of automation to ensure patching is performed. It highlights the pushback received from developers who want to avoid live patching as well as business pressure that doesn't want to have engineers allocated to tasks that are not directly related to feature development. A technical description of the current setup will be presented along with a service diagram. The proposed solution then uses a containerized environment, in this case, Kubernetes, but any other orchestration solution, like Nomad, for example, can use it. Two use cases will be presented for the solution: one based on a Jenkins deployment, which is mainly a static instance, and the second a random service that scales from 1-2 instances to up to 20 to satisfy demand. The amount of configuration and effort required to maintain them will be compared with running the same setup in Kubernetes, and these changes can considerably reduce the effort required from engineering teams to maintain the services. Examples of the benefits that can be achieved are: - There is no need to manage operating system updates or patches for dozens of services that are embedded into the OS or added for convenience. - Simplification of build and deployment processes - Ability to ensure everything is up-to-date from build to operation phase - Stricter hardening of the whole environment by reducing the number of required packages, restricting access, removing services like SSH, etc. - Leveraging a centralized access control mechanism</i>"
-  id: 6
+  id: 8
 - time: 15:00 AM - 15:55 AM
   info: "TBD"
   info2: "TBD"
   info3: "<u>Expanding Security Horizons: SIMD-Based Threats</u><br><b>Andrii Mytroshyn</b><br><i>The main goal of the talk is to give its participants a basic idea of attacks using GPU/SIMD, and provide an understanding why it is possible and why almost any system could be affected by such threads.</i>"
-  id: 7
+  id: 9
 - time: 16:00 AM - 16:55 AM
   info: "<u>TBD</u><br><b>TBD</b><br><i></i>"
   info2: "TBD"
-  info3: "TBD"
-  id: 8
+  info3: "<u>From Text to Flaws: vulnerabilities in applications with Generative AI and LLMs</u><br><b>Paul Molin</b><br><i>With the advent of ChatGPT and LLMs, a new world of possibilities has opened up in tech. The first use cases were quick to follow: new applications based on generative AI are being deployed in production every day. In this brand-new field, the race has begun between developers and security experts on the one hand, and attackers on the other. What are the risks of applications using LLMs? What practical means do developers have to protect themselves? This is what I'm going to talk about in this talk, explaining:<br />- how LLMs and the applications that leverage them work <br />- typical vulnerabilities in applications using generative AI (with juicy stories to back it up) <br />- countermeasures developers can take to protect their applications</i>"
+  id: 10
