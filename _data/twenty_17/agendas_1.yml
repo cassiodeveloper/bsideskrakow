@@ -41,7 +41,7 @@
 - time: 13:00 AM - 13:55 AM
   info: "TBD"
   info2: "TBD"
-  info3: "<u>The Questionable State of ML(Ops) Security</u><br><b>Mikołaj Kowalczyk</b><br><i>In this session I will cover the state of MLOps security, I will demonstrate a few interesting ways of stealing OpenAI API keys and getting access to the self-deployed ML models owned by other people. I will also discuss OWASP Top10 for Machine Learning - a standard to which I contribute.</i>"
+  info3: "TBD"
   id: 7
 - time: 14:00 AM - 14:55 AM
   info: "<u>TBD</u><br><b>TBD</b><br><i></i>"
