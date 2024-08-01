@@ -173,3 +173,12 @@
   alt: Pedro Dallegrave
   topic: K8S Security
   description: Security engineer who, after too much time breaking things, decided to become a DevOps engineer to fix them.
+
+- title: Julia Zduńczyk
+  name: Julia-Zduńczyk
+  subtitle: Pentester - SecuRing
+  img: julia-zdunczyk.jpg
+  thumbnail: julia-zdunczyk.jpg
+  alt: Julia Zduńczyk
+  topic: Offensive Security
+  description: Julia performs penetration tests for a wide range of IT Projects as an IT Security Specialist at SecuRing. Her main area of interest revolves around Red Teaming, specifically access control systems assessments, RFID hacking, social engineering and other related topics. As a Cybersecurity student at Academy of Science and Technology in Cracow, she had the opportunity to learn a wide range of IT security aspects from the beginning of her academic education. In her free time, she enjoys playing CTFs and researching attacks on access control systems. She presented her research at different conferences across Europe and has been selected as the top speaker at CONFidence Conference 2023 (Cracow, Poland) and best speaker at SEC-T 2023 (Stockholm, Sweden).
