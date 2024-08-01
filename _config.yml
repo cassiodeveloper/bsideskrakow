@@ -33,7 +33,9 @@ social:
   - title: instagram
     url: https://www.instagram.com/bsideskrakow  
   - title: facebook
-    url: https://www.facebook.com/bsideskrakow  
+    url: https://www.facebook.com/bsideskrakow
+  - title: shop
+    url: https://shop.bsideskrakow.pl
 
 # Build settings
 markdown: kramdown
