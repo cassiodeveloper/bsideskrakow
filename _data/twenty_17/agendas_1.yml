@@ -1,9 +1,9 @@
-- time: 08:00 AM - 08:50 AM
+- time: 08:00 AM - 08:45 AM
   info: "<u>Check-in (Reception)</u><br><b>Reception of participants</b><br><i>Bring your QR Code ticket on App!</i>"
   info2: "<u>Check-in (Reception)</u><br><b>Reception of participants</b><br><i>Bring your QR Code ticket on App!</i>"
   info3: "<u>Check-in (Reception)</u><br><b>Reception of participants</b><br><i>Bring your QR Code ticket on App!</i>"
   id: 0
-- time: 08:50 AM - 09:00 AM
+- time: 08:45 AM - 09:00 AM
   info: "<u>Opening</u><br><b>Cássio Pereira</b><br><i>BSides Kraków 2024 & 2025</i>"
   info2: "-"
   info3: "-"
@@ -24,7 +24,7 @@
   info3: "-"
   id: 3  
 - time: 10:00 AM - 10:55 AM
-  info: "<u>TBD</u><br><b>TBD</b><br><i></i>"
+  info: "-"
   info2: "<u>The Physical Security Blind Spot</u><br><b>Brian Harris aka CAT</b><br><i>Physical security in the forms of auditing security posture & black team engagements is an all to often overlooked part of security and arguably one of the most important. I have spent around 15 years performing physical security audits and black team engagements for governments, state entities and private corporations all over the world and I want to share some of the stories, concepts and security vulnerabilities involved with black teaming. From bugging corporate board rooms, stealing documents and generally getting into places that are suppose to be secure. No amount of cyber security will save you, if the attackers have physical access to your servers and hardware.</i>"
   info3: "<u>Demystifying Confidential Computing: A Practical Introduction for Cloud Native Engineers</u><br><b>Fabian Kammel</b><br><i>Confidential computing stands at the forefront of modern security paradigms, offering unprecedented levels of data protection in cloud environments. As cloud-native architectures become increasingly prevalent, understanding and leveraging confidential virtual machines (CVMs) is paramount for engineers tasked with safeguarding sensitive data. This talk aims to demystify confidential computing and provide cloud-native engineers with a practical introduction to integrating confidential VMs into their cloud infrastructures.</i>"
   id: 4
