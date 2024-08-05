@@ -220,3 +220,23 @@
   topic: Cloud Security
   description: DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker. My focus is on CALMS. I am building better understanding of DevOps as driver for the organization. I am devoted to Serverless and CI/CD. I authored the framework for design the CI/CD https://www.cicd.run/ Host of Last Week In IT and DevOps In Agile Way podcasts, and DevOps In Agile Way Youtube channel.
   twitter: pawelpiwosz
+
+- title: Brian Harris aka CAT
+  name: Brian-Harris
+  subtitle: European black team lead & physical security expert
+  img: brian-harris.png
+  thumbnail: brian-harris.png
+  alt: Brian Harris aka CAT
+  topic: Physical Security
+  description: I have spent the last 15 years working around the world in cyber and physical security. My most recent role was the European black team lead and the cyber team lead for the Nordic region for NCC Group. BS in mathematics and Computer Science and a MSc in Computer Science
+  twitter: Covert_Access
+
+- title: Marcelo Toran
+  name: Marcelo-Toran
+  subtitle: Senior Red Teamer
+  img: marcelo-toran.jpg
+  thumbnail: marcelo-toran.jpg
+  alt: Marcelo Toran
+  topic: Red Team
+  description: Marcelo is a seasoned Red Teamer, with experience in conducting advanced operations to challenge and improve organizational defenses. When not breaking stuff you might find him rolling down some sketchy trails with his bike.
+  twitter: spamv
