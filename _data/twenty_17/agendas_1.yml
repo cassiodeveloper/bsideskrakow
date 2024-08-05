@@ -55,6 +55,6 @@
   id: 9
 - time: 16:00 PM - 16:55 PM
   info: "<u>TBD</u><br><b>TBD</b><br><i></i>"
-  info2: "<u>TBD</u><br><b>TBD</b><br><i></i>"
+  info2: "<u>AI in Action: Enhancing Security with LLMs Agents.</u><br><b>Aliaksandr Rahavy & Mikayel Minasyan</b><br><i>In this presentation, we will discuss an overview of LLM agents' capabilities for handling routine and diverse tasks in cybersecurity. We will also explore the challenges involved in the development of LLM agents, review the achieved results, and consider the future of LLM agents in the field of cybersecurity.</i>"
   info3: "<u>From Text to Flaws: vulnerabilities in applications with Generative AI and LLMs</u><br><b>Paul Molin</b><br><i>With the advent of ChatGPT and LLMs, a new world of possibilities has opened up in tech. The first use cases were quick to follow: new applications based on generative AI are being deployed in production every day. In this brand-new field, the race has begun between developers and security experts on the one hand, and attackers on the other. What are the risks of applications using LLMs? What practical means do developers have to protect themselves? This is what I'm going to talk about in this talk, explaining:<br />- how LLMs and the applications that leverage them work <br />- typical vulnerabilities in applications using generative AI (with juicy stories to back it up) <br />- countermeasures developers can take to protect their applications</i>"
   id: 10

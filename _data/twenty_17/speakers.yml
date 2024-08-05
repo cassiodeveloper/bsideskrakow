@@ -268,3 +268,21 @@
   alt: Pawel Olbrycht
   topic: Compliance
   description: Master's degree in Computer Science, more than 5 years of experience in IT with half of it in security - SOC, infrastructure security, automation and compliance. Currently leaning towards offensive security.
+
+- title: Aliaksandr Rahavy
+  name: Aliaksandr-Rahavy
+  alt: Aliaksandr Rahavy
+  subtitle: Lead Security System Engineer, EPAM
+  img: aliaksandr-rahavy.jpg
+  thumbnail: aliaksandr-rahavy.jpg
+  topic: AI Security
+  description: I am the Lead Security System Engineer at EPAM, with over 12 years of experience in Cybersecurity. My areas of focus include Cloud Security, DevSecOps, and Application Security. I have played an engineering role in various projects and have driven learning initiatives inside my company. I enjoy simplifying complex concepts and engaging new talent in solving security challenges.
+
+- title: Mikayel Minasyan
+  name: Mikayel-Minasyan
+  alt: Mikayel Minasyan
+  subtitle: EPAM , Security Architect
+  img: mikayel-minasyan.jpg
+  thumbnail: mikayel-minasyan.jpg
+  topic: AI Security
+  description: Mikayel Minasyan is a seasoned Security Architect with extensive expertise in cybersecurity, compliance auditing, and enterprise-level security solutions. With over a decade of experience, he has successfully led security architecture overhauls, managed comprehensive audits to achieve PCI DSS and ISO compliance, and provided strategic security leadership across multiple projects. John holds industry-leading certifications such as CISSP, CCNA, AWS and Azure, validating his proficiency in various cybersecurity domains. His commitment to continuous improvement and educational leadership makes him a distinguished expert in enhancing security with AI and LLMs.
