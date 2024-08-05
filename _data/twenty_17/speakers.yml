@@ -240,3 +240,13 @@
   topic: Red Team
   description: Marcelo is a seasoned Red Teamer, with experience in conducting advanced operations to challenge and improve organizational defenses. When not breaking stuff you might find him rolling down some sketchy trails with his bike.
   twitter: spamv
+
+- title: Grzegorz Zagraba
+  name: Grzegorz-Zagraba
+  subtitle: Presales Engineer, GitProtect
+  img: grzegorz-zagraba.jpg
+  thumbnail: grzegorz-zagraba.jpg
+  alt: Grzegorz Zagraba
+  topic: DevOps Security
+  description: Gregory Zagraba has built a career around the intersection of technology and buyer enablement within the IT sector. With experience spanning various product and software development companies, he has a particular interest in enterprise data management and computer vision. His approach emphasizes understanding customer needs and guiding them towards effective solutions. Currently, Gregory is part of the GitProtect Team, focusing on the evolving landscape of Data Security for DevOps. Beyond his immediate professional roles, he's actively involved in the Polish startup scene. As the Chief Networking Officer of the Krakow City of Startups Foundation, Gregory collaborates with emerging pre-seed and seed startups, offering guidance on sales and product validation.
+  twitter: GitProtectio  
