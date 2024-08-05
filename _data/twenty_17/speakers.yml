@@ -174,15 +174,6 @@
   topic: K8S Security
   description: Security engineer who, after too much time breaking things, decided to become a DevOps engineer to fix them.
 
-- title: Julia Zduńczyk
-  name: Julia-Zduńczyk
-  subtitle: Pentester - SecuRing
-  img: julia-zdunczyk.jpg
-  thumbnail: julia-zdunczyk.jpg
-  alt: Julia Zduńczyk
-  topic: Offensive Security
-  description: Julia performs penetration tests for a wide range of IT Projects as an IT Security Specialist at SecuRing. Her main area of interest revolves around Red Teaming, specifically access control systems assessments, RFID hacking, social engineering and other related topics. As a Cybersecurity student at Academy of Science and Technology in Cracow, she had the opportunity to learn a wide range of IT security aspects from the beginning of her academic education. In her free time, she enjoys playing CTFs and researching attacks on access control systems. She presented her research at different conferences across Europe and has been selected as the top speaker at CONFidence Conference 2023 (Cracow, Poland) and best speaker at SEC-T 2023 (Stockholm, Sweden).
-
 - title: Elliot Ward
   name: Elliot-Ward
   subtitle: Senior Security Researcher - Snyk Security Labs
@@ -191,15 +182,6 @@
   alt: Elliot Ward
   topic: Offensive Security
   description: Elliot is a senior security researcher at software security company Snyk. He has a background in software engineering and application security.
-
-- title: Kamil Nowak
-  name: Kamil-Nowak
-  subtitle: T Security Engineer @ eSky
-  img: kamil-nowak.jpg
-  thumbnail: kamil-nowak.jpg
-  alt: Kamil Nowak
-  topic: OSINT & Forensics
-  description: By day, he tries to ommit or set firewalls; by night, he conquers actual walls, blending his passion for cybersecurity with the thrill of rock climbing.
 
 - title: Pawel Piwosz
   name: Pawel-Piwosz
@@ -211,25 +193,23 @@
   description: DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker. My focus is on CALMS. I am building better understanding of DevOps as driver for the organization. I am devoted to Serverless and CI/CD. I authored the framework for design the CI/CD https://www.cicd.run/ Host of Last Week In IT and DevOps In Agile Way podcasts, and DevOps In Agile Way Youtube channel.
   twitter: pawelpiwosz
 
-- title: Marcelo Toran
-  name: Marcelo-Toran
-  subtitle: Senior Red Teamer
-  img: marcelo-toran.jpg
-  thumbnail: marcelo-toran.jpg
-  alt: Marcelo Toran
-  topic: Red Team
-  description: Marcelo is a seasoned Red Teamer, with experience in conducting advanced operations to challenge and improve organizational defenses. When not breaking stuff you might find him rolling down some sketchy trails with his bike.
-  twitter: spamv
+- title: Kamil Nowak
+  name: Kamil-Nowak
+  subtitle: T Security Engineer @ eSky
+  img: kamil-nowak.jpg
+  thumbnail: kamil-nowak.jpg
+  alt: Kamil Nowak
+  topic: OSINT & Forensics
+  description: By day, he tries to ommit or set firewalls; by night, he conquers actual walls, blending his passion for cybersecurity with the thrill of rock climbing.
 
-- title: Brian Harris aka CAT
-  name: Brian-Harris
-  subtitle: European black team lead & physical security expert
-  img: brian-harris.png
-  thumbnail: brian-harris.png
-  alt: Brian Harris aka CAT
-  topic: Physical Security
-  description: I have spent the last 15 years working around the world in cyber and physical security. My most recent role was the European black team lead and the cyber team lead for the Nordic region for NCC Group. BS in mathematics and Computer Science and a MSc in Computer Science
-  twitter: Covert_Access
+- title: Julia Zduńczyk
+  name: Julia-Zduńczyk
+  subtitle: Pentester - SecuRing
+  img: julia-zdunczyk.jpg
+  thumbnail: julia-zdunczyk.jpg
+  alt: Julia Zduńczyk
+  topic: Offensive Security
+  description: Julia performs penetration tests for a wide range of IT Projects as an IT Security Specialist at SecuRing. Her main area of interest revolves around Red Teaming, specifically access control systems assessments, RFID hacking, social engineering and other related topics. As a Cybersecurity student at Academy of Science and Technology in Cracow, she had the opportunity to learn a wide range of IT security aspects from the beginning of her academic education. In her free time, she enjoys playing CTFs and researching attacks on access control systems. She presented her research at different conferences across Europe and has been selected as the top speaker at CONFidence Conference 2023 (Cracow, Poland) and best speaker at SEC-T 2023 (Stockholm, Sweden).
 
 - title: Grzegorz Zagraba
   name: Grzegorz-Zagraba
@@ -250,3 +230,23 @@
   topic: Biometric Security
   description: Professor Andrzej Grzywak’s student has been professionally involved in computer science and its applications for over 25 years, with a special emphasis on cybersecurity. Expert in biometrics, steganography, and machine learning applications in cybersecurity. Educator, research team leader, manager, futurologist, auditor, and strategic consultant. Animator of the cybersecurity-focused “1753c” community. Member of Mensa Polska, IEEE, ACM, ISSA, and ISACA. In private - pentester, startup mentor, collector, basketball enthusiast, and puzzle and logic game enthusiast.
   twitter: hpar3s
+
+- title: Marcelo Toran
+  name: Marcelo-Toran
+  subtitle: Senior Red Teamer
+  img: marcelo-toran.jpg
+  thumbnail: marcelo-toran.jpg
+  alt: Marcelo Toran
+  topic: Red Team
+  description: Marcelo is a seasoned Red Teamer, with experience in conducting advanced operations to challenge and improve organizational defenses. When not breaking stuff you might find him rolling down some sketchy trails with his bike.
+  twitter: spamv
+
+- title: Brian Harris aka CAT
+  name: Brian-Harris
+  subtitle: European black team lead & physical security expert
+  img: brian-harris.png
+  thumbnail: brian-harris.png
+  alt: Brian Harris aka CAT
+  topic: Physical Security
+  description: I have spent the last 15 years working around the world in cyber and physical security. My most recent role was the European black team lead and the cyber team lead for the Nordic region for NCC Group. BS in mathematics and Computer Science and a MSc in Computer Science
+  twitter: Covert_Access
