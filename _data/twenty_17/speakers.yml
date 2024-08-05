@@ -183,16 +183,6 @@
   topic: Offensive Security
   description: Julia performs penetration tests for a wide range of IT Projects as an IT Security Specialist at SecuRing. Her main area of interest revolves around Red Teaming, specifically access control systems assessments, RFID hacking, social engineering and other related topics. As a Cybersecurity student at Academy of Science and Technology in Cracow, she had the opportunity to learn a wide range of IT security aspects from the beginning of her academic education. In her free time, she enjoys playing CTFs and researching attacks on access control systems. She presented her research at different conferences across Europe and has been selected as the top speaker at CONFidence Conference 2023 (Cracow, Poland) and best speaker at SEC-T 2023 (Stockholm, Sweden).
 
-- title: Adrian Kapczyński aka Hpar3s
-  name: Adrian-Kapczyński
-  subtitle: Silesian University of Technology
-  img: adrian-kapczynski.jpg
-  thumbnail: adrian-kapczynski.jpg
-  alt: Adrian Kapczyński
-  topic: Biometric Security
-  description: Professor Andrzej Grzywak’s student has been professionally involved in computer science and its applications for over 25 years, with a special emphasis on cybersecurity. Expert in biometrics, steganography, and machine learning applications in cybersecurity. Educator, research team leader, manager, futurologist, auditor, and strategic consultant. Animator of the cybersecurity-focused “1753c” community. Member of Mensa Polska, IEEE, ACM, ISSA, and ISACA. In private - pentester, startup mentor, collector, basketball enthusiast, and puzzle and logic game enthusiast.
-  twitter: hpar3s
-
 - title: Elliot Ward
   name: Elliot-Ward
   subtitle: Senior Security Researcher - Snyk Security Labs
@@ -250,3 +240,13 @@
   topic: DevOps Security
   description: Gregory Zagraba has built a career around the intersection of technology and buyer enablement within the IT sector. With experience spanning various product and software development companies, he has a particular interest in enterprise data management and computer vision. His approach emphasizes understanding customer needs and guiding them towards effective solutions. Currently, Gregory is part of the GitProtect Team, focusing on the evolving landscape of Data Security for DevOps. Beyond his immediate professional roles, he's actively involved in the Polish startup scene. As the Chief Networking Officer of the Krakow City of Startups Foundation, Gregory collaborates with emerging pre-seed and seed startups, offering guidance on sales and product validation.
   twitter: GitProtectio  
+
+- title: Adrian Kapczyński aka Hpar3s
+  name: Adrian-Kapczyński
+  subtitle: Silesian University of Technology
+  img: adrian-kapczynski.jpg
+  thumbnail: adrian-kapczynski.jpg
+  alt: Adrian Kapczyński
+  topic: Biometric Security
+  description: Professor Andrzej Grzywak’s student has been professionally involved in computer science and its applications for over 25 years, with a special emphasis on cybersecurity. Expert in biometrics, steganography, and machine learning applications in cybersecurity. Educator, research team leader, manager, futurologist, auditor, and strategic consultant. Animator of the cybersecurity-focused “1753c” community. Member of Mensa Polska, IEEE, ACM, ISSA, and ISACA. In private - pentester, startup mentor, collector, basketball enthusiast, and puzzle and logic game enthusiast.
+  twitter: hpar3s
