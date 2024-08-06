@@ -286,3 +286,12 @@
   thumbnail: Mikayel Minasyan.jpeg
   topic: AI Security
   description: Mikayel Minasyan is a seasoned Security Architect with extensive expertise in cybersecurity, compliance auditing, and enterprise-level security solutions. With over a decade of experience, he has successfully led security architecture overhauls, managed comprehensive audits to achieve PCI DSS and ISO compliance, and provided strategic security leadership across multiple projects. Mikayel holds industry-leading certifications such as CISSP, CCNA, AWS and Azure, validating his proficiency in various cybersecurity domains. His commitment to continuous improvement and educational leadership makes him a distinguished expert in enhancing security with AI and LLMs.
+
+- title: Zhassulan Zhussupov aka cocomelonc
+  name: Zhassulan-Zhussupov
+  alt: Zhassulan Zhussupov aka cocomelonc
+  subtitle: Malware Analyst, Threat Hunter, MSSP LAB
+  img: zhassulan-zhussupov.jpg
+  thumbnail: zhassulan-zhussupov.jpg
+  topic: Malware
+  description: Cybersecurity enthusiast, author, speaker and mathematician. Author of popular books https://cocomelonc.github.io/book/2022/07/16/mybook.html https://cocomelonc.github.io/book/2023/12/13/malwild-book.html Author and tech reviewer at Packt Author of book https://packt.link/MalwareDevelopment Co founder of MSSP Research LAB, author of many cybersecurity blogs, HVCK magazine Malpedia contributor Speaker at BlackHat, Arab Security Conference, Hack.lu, Standoff, etc conferences
