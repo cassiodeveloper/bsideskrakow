@@ -296,3 +296,12 @@
   topic: Malware
   description: Cybersecurity enthusiast, author, speaker and mathematician. Author of popular books https://cocomelonc.github.io/book/2022/07/16/mybook.html https://cocomelonc.github.io/book/2023/12/13/malwild-book.html Author and tech reviewer at Packt Author of book https://packt.link/MalwareDevelopment Co founder of MSSP Research LAB, author of many cybersecurity blogs, HVCK magazine Malpedia contributor Speaker at BlackHat, Arab Security Conference, Hack.lu, Standoff, etc conferences
   twitter: cocomelonckz
+
+- title: Tomas Kirnak
+  name: Tomas-Kirnak
+  alt: Tomas Kirnak
+  subtitle: Team Lead @ NetCore j.s.a. (Unimus)
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  topic: Network Security
+  description: Tomas has been a network engineer and a network and infrastructure architect for a better part of 20 years. He has worked on many networks from small businesses, to regional ISPs, all the way to large enterprises and nation-wide telco networks; with security always being one of his priorities. He has presented on network security on many conferences, from exploit analysis, network defense techniques, to sitting on panel discussions with security consultants for the White House.
