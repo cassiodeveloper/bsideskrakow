@@ -8,10 +8,20 @@
   info2: "-"
   info3: "-"
   id: 0  
+- time: 09:00 AM - 09:30 AM
+  info: "-"
+  info2: "-"
+  info3: "<u>User input, business process and AI - what can go wrong? Real world examples</u><br><b>Paweł Kusiński</b><br><i>Quick intro about vulnerabilities we see in GenAI and then I will move on to the meaty part of the talk - 2 vulnerabilities I found out there in the wild, both rated as critical</i>"
+  id: 1
+- time: 09:30 AM - 10:00 AM
+  info: "-"
+  info2: "-"
+  info3: "<u>Troll Malware - Some man just want to see it burn!</u><br><b>Cássio Pereira</b><br><i>We will see how easy is to fuck up with systems, just for fun.</i>"
+  id: 1  
 - time: 09:00 AM - 09:55 AM
   info: "<u>Offensive Operations Against Foreign Adversaries: Russia</u><br><b>Steve Borosh aka rvrsh3ll</b><br><i>Steve Borosh started hacking the planet with Black Hills Information Security in 2021 and has been instructing offensive courses since 2015. Steve has instructed at conferences such as BlackHat and Wild West Hackin' Fest, for Fortune 500 companies, and for federal law enforcement. He currently annoys system administrators as part of the ANTISOC team at BHIS and enjoys releasing shock-and-awe research blogs and open-source tools to drive change in the industry.</i>"
   info2: "<u>Learning from Open Source: A Developer-First Approach to Security.</u><br><b>Fabian Kammel</b><br><i>Everyone is all too familiar with the stereotypical sticky-note with a password attached to a monitor, but we see equivalent security risks in our jobs, everyday! From sharing production secrets through insecure channels, to disregarding TLS server certificate validation. These are symptoms of a larger issue - 'Security at the expense of usability comes at the expense of security'. In this talk we will delve into the heart of this issue and show why adopting a developer-first approach is paramount when designing a secure system. We will distill design best-practices, from prominent and successful opensource projects such as Let's Encrypt and Sigstore. We contrast these with real-world scenarios, observed during security assessments in the industry, and show how the same best-practices could have lead to a system with higher adoption and therefore better security posture. Participants will be equipped with actionable strategies suited for simple scripts as well as complex CI/CD systems.</i>"
-  info3: "<u>Chessboard of War: Breaching the perimeter on physical cyber security engagements</u><br><b>Tayla Micael Sellschop</b><br><i>This presentation is designed to illustrate to participants the functioning of physical assessments in real-world scenarios. It delves into the conceptual and practical methodologies employed by offensive security analysts in gaining entry to a building and utilizing that access for subsequent internal exploits. This presentation additionally provides insights on optimal strategies to safeguard against external threats and enhance employee awareness regarding the risks associated with insufficient physical security measures on their premises. Attendees will leave with three key insights. Firstly, an understanding of the psychology behind social engineering and its dynamics within different cultural contexts. Secondly, awareness of various tools, including Raspberry Pi's, keyloggers, and card cloners, commonly employed in engagements. Lastly, they will gain knowledge of best practices, highlighting how organizations can fortify their physical security and enhance awareness to protect themselves.</i>"
+  info3: "-"
   id: 1
 - time: 10:00 AM - 10:30 AM
   info: "<b>Keynote</b><br /><u>If you want to be a CISO, then check this first</u><br><b>Brian Vlootman</b><br><i>If you’re aspiring to be a CISO, do you really know what you are getting into? This talk will cover the reality of being a CISO and an honest reflection of what you need to be a great CISO. There are many ways to grow as a security professional and they most always don’t end with the CISO role. But a better understanding of what that role is about may help you to grow faster.</i>"
