@@ -1,0 +1,308 @@
+- title: Rafaela Durlo
+  name: Rafaela-Durlo
+  subtitle: Security Architect
+  img: rafaela.jpg
+  thumbnail: rafaela.jpg
+  alt: Rafaela Durlo
+  topic: SAST, SCA, DAST
+  description: AppSec enginner helping companies have a sucefull build secure process, optimizing the AST tools and training securoty Champions and developers.
+
+- title: Yoad Fekete
+  name: Yoad-Fekete
+  subtitle: DevOps Engineer
+  img: yoad.jpg
+  thumbnail: yoad.jpg
+  alt: Yoad Fekete
+  topic: Supply Chain
+  description: I am a DevOps engineer with over 13 years of experience in IT, DevOps, and DevSecOps.I have designed, built hands-on, and secured complex Cloud & On-Prem projects in startups and corporates.It started from the Stone era when people deployed servers in racks. Creating infrastructure end to end, from the cable level up to the application level, was an immense privilege. In my last role, I led a group of DevOps engineers at Microsoft. Microsoft was one of the companies attacked by the Solarwinds attack, and my team was part of the incident response group. After that, we figured out that we are not protected from such future attacks - And so I started Myrror to tackle that problem.I'm a cat enthusiast, and in my non-existent spare time, I play the drums and some soccer.
+
+- title: Kirill Efimov
+  name: Kirill-Efimov
+  subtitle: Head of Research at Mobb
+  img: Kirill.jpg
+  thumbnail: Kirill.jpg
+  alt: Kirill Efimov
+  topic: AI Security
+  description: As a seasoned security researcher, I've led teams at Snyk and now helm security research at Mobb. With a wealth of publications and speaking engagements, I've delved deep into the intricacies of cybersecurity, unraveling vulnerabilities and crafting solutions. From pioneering research to impactful talks, my journey is fueled by a passion for safeguarding digital landscapes. Join me as I share insights, strategies, and innovations in the ever-evolving realm of cybersecurity.
+
+- title: Klaus Agnoletti
+  name: Klaus-Agnoletti
+  subtitle: Storytelling Cyber Security Advisor
+  img: klaus-agnoletti.png
+  thumbnail: klaus-agnoletti.png
+  alt: Klaus Agnoletti
+  topic: Cyber Games
+  description: Klaus Agnoletti has been an all-round infosec professional since 2004. He co-founded BSides København in 2019. Recently he started out as an infosec freelancer focusing on storytelling in marketing, employer branding, game-based learning or wherever new ideas bring him.
+
+- title: Mykola Kolomiiets
+  name: Mykola-Kolomiiets
+  subtitle: Solution Architect at NIX
+  img: mykola-kolomiiets.jpg
+  thumbnail: mykola-kolomiiets.jpg
+  alt: Mykola Kolomiiets
+  topic: Application Security - SDLC
+  description: Starting as a Full Stack Developer, I quickly mastered both front-end and back-end technologies, delivering innovative and integrated solutions. My transition to a Tech Lead role showcased my leadership and technical skills, leading complex projects to success. Diving into AI and cybersecurity, I enhanced our software's security and intelligence, leveraging my skills to drive innovation. Now, as a Solutions Architect, I blend my development, leadership, and technical expertise to architect solutions that align with business goals and drive digital transformation.
+
+- title: Mikołaj Kowalczyk
+  name: Mikołaj-Kowalczyk
+  subtitle: Security analyst @ Ardoq, LLM enthusiast @ hackstery.com
+  img: mikolaj-kowalczyk.jpg
+  thumbnail: mikolaj-kowalczyk.jpg
+  alt: Mikołaj Kowalczyk
+  topic: AI Security
+  description: Pentester, security specialist, LLM security enthusiast and hackathon addict from Poland, currently living in Norway.
+  twitter: m1k0ww
+
+- title: Steve Borosh aka rvrsh3ll
+  name: Steve-Borosh
+  subtitle: Instructor and Red Teamer, BHIS, FutureSec, LLC
+  img: steve-borosh.jpg
+  thumbnail: steve-borosh.jpg
+  alt: Steve Borosh aka rvrsh3ll
+  topic: Cyber War
+  description: Steve Borosh started hacking the planet with Black Hills Information Security in 2021 and has been instructing offensive courses since 2015. Steve has instructed at conferences such as BlackHat and Wild West Hackin' Fest, for Fortune 500 companies, and for federal law enforcement. He currently annoys system administrators as part of the ANTISOC team at BHIS and enjoys releasing shock-and-awe research blogs and open-source tools to drive change in the industry.
+  twitter: rvrsh3ll
+
+- title: Cassio Pereira
+  name: Cassio-Pereira
+  subtitle: Cyber Security Engineer
+  img: cassio.jpeg
+  thumbnail: cassio.jpeg
+  alt: Cassio Pereira
+  topic: Application Security
+  description: Cassio Batista Pereira, a.k.a. @cassiodeveloper, is a Software Developer and Architect by training. He acts as Cyber Security Engineer and thus helps companies and professionals to build more secure solutions. He has 19 years of experience in the Development market for the most varied business segments, where he gained knowledge to work with different technologies, programming languages and processes. He is an evangelist for the Safe Development culture.
+  twitter: cassiodeveloper
+
+- title: Marcos Santos
+  name: Marcos-Santos
+  subtitle: Security Researcher at Greenbone
+  img: 1657629111870.jpeg
+  thumbnail: 1657629111870.jpeg
+  alt: Marcos Santos
+  topic: AppSec
+  description: Systems analyst and Programmer from Brazil now living in Germany. I have always focused on information security and currently study Cyber Security programming. One of my differentials is that I like to pass on information and teach those who are entering in the area of Technology
+
+- title: Fabian Kammel
+  name: Fabian-Kammel
+  subtitle: Senior Security Consultant, ControlPlane
+  img: fabian-kammel.jpg
+  thumbnail: fabian-kammel.jpg
+  alt: Fabian Kammel
+  topic: Cloud Security
+  description: Fabian Kammel is a Senior Security Consultant at ControlPlane, where he helps to make the (cloud-native) world a safer place. His goal is to bring hardware security and cloud-native security closer together, as well as, improving the developer experience in the security space. He previously spoke at KubeCon, SigstoreCon, was a guest on the Kubernetes Podcast, and regular host of the CNCF TAG Security.
+  twitter: datosh18
+
+- title: Danish Tariq
+  name: Danish-Tariq
+  subtitle: Security Researcher
+  img: danish-tariq.jpeg
+  thumbnail: danish-tariq.jpeg
+  alt: Danish Tariq
+  topic: Secret Scanning
+  description: Danish Tariq is a Security Engineer by profession and a Security researcher by passion. He has been working in Cyber Security for over 8 years and it all started out of a curiosity to break things and look deep down into those things (physical or virtual) back in his teenage years. His major expertise is Penetration Testing and Vulnerability Assessments. He was also involved in bug bounty programs as well, where he helped many companies by finding vulnerabilities at different levels. Companies include Microsoft, Apple, Nokia, Blackberry, Adobe, etc.<ul><li>Spoke @ BlackHat MEA 2022 (Briefing - Supply-Chain Attacks)</li><li>Featured in "The Register" for an initial workaround for the NPM dependency attacks.</li><li>Certified Ethical Hacker, Certified Vulnerability Assessor (CVA), Certified AppSec Practitioner, Certified Network Security Specialist (CNSS), IBM Cyber Security Analyst</li><li>Ex-Chapter Leader @ OWASP</li><li>Ex-Top Rated freelancer (Information security category) on Upwork</li><li>Recent security research and CVEs include - CVE-2022-2848 & CVE-2022-25523</li><li>Served as a Moderator @ OWASP 2022 Global AppSec APAC.</li></ul>
+
+- title: Andrii Mytroshyn
+  name: Andrii-Mytroshyn
+  subtitle: Software Engineer at Carbon Black
+  img: andrii-mytroshyn.jpg
+  thumbnail: andrii-mytroshyn.jpg
+  alt: Andrii Mytroshyn
+  topic: Offensive Security
+  description: Samsung Electronics, computer graphics 6 years and 8 month. Visteon Corporation, computer graphics 5 years and 5 month. Carbon black, security 1 year and 4 month
+
+- title: Hassan Khan Yusufzai
+  name: Hassan-Khan-Yusufzai
+  subtitle: Security Researcher
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Hassan Khan Yusufzai
+  topic: Secret Scanning
+  description: Highly experienced Security Researcher with a proven track record of internet-wide scanning and Penetration Testing. A sought-after speaker, Hassan recently presented at the BlackHatMEA 2022 conference. His expertise extends to Ruby security, where he has conducted extensive research over the past few years. As a certified OSCP (Offensive Security Certified Professional), Hassan has also made a name for himself as a successful bug bounty hunter on both HackerOne and Bugcrowd. Hassan's achievements have earned him recognition in the industry, including inclusion in the Google Security Hall of Fame (2017), Twitter Security Hall of Fame (2017), and Microsoft Security Hall of Fame (2017). He has also conducted extensive research into WordPress security and won the HackFest CTF competition. In addition to his research, Hassan is also the developer of GemScanner.py and an npm scanner for account hijacking, further demonstrating his commitment to the security field and his skills as a developer.
+  twitter: Splint3r7
+
+- title: Dorota Kozlowska
+  name: Dorota-Kozlowska
+  subtitle: Wonder Woman of Cyber
+  img: dorota-kozlowska.jpg
+  thumbnail: dorota-kozlowska.jpg
+  alt: Dorota Kozlowska
+  topic: Social Engineering
+  description: Dorota Kozlowska dreamed of becoming a hacker since her youngest days, and then one day she decided that it is time to take that leap of faith and change her life for the one she envisioned for herself. As a certified cybersecurity specialist, she shares why she established herself in the cybersecurity industry to 'be the senior you needed when you were a junior', and tries to empower other women to become cybersecurity specialists. This is why she shares her learning journey, tips on how she became a cybersecurity professional, as well as useful learning and motivational material to help others build courage and follow their dreams - the way she did. She also enjoys sharing knowledge and insights as an international keynote speaker. Dorota is passionate about the Red Team, and Black Ops part of the Cyber Universe, as she worked as a Penetration tester for a few years, but now at Yogosha is responsible for building and growing the Hacker community, and ensuring the Hackers are successful at their endeavors just as a Hacker Success Manager should. Recognition - the Cyber Woman Hope (Europe) trophy handed out by CEFCYS, and 40 under 40 in Cybersecurity 2023 from the Top Cyber News Magazine. She loves gaining new skills and learning about new technologies. Possesses a strong investigative mindset with attention to detail, loves challenges, and on top of that she is a genuinely nice person. Degrees in Economics (Masters), Management and Marketing (Bachelors), and Computer Science (Post-grad). An avid cyclist, archer, guitar player, and adventurer.
+
+- title: Brian Vlootman
+  name: Brian-Vlootman
+  subtitle: CISO
+  img: brian-vlootman.jpg
+  thumbnail: brian-vlootman.jpg
+  alt: Brian Vlootman
+  topic: Keynote
+  description: Brian Vlootman is a pragmatic and passionate information security professional with more than 25 years of experience in information security in both technical and leadership roles. He’s currently serving as Backbase’s Chief Information Security Officer, tackling the challenges of empowering hundreds of developer and ops team to deliver secure banking applications.
+
+- title: John Strand
+  name: John-Strand
+  subtitle: CEO
+  img: strand.jpeg
+  thumbnail: strand.jpeg
+  alt: John Strand
+  topic: Keynote
+  description: John is the owner of Black Hills Information Security, a company specializing in penetration testing and security architecture services. He feels strongly that education is how the world of information security will change for the better and spends a considerable amount of time teaching and presenting around the world. He has presented for the FBI, NASA, the NSA, DefCon and is a frequent guest on Enterprise Security Weekly. In his spare time he writes loud rock music and makes various futile attempts at fly-fishing
+
+- title: Paweł Kusiński
+  name: Paweł-Kusiński
+  subtitle: Penetration Tester & Security Researcher
+  img: pawel-kusinski.jpeg
+  thumbnail: pawel-kusinski.jpeg
+  alt: Paweł Kusiński
+  topic: AI Security
+  description: Paweł is a Penetration Tester and Security Researcher at Snowflake, focusing on app and cloud security. He likes to share his knowledge by leading various workshops, giving conference talks, and teaching at universities. AWS Community Builder. In his free time, he is a CTF player (member of justCatTheFish) and enjoys buying too many Legos, despite the lack of space for more.
+  twitter: _pkusik
+
+- title: Paul Molin
+  name: Paul-Molin
+  subtitle: Web Application Security Evangelist at Theodo
+  img: paul-molin.jpg
+  thumbnail: paul-molin.jpg
+  alt: Paul Molin
+  topic: AI Security
+  description: After training in information systems security, he joins Theodo in 2013 and becomes passionate about web development. Very quickly, he specializes in security issues by helping Theodo teams to succeed in their post-production audits. He eventually becomes group CISO, and he is committed to creating a security culture in a developer company. He loves giving talks, especially to help developers understand the cybersecurity world. Convinced that it is developers who will change the world of cybersecurity, he leads trainings and develops tools to help them code flawlessly the first time.
+
+- title: Pedro-Dallegrave
+  name: Pedro-Dallegrave
+  subtitle: Engineering Manager - Platform
+  img: pedro-dallegrave.jpg
+  thumbnail: pedro-dallegrave.jpg
+  alt: Pedro Dallegrave
+  topic: K8S Security
+  description: Security engineer who, after too much time breaking things, decided to become a DevOps engineer to fix them.
+
+- title: Elliot Ward
+  name: Elliot-Ward
+  subtitle: Senior Security Researcher - Snyk Security Labs
+  img: elliot-ward.png
+  thumbnail: elliot-ward.png
+  alt: Elliot Ward
+  topic: Offensive Security
+  description: Elliot is a senior security researcher at software security company Snyk. He has a background in software engineering and application security.
+
+- title: Pawel Piwosz
+  name: Pawel-Piwosz
+  subtitle: DevOps in Agile way
+  img: pawel.png
+  thumbnail: pawel.png
+  alt: Pawel Piwosz
+  topic: Cloud Security
+  description: DevOps Institute Ambassador. CD.Foundation Ambassador. AWS Community Builder. Engineer, leader, mentor, speaker. My focus is on CALMS. I am building better understanding of DevOps as driver for the organization. I am devoted to Serverless and CI/CD. I authored the framework for design the CI/CD https://www.cicd.run/ Host of Last Week In IT and DevOps In Agile Way podcasts, and DevOps In Agile Way Youtube channel.
+  twitter: pawelpiwosz
+
+- title: Kamil Nowak
+  name: Kamil-Nowak
+  subtitle: IT Security Engineer @ eSky
+  img: kamil-nowak.jpg
+  thumbnail: kamil-nowak.jpg
+  alt: Kamil Nowak
+  topic: OSINT & Forensics
+  description: By day, he tries to ommit or set firewalls; by night, he conquers actual walls, blending his passion for cybersecurity with the thrill of rock climbing.
+
+- title: Julia Zduńczyk
+  name: Julia-Zduńczyk
+  subtitle: Pentester - SecuRing
+  img: julia-zdunczyk.jpg
+  thumbnail: julia-zdunczyk.jpg
+  alt: Julia Zduńczyk
+  topic: Offensive Security
+  description: Julia performs penetration tests for a wide range of IT Projects as an IT Security Specialist at SecuRing. Her main area of interest revolves around Red Teaming, specifically access control systems assessments, RFID hacking, social engineering and other related topics. As a Cybersecurity student at Academy of Science and Technology in Cracow, she had the opportunity to learn a wide range of IT security aspects from the beginning of her academic education. In her free time, she enjoys playing CTFs and researching attacks on access control systems. She presented her research at different conferences across Europe and has been selected as the top speaker at CONFidence Conference 2023 (Cracow, Poland) and best speaker at SEC-T 2023 (Stockholm, Sweden).
+
+- title: Grzegorz Zagraba
+  name: Grzegorz-Zagraba
+  subtitle: Presales Engineer, GitProtect
+  img: grzegorz-zagraba.jpg
+  thumbnail: grzegorz-zagraba.jpg
+  alt: Grzegorz Zagraba
+  topic: DevOps Security
+  description: Gregory Zagraba has built a career around the intersection of technology and buyer enablement within the IT sector. With experience spanning various product and software development companies, he has a particular interest in enterprise data management and computer vision. His approach emphasizes understanding customer needs and guiding them towards effective solutions. Currently, Gregory is part of the GitProtect Team, focusing on the evolving landscape of Data Security for DevOps. Beyond his immediate professional roles, he's actively involved in the Polish startup scene. As the Chief Networking Officer of the Krakow City of Startups Foundation, Gregory collaborates with emerging pre-seed and seed startups, offering guidance on sales and product validation.
+  twitter: GitProtectio  
+
+- title: Marcelo Toran
+  name: Marcelo-Toran
+  subtitle: Senior Red Teamer
+  img: marcelo-toran.jpg
+  thumbnail: marcelo-toran.jpg
+  alt: Marcelo Toran
+  topic: Red Team
+  description: Marcelo is a seasoned Red Teamer, with experience in conducting advanced operations to challenge and improve organizational defenses. When not breaking stuff you might find him rolling down some sketchy trails with his bike.
+  twitter: spamv
+
+- title: Brian Harris aka CAT
+  name: Brian-Harris
+  subtitle: European black team lead & physical security expert
+  img: brian-harris.png
+  thumbnail: brian-harris.png
+  alt: Brian Harris aka CAT
+  topic: Physical Security
+  description: I have spent the last 15 years working around the world in cyber and physical security. My most recent role was the European black team lead and the cyber team lead for the Nordic region for NCC Group. BS in mathematics and Computer Science and a MSc in Computer Science
+  twitter: Covert_Access
+
+- title: Jonathan Bevers
+  name: Jonathan-Bevers
+  subtitle: Director
+  img: 1624637457397.jpeg
+  thumbnail: 1624637457397.jpeg
+  alt: Jonathan Bevers
+  topic: Security Trainings & Games
+  description: I have been working in dynamic content creation for over 20 years. Live streamed audio and video, movie and film production, training and distance learning, animation, augmented reality, live events, video and practical games, websites, blogs, music and more. I manage projects and direct teams around the world to produce creative content. I source talented resources to complete projects while maintaining timelines to meet deadlines. I work with executives, directors and managers to ensure that all produced content meets all scoped requirements, and stays within budget.
+
+- title: Adrian Kapczyński aka Hpar3s
+  name: Adrian-Kapczyński
+  subtitle: Silesian University of Technology
+  img: adrian-kapczynski.jpg
+  thumbnail: adrian-kapczynski.jpg
+  alt: Adrian Kapczyński
+  topic: Biometric Security
+  description: Professor Andrzej Grzywak’s student has been professionally involved in computer science and its applications for over 25 years, with a special emphasis on cybersecurity. Expert in biometrics, steganography, and machine learning applications in cybersecurity. Educator, research team leader, manager, futurologist, auditor, and strategic consultant. Animator of the cybersecurity-focused “1753c” community. Member of Mensa Polska, IEEE, ACM, ISSA, and ISACA. In private - pentester, startup mentor, collector, basketball enthusiast, and puzzle and logic game enthusiast.
+  twitter: hpar3s
+  
+- title: Pawel Olbrycht
+  name: Pawel-Olbrycht
+  subtitle: Senior Security Analyst @ Zendesk
+  img: pawel-olbrycht.jpg
+  thumbnail: pawel-olbrycht.jpg
+  alt: Pawel Olbrycht
+  topic: Compliance
+  description: Master's degree in Computer Science, more than 5 years of experience in IT with half of it in security - SOC, infrastructure security, automation and compliance. Currently leaning towards offensive security.
+
+- title: Aliaksandr Rahavy
+  name: Aliaksandr-Rahavy
+  alt: Aliaksandr Rahavy
+  subtitle: Lead Security System Engineer at EPAM
+  img: aliaksandr-rahavy.jpg
+  thumbnail: aliaksandr-rahavy.jpg
+  topic: AI Security
+  description: I am the Lead Security System Engineer at EPAM, with over 12 years of experience in Cybersecurity. My areas of focus include Cloud Security, DevSecOps, and Application Security. I have played an engineering role in various projects and have driven learning initiatives inside my company. I enjoy simplifying complex concepts and engaging new talent in solving security challenges.
+
+- title: Mikayel Minasyan
+  name: Mikayel-Minasyan
+  alt: Mikayel Minasyan
+  subtitle: Security Architect at EPAM
+  img: Mikayel Minasyan.jpeg
+  thumbnail: Mikayel Minasyan.jpeg
+  topic: AI Security
+  description: Mikayel Minasyan is a seasoned Security Architect with extensive expertise in cybersecurity, compliance auditing, and enterprise-level security solutions. With over a decade of experience, he has successfully led security architecture overhauls, managed comprehensive audits to achieve PCI DSS and ISO compliance, and provided strategic security leadership across multiple projects. Mikayel holds industry-leading certifications such as CISSP, CCNA, AWS and Azure, validating his proficiency in various cybersecurity domains. His commitment to continuous improvement and educational leadership makes him a distinguished expert in enhancing security with AI and LLMs.
+
+- title: Zhassulan Zhussupov aka cocomelonc
+  name: Zhassulan-Zhussupov
+  alt: Zhassulan Zhussupov aka cocomelonc
+  subtitle: Malware Analyst, Threat Hunter, MSSP LAB
+  img: zhassulan-zhussupov.jpg
+  thumbnail: zhassulan-zhussupov.jpg
+  topic: Malware
+  description: Cybersecurity enthusiast, author, speaker and mathematician. Author of popular books https://cocomelonc.github.io/book/2022/07/16/mybook.html https://cocomelonc.github.io/book/2023/12/13/malwild-book.html Author and tech reviewer at Packt Author of book https://packt.link/MalwareDevelopment Co founder of MSSP Research LAB, author of many cybersecurity blogs, HVCK magazine Malpedia contributor Speaker at BlackHat, Arab Security Conference, Hack.lu, Standoff, etc conferences
+  twitter: cocomelonckz
+
+- title: Tomas Kirnak
+  name: Tomas-Kirnak
+  alt: Tomas Kirnak
+  subtitle: Team Lead @ NetCore j.s.a. (Unimus)
+  img: IVI_7793.jpg
+  thumbnail: IVI_7793.jpg
+  topic: Network Security
+  description: Tomas has been a network engineer and a network and infrastructure architect for a better part of 20 years. He has worked on many networks from small businesses, to regional ISPs, all the way to large enterprises and nation-wide telco networks; with security always being one of his priorities. He has presented on network security on many conferences, from exploit analysis, network defense techniques, to sitting on panel discussions with security consultants for the White House.
