@@ -1,3 +1,12 @@
+- title: Cassio Pereira
+  name: Cassio-Pereira
+  subtitle: AppSec Expert, BSides Kraków Founder & Coordinator
+  img: cassio.png
+  thumbnail: cassio.png
+  alt: Cassio Pereira
+  topic: Application Security & DevSecOps
+  description: Cassio Batista Pereira, a.k.a. @cassiodeveloper, is a Software Developer and Architect by training. He acts as Cyber Security Engineer and thus helps companies and professionals to build more secure solutions. He has 19 years of experience in the Development market for the most varied business segments, where he gained knowledge to work with different technologies, programming languages and processes. He is an evangelist for the Safe Development culture.
+
 - title: Julio Cesar Fort
   name: Julio-Cesar-Fort
   subtitle: Offensive cybersecurity
@@ -15,15 +24,6 @@
   alt: Fernando
   topic: Blue Team
   description: Cyber Security professional, open-source and free software enthusiast with over a decade in the IT industry. Helping people and companies around the world protect their privacy and business.
-
-- title: Cassio Pereira
-  name: Cassio-Pereira
-  subtitle: AppSec Expert, BSides Kraków Founder & Coordinator
-  img: cassio.png
-  thumbnail: cassio.png
-  alt: Cassio Pereira
-  topic: Application Security & DevSecOps
-  description: Cassio Batista Pereira, a.k.a. @cassiodeveloper, is a Software Developer and Architect by training. He acts as Cyber Security Engineer and thus helps companies and professionals to build more secure solutions. He has 19 years of experience in the Development market for the most varied business segments, where he gained knowledge to work with different technologies, programming languages and processes. He is an evangelist for the Safe Development culture.
 
 - title: Alicja Nowak
   name: Alicja-Nowak
