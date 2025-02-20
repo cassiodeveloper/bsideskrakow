@@ -13,16 +13,16 @@
   img: fernando.jpeg
   thumbnail: fernando.jpeg
   alt: Fernando
-  topic: Topic
+  topic: Blue Team
   description: Cyber Security professional, open-source and free software enthusiast with over a decade in the IT industry. Helping people and companies around the world protect their privacy and business.
 
 - title: Cassio Pereira
   name: Cassio-Pereira
-  subtitle: Cyber Security Engineer, BSides Kraków Founder & Coordinator
-  img: cassio.jpeg
-  thumbnail: cassio.jpeg
+  subtitle: AppSec Expert, BSides Kraków Founder & Coordinator
+  img: cassio.png
+  thumbnail: cassio.png
   alt: Cassio Pereira
-  topic: Application Security
+  topic: Application Security & DevSecOps
   description: Cassio Batista Pereira, a.k.a. @cassiodeveloper, is a Software Developer and Architect by training. He acts as Cyber Security Engineer and thus helps companies and professionals to build more secure solutions. He has 19 years of experience in the Development market for the most varied business segments, where he gained knowledge to work with different technologies, programming languages and processes. He is an evangelist for the Safe Development culture.
 
 - title: Alicja Nowak
@@ -58,7 +58,7 @@
   img: rafaela.jpg
   thumbnail: rafaela.jpg
   alt: Rafaela Durlo
-  topic: SAST, SCA, DAST
+  topic: Application Security
   description: AppSec enginner helping companies have a sucefull build secure process, optimizing the AST tools and training securoty Champions and developers.
 
 - title: Paweł Kusiński
@@ -69,3 +69,13 @@
   alt: Paweł Kusiński
   topic: Cloud Security
   description: Paweł is a Penetration Tester and Security Researcher at Snowflake, focusing on app and cloud security. He performs penetration tests and infrastructure audits for a wide range of IT projects. He likes to share his knowledge by leading various workshops, giving conference talks, and teaching at universities. AWS Community Builder. In his free time, he is a CTF player (member of justCatTheFish) and enjoys buying too many Legos, despite the lack of space for more.
+
+- title: Gr1nch
+  name: Gr1nch
+  subtitle: Pentester
+  img: rener.jpg
+  thumbnail: rener.jpg
+  alt: Gr1nch
+  topic: Offensive Security
+  description: My name is Rener Alberto and I have 15 years of experience in Cyber Security with focus on Penetration Testing. I'm a CTF player, pentester, researcher and speaker on cyber security related events.  
+  twitter: Gr1nchDC  
