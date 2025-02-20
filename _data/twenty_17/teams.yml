@@ -9,7 +9,7 @@
 
 - title: Fernando
   name: Fernando
-  subtitle: Cyber Security Engineer
+  subtitle: Blue Team Specialist
   img: fernando.jpeg
   thumbnail: fernando.jpeg
   alt: Fernando
@@ -27,7 +27,7 @@
 
 - title: Alex Sveleba
   name: Alex-Sveleba
-  subtitle: Offensive cybersecurity | Pentesting & Application Security
+  subtitle: Offensive Security | Pentesting
   img: alex.jpg
   thumbnail: alex.jpg
   alt: Alex
@@ -36,11 +36,11 @@
 
 - title: Julio Cesar Fort
   name: Julio-Cesar-Fort
-  subtitle: Offensive cybersecurity
+  subtitle: Offensive Security
   img: julio-cesar.png
   thumbnail: julio-cesar.png
   alt: Julio Cesar Fort
-  topic: Offensive cybersecurity
+  topic: Offensive Security
   description: Computer hacker turned into entrepreneur. I am a managing partner at Blaze Information Security, a provider of cybersecurity assurance, penetration testing and application security to enterprises and startups with strong focus in Europe, United States and Latin America. Contact me to discuss how we can help your organization protect from cyber threats.
 
 - title: Markiyan Chaklosh
@@ -63,11 +63,11 @@
 
 - title: Gr1nch
   name: Gr1nch
-  subtitle: Pentester
+  subtitle: Red Team Specialist
   img: rener.jpg
   thumbnail: rener.jpg
   alt: Gr1nch
-  topic: Offensive Security
+  topic: Red Team Specialist
   description: My name is Rener Alberto and I have 15 years of experience in Cyber Security with focus on Penetration Testing. I'm a CTF player, pentester, researcher and speaker on cyber security related events.  
   twitter: Gr1nchDC  
 
