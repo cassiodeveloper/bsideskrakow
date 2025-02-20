@@ -7,15 +7,6 @@
   topic: Application Security & DevSecOps
   description: Cassio Batista Pereira, a.k.a. @cassiodeveloper, is a Software Developer and Architect by training. He acts as Cyber Security Engineer and thus helps companies and professionals to build more secure solutions. He has 19 years of experience in the Development market for the most varied business segments, where he gained knowledge to work with different technologies, programming languages and processes. He is an evangelist for the Safe Development culture.
 
-- title: Julio Cesar Fort
-  name: Julio-Cesar-Fort
-  subtitle: Offensive cybersecurity
-  img: julio-cesar.png
-  thumbnail: julio-cesar.png
-  alt: Julio Cesar Fort
-  topic: Offensive cybersecurity
-  description: Computer hacker turned into entrepreneur. I am a managing partner at Blaze Information Security, a provider of cybersecurity assurance, penetration testing and application security to enterprises and startups with strong focus in Europe, United States and Latin America. Contact me to discuss how we can help your organization protect from cyber threats.
-
 - title: Fernando
   name: Fernando
   subtitle: Cyber Security Engineer
@@ -40,8 +31,17 @@
   img: alex.jpg
   thumbnail: alex.jpg
   alt: Alex
-  topic: Offensive cybersecurity | Pentesting & Application Security
+  topic: Offensive cybersecurity | Pentesting
   description: I find it extremely rewarding and satisfactory to connect the right people, professionals, and companies with each other so we can cover their needs, solve problems and create solutions
+
+- title: Julio Cesar Fort
+  name: Julio-Cesar-Fort
+  subtitle: Offensive cybersecurity
+  img: julio-cesar.png
+  thumbnail: julio-cesar.png
+  alt: Julio Cesar Fort
+  topic: Offensive cybersecurity
+  description: Computer hacker turned into entrepreneur. I am a managing partner at Blaze Information Security, a provider of cybersecurity assurance, penetration testing and application security to enterprises and startups with strong focus in Europe, United States and Latin America. Contact me to discuss how we can help your organization protect from cyber threats.
 
 - title: Markiyan Chaklosh
   name: Markiyan-Chaklosh
@@ -61,15 +61,6 @@
   topic: Application Security
   description: AppSec enginner helping companies have a sucefull build secure process, optimizing the AST tools and training securoty Champions and developers.
 
-- title: Paweł Kusiński
-  name: Paweł-Kusiński
-  subtitle: Penetration Tester & Security Researcher
-  img: pawel-kusinski.jpeg
-  thumbnail: pawel-kusinski.jpeg
-  alt: Paweł Kusiński
-  topic: Cloud Security
-  description: Paweł is a Penetration Tester and Security Researcher at Snowflake, focusing on app and cloud security. He performs penetration tests and infrastructure audits for a wide range of IT projects. He likes to share his knowledge by leading various workshops, giving conference talks, and teaching at universities. AWS Community Builder. In his free time, he is a CTF player (member of justCatTheFish) and enjoys buying too many Legos, despite the lack of space for more.
-
 - title: Gr1nch
   name: Gr1nch
   subtitle: Pentester
@@ -79,3 +70,12 @@
   topic: Offensive Security
   description: My name is Rener Alberto and I have 15 years of experience in Cyber Security with focus on Penetration Testing. I'm a CTF player, pentester, researcher and speaker on cyber security related events.  
   twitter: Gr1nchDC  
+
+- title: Paweł Kusiński
+  name: Paweł-Kusiński
+  subtitle: Penetration Tester & Security Researcher
+  img: pawel-kusinski.jpeg
+  thumbnail: pawel-kusinski.jpeg
+  alt: Paweł Kusiński
+  topic: Cloud Security
+  description: Paweł is a Penetration Tester and Security Researcher at Snowflake, focusing on app and cloud security. He performs penetration tests and infrastructure audits for a wide range of IT projects. He likes to share his knowledge by leading various workshops, giving conference talks, and teaching at universities. AWS Community Builder. In his free time, he is a CTF player (member of justCatTheFish) and enjoys buying too many Legos, despite the lack of space for more.
